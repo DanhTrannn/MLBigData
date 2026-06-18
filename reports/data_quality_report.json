@@ -1,0 +1,206 @@
+{
+  "total_records": 100,
+  "issues": [
+    {
+      "food_id": "F016",
+      "field": "fiber_g",
+      "issue": "zero_value"
+    },
+    {
+      "food_id": "F017",
+      "field": "fiber_g",
+      "issue": "zero_value"
+    },
+    {
+      "food_id": "F018",
+      "field": "fiber_g",
+      "issue": "zero_value"
+    },
+    {
+      "food_id": "F034",
+      "field": "fiber_g",
+      "issue": "zero_value"
+    },
+    {
+      "food_id": "F035",
+      "field": "fiber_g",
+      "issue": "zero_value"
+    },
+    {
+      "food_id": "F041",
+      "field": "fiber_g",
+      "issue": "zero_value"
+    },
+    {
+      "food_id": "F061",
+      "field": "fiber_g",
+      "issue": "zero_value"
+    },
+    {
+      "food_id": "F062",
+      "field": "fiber_g",
+      "issue": "zero_value"
+    },
+    {
+      "food_id": "F064",
+      "field": "fat_g",
+      "issue": "zero_value"
+    },
+    {
+      "food_id": "F064",
+      "field": "fiber_g",
+      "issue": "zero_value"
+    },
+    {
+      "food_id": "F065",
+      "field": "fiber_g",
+      "issue": "zero_value"
+    },
+    {
+      "food_id": "F066",
+      "field": "protein_g",
+      "issue": "zero_value"
+    },
+    {
+      "food_id": "F066",
+      "field": "fat_g",
+      "issue": "zero_value"
+    },
+    {
+      "food_id": "F066",
+      "field": "fiber_g",
+      "issue": "zero_value"
+    },
+    {
+      "food_id": "F069",
+      "field": "fiber_g",
+      "issue": "zero_value"
+    },
+    {
+      "food_id": "F078",
+      "field": "sugar_g",
+      "issue": "zero_value"
+    },
+    {
+      "food_id": "F078",
+      "field": "fiber_g",
+      "issue": "zero_value"
+    },
+    {
+      "food_id": "F079",
+      "field": "sugar_g",
+      "issue": "zero_value"
+    },
+    {
+      "food_id": "F079",
+      "field": "fiber_g",
+      "issue": "zero_value"
+    },
+    {
+      "food_id": "F084",
+      "field": "fiber_g",
+      "issue": "zero_value"
+    },
+    {
+      "food_id": "F085",
+      "field": "fat_g",
+      "issue": "zero_value"
+    },
+    {
+      "food_id": "F087",
+      "field": "fat_g",
+      "issue": "zero_value"
+    },
+    {
+      "food_id": "F088",
+      "field": "fat_g",
+      "issue": "zero_value"
+    },
+    {
+      "food_id": "F089",
+      "field": "fat_g",
+      "issue": "zero_value"
+    },
+    {
+      "food_id": "F090",
+      "field": "fat_g",
+      "issue": "zero_value"
+    },
+    {
+      "food_id": "F091",
+      "field": "fiber_g",
+      "issue": "zero_value"
+    },
+    {
+      "food_id": "F096",
+      "field": "fiber_g",
+      "issue": "zero_value"
+    }
+  ],
+  "field_coverage": {
+    "calories_kcal": {
+      "non_zero_count": 100,
+      "coverage_pct": 100.0,
+      "min": 40.0,
+      "max": 680.0,
+      "mean": 324.7
+    },
+    "protein_g": {
+      "non_zero_count": 99,
+      "coverage_pct": 99.0,
+      "min": 0.0,
+      "max": 35.0,
+      "mean": 16.86
+    },
+    "carb_g": {
+      "non_zero_count": 100,
+      "coverage_pct": 100.0,
+      "min": 1.0,
+      "max": 75.0,
+      "mean": 33.64
+    },
+    "fat_g": {
+      "non_zero_count": 93,
+      "coverage_pct": 93.0,
+      "min": 0.0,
+      "max": 35.0,
+      "mean": 13.49
+    },
+    "sugar_g": {
+      "non_zero_count": 98,
+      "coverage_pct": 98.0,
+      "min": 0.0,
+      "max": 35.0,
+      "mean": 6.4
+    },
+    "fiber_g": {
+      "non_zero_count": 83,
+      "coverage_pct": 83.0,
+      "min": 0.0,
+      "max": 6.0,
+      "mean": 2.2
+    },
+    "sodium_mg": {
+      "non_zero_count": 100,
+      "coverage_pct": 100.0,
+      "min": 1.0,
+      "max": 1500.0,
+      "mean": 650.76
+    },
+    "serving_size_g": {
+      "non_zero_count": 100,
+      "coverage_pct": 100.0,
+      "min": 120.0,
+      "max": 600.0,
+      "mean": 316.6
+    },
+    "cost_estimate": {
+      "non_zero_count": 100,
+      "coverage_pct": 100.0,
+      "min": 5000.0,
+      "max": 80000.0,
+      "mean": 31880.0
+    }
+  },
+  "duplicate_pairs": []
+}

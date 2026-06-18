@@ -1,0 +1,40 @@
+{
+  "total_users": 500,
+  "age_stats": {
+    "min": 18,
+    "max": 75,
+    "mean": 46.62,
+    "count": 500
+  },
+  "bmi_stats": {
+    "min": 11.8,
+    "max": 54.6,
+    "mean": 28.14,
+    "count": 500
+  },
+  "disease_counts": {
+    "hypertension": 95,
+    "gout": 55,
+    "diabetes": 57
+  },
+  "allergy_counts": {
+    "shellfish": 21,
+    "fish": 10,
+    "soy": 10,
+    "wheat": 2,
+    "peanut": 18,
+    "milk": 16,
+    "egg": 5
+  },
+  "activity_counts": {
+    "sedentary": 141,
+    "moderate": 134,
+    "light": 174,
+    "high": 51
+  },
+  "goal_counts": {
+    "maintain": 265,
+    "lose": 152,
+    "gain": 83
+  }
+}

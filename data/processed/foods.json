@@ -1,0 +1,3504 @@
+[
+  {
+    "food_id": "F001",
+    "name": "Phở bò",
+    "meal_types": [
+      "breakfast",
+      "lunch",
+      "dinner"
+    ],
+    "ingredients": [
+      "rice_noodle",
+      "beef",
+      "onion",
+      "scallion",
+      "ginger",
+      "fish_sauce"
+    ],
+    "serving_size_g": 450.0,
+    "calories_kcal": 420.0,
+    "protein_g": 28.0,
+    "carb_g": 52.0,
+    "fat_g": 12.0,
+    "sugar_g": 3.0,
+    "fiber_g": 2.0,
+    "sodium_mg": 980.0,
+    "purine_level": "moderate",
+    "cost_estimate": 45000.0,
+    "diet_tags": [
+      "high_protein",
+      "vietnamese"
+    ],
+    "source": "ProteinNAP",
+    "source_version": "v1",
+    "quality_flags": [],
+    "allergen_tags": [
+      "fish"
+    ]
+  },
+  {
+    "food_id": "F002",
+    "name": "Phở gà",
+    "meal_types": [
+      "breakfast",
+      "lunch",
+      "dinner"
+    ],
+    "ingredients": [
+      "rice_noodle",
+      "chicken",
+      "onion",
+      "scallion",
+      "ginger",
+      "fish_sauce"
+    ],
+    "serving_size_g": 450.0,
+    "calories_kcal": 380.0,
+    "protein_g": 25.0,
+    "carb_g": 50.0,
+    "fat_g": 10.0,
+    "sugar_g": 2.0,
+    "fiber_g": 2.0,
+    "sodium_mg": 850.0,
+    "purine_level": "low",
+    "cost_estimate": 40000.0,
+    "diet_tags": [
+      "high_protein",
+      "vietnamese"
+    ],
+    "source": "ProteinNAP",
+    "source_version": "v1",
+    "quality_flags": [],
+    "allergen_tags": [
+      "fish"
+    ]
+  },
+  {
+    "food_id": "F003",
+    "name": "Bún bò Huế",
+    "meal_types": [
+      "breakfast",
+      "lunch",
+      "dinner"
+    ],
+    "ingredients": [
+      "rice_noodle",
+      "beef",
+      "pork",
+      "lemongrass",
+      "chili",
+      "shrimp_paste"
+    ],
+    "serving_size_g": 500.0,
+    "calories_kcal": 520.0,
+    "protein_g": 30.0,
+    "carb_g": 55.0,
+    "fat_g": 20.0,
+    "sugar_g": 4.0,
+    "fiber_g": 3.0,
+    "sodium_mg": 1200.0,
+    "purine_level": "high",
+    "cost_estimate": 50000.0,
+    "diet_tags": [
+      "high_protein",
+      "spicy",
+      "vietnamese"
+    ],
+    "source": "ProteinNAP",
+    "source_version": "v1",
+    "quality_flags": [],
+    "allergen_tags": []
+  },
+  {
+    "food_id": "F004",
+    "name": "Bún chả",
+    "meal_types": [
+      "lunch",
+      "dinner"
+    ],
+    "ingredients": [
+      "rice_noodle",
+      "pork",
+      "lettuce",
+      "herbs",
+      "fish_sauce"
+    ],
+    "serving_size_g": 450.0,
+    "calories_kcal": 480.0,
+    "protein_g": 22.0,
+    "carb_g": 58.0,
+    "fat_g": 18.0,
+    "sugar_g": 8.0,
+    "fiber_g": 3.0,
+    "sodium_mg": 1100.0,
+    "purine_level": "moderate",
+    "cost_estimate": 45000.0,
+    "diet_tags": [
+      "high_protein",
+      "vietnamese"
+    ],
+    "source": "ProteinNAP",
+    "source_version": "v1",
+    "quality_flags": [],
+    "allergen_tags": [
+      "fish"
+    ]
+  },
+  {
+    "food_id": "F005",
+    "name": "Bánh mì thịt",
+    "meal_types": [
+      "breakfast",
+      "lunch"
+    ],
+    "ingredients": [
+      "baguette",
+      "pork",
+      "pate",
+      "cucumber",
+      "pickled_carrot",
+      "cilantro"
+    ],
+    "serving_size_g": 250.0,
+    "calories_kcal": 450.0,
+    "protein_g": 18.0,
+    "carb_g": 52.0,
+    "fat_g": 18.0,
+    "sugar_g": 5.0,
+    "fiber_g": 3.0,
+    "sodium_mg": 1050.0,
+    "purine_level": "moderate",
+    "cost_estimate": 25000.0,
+    "diet_tags": [
+      "vietnamese"
+    ],
+    "source": "ProteinNAP",
+    "source_version": "v1",
+    "quality_flags": [],
+    "allergen_tags": [
+      "wheat"
+    ]
+  },
+  {
+    "food_id": "F006",
+    "name": "Cơm tấm sườn",
+    "meal_types": [
+      "lunch",
+      "dinner"
+    ],
+    "ingredients": [
+      "rice",
+      "pork_rib",
+      "egg",
+      "pickled_vegetables",
+      "fish_sauce"
+    ],
+    "serving_size_g": 500.0,
+    "calories_kcal": 650.0,
+    "protein_g": 30.0,
+    "carb_g": 72.0,
+    "fat_g": 25.0,
+    "sugar_g": 5.0,
+    "fiber_g": 2.0,
+    "sodium_mg": 1100.0,
+    "purine_level": "moderate",
+    "cost_estimate": 45000.0,
+    "diet_tags": [
+      "high_protein",
+      "vietnamese"
+    ],
+    "source": "ProteinNAP",
+    "source_version": "v1",
+    "quality_flags": [],
+    "allergen_tags": [
+      "egg",
+      "fish"
+    ]
+  },
+  {
+    "food_id": "F007",
+    "name": "Cơm gà",
+    "meal_types": [
+      "breakfast",
+      "lunch",
+      "dinner"
+    ],
+    "ingredients": [
+      "rice",
+      "chicken",
+      "ginger",
+      "fish_sauce",
+      "cucumber"
+    ],
+    "serving_size_g": 450.0,
+    "calories_kcal": 550.0,
+    "protein_g": 28.0,
+    "carb_g": 65.0,
+    "fat_g": 18.0,
+    "sugar_g": 2.0,
+    "fiber_g": 1.0,
+    "sodium_mg": 900.0,
+    "purine_level": "low",
+    "cost_estimate": 40000.0,
+    "diet_tags": [
+      "high_protein",
+      "vietnamese"
+    ],
+    "source": "ProteinNAP",
+    "source_version": "v1",
+    "quality_flags": [],
+    "allergen_tags": [
+      "fish"
+    ]
+  },
+  {
+    "food_id": "F008",
+    "name": "Cháo gà",
+    "meal_types": [
+      "breakfast",
+      "dinner"
+    ],
+    "ingredients": [
+      "rice",
+      "chicken",
+      "ginger",
+      "scallion",
+      "fish_sauce"
+    ],
+    "serving_size_g": 400.0,
+    "calories_kcal": 320.0,
+    "protein_g": 20.0,
+    "carb_g": 40.0,
+    "fat_g": 8.0,
+    "sugar_g": 1.0,
+    "fiber_g": 1.0,
+    "sodium_mg": 750.0,
+    "purine_level": "low",
+    "cost_estimate": 35000.0,
+    "diet_tags": [
+      "high_protein",
+      "vietnamese"
+    ],
+    "source": "ProteinNAP",
+    "source_version": "v1",
+    "quality_flags": [],
+    "allergen_tags": [
+      "fish"
+    ]
+  },
+  {
+    "food_id": "F009",
+    "name": "Xôi đậu xanh",
+    "meal_types": [
+      "breakfast"
+    ],
+    "ingredients": [
+      "sticky_rice",
+      "mung_bean",
+      "salt",
+      "sugar"
+    ],
+    "serving_size_g": 250.0,
+    "calories_kcal": 380.0,
+    "protein_g": 12.0,
+    "carb_g": 65.0,
+    "fat_g": 8.0,
+    "sugar_g": 5.0,
+    "fiber_g": 3.0,
+    "sodium_mg": 200.0,
+    "purine_level": "low",
+    "cost_estimate": 20000.0,
+    "diet_tags": [
+      "low_sodium",
+      "vegetarian",
+      "vietnamese"
+    ],
+    "source": "ProteinNAP",
+    "source_version": "v1",
+    "quality_flags": [],
+    "allergen_tags": []
+  },
+  {
+    "food_id": "F010",
+    "name": "Xôi gà",
+    "meal_types": [
+      "breakfast",
+      "lunch"
+    ],
+    "ingredients": [
+      "sticky_rice",
+      "chicken",
+      "fried_onion"
+    ],
+    "serving_size_g": 300.0,
+    "calories_kcal": 450.0,
+    "protein_g": 22.0,
+    "carb_g": 55.0,
+    "fat_g": 15.0,
+    "sugar_g": 2.0,
+    "fiber_g": 2.0,
+    "sodium_mg": 650.0,
+    "purine_level": "low",
+    "cost_estimate": 30000.0,
+    "diet_tags": [
+      "high_protein",
+      "vietnamese"
+    ],
+    "source": "ProteinNAP",
+    "source_version": "v1",
+    "quality_flags": [],
+    "allergen_tags": []
+  },
+  {
+    "food_id": "F011",
+    "name": "Gỏi cuốn",
+    "meal_types": [
+      "lunch",
+      "dinner",
+      "snack"
+    ],
+    "ingredients": [
+      "rice_paper",
+      "shrimp",
+      "pork",
+      "lettuce",
+      "herbs",
+      "rice_noodle"
+    ],
+    "serving_size_g": 200.0,
+    "calories_kcal": 180.0,
+    "protein_g": 12.0,
+    "carb_g": 22.0,
+    "fat_g": 5.0,
+    "sugar_g": 2.0,
+    "fiber_g": 2.0,
+    "sodium_mg": 400.0,
+    "purine_level": "low",
+    "cost_estimate": 25000.0,
+    "diet_tags": [
+      "low_calorie",
+      "seafood",
+      "vietnamese"
+    ],
+    "source": "ProteinNAP",
+    "source_version": "v1",
+    "quality_flags": [],
+    "allergen_tags": [
+      "shellfish"
+    ]
+  },
+  {
+    "food_id": "F012",
+    "name": "Chả giò",
+    "meal_types": [
+      "lunch",
+      "dinner",
+      "snack"
+    ],
+    "ingredients": [
+      "rice_paper",
+      "pork",
+      "carrot",
+      "mushroom",
+      "glass_noodle"
+    ],
+    "serving_size_g": 150.0,
+    "calories_kcal": 320.0,
+    "protein_g": 12.0,
+    "carb_g": 28.0,
+    "fat_g": 18.0,
+    "sugar_g": 2.0,
+    "fiber_g": 2.0,
+    "sodium_mg": 600.0,
+    "purine_level": "moderate",
+    "cost_estimate": 30000.0,
+    "diet_tags": [
+      "vietnamese"
+    ],
+    "source": "ProteinNAP",
+    "source_version": "v1",
+    "quality_flags": [],
+    "allergen_tags": []
+  },
+  {
+    "food_id": "F013",
+    "name": "Canh chua cá",
+    "meal_types": [
+      "lunch",
+      "dinner"
+    ],
+    "ingredients": [
+      "fish",
+      "tomato",
+      "pineapple",
+      "bean_sprout",
+      "tamarind",
+      "herbs"
+    ],
+    "serving_size_g": 350.0,
+    "calories_kcal": 280.0,
+    "protein_g": 22.0,
+    "carb_g": 20.0,
+    "fat_g": 12.0,
+    "sugar_g": 6.0,
+    "fiber_g": 3.0,
+    "sodium_mg": 800.0,
+    "purine_level": "moderate",
+    "cost_estimate": 40000.0,
+    "diet_tags": [
+      "high_protein",
+      "seafood",
+      "vietnamese"
+    ],
+    "source": "ProteinNAP",
+    "source_version": "v1",
+    "quality_flags": [],
+    "allergen_tags": [
+      "fish"
+    ]
+  },
+  {
+    "food_id": "F014",
+    "name": "Canh rau muống",
+    "meal_types": [
+      "lunch",
+      "dinner"
+    ],
+    "ingredients": [
+      "water_spinach",
+      "garlic",
+      "fish_sauce"
+    ],
+    "serving_size_g": 300.0,
+    "calories_kcal": 80.0,
+    "protein_g": 4.0,
+    "carb_g": 8.0,
+    "fat_g": 3.0,
+    "sugar_g": 2.0,
+    "fiber_g": 3.0,
+    "sodium_mg": 600.0,
+    "purine_level": "low",
+    "cost_estimate": 15000.0,
+    "diet_tags": [
+      "low_calorie",
+      "vegetarian",
+      "vietnamese"
+    ],
+    "source": "ProteinNAP",
+    "source_version": "v1",
+    "quality_flags": [],
+    "allergen_tags": [
+      "fish"
+    ]
+  },
+  {
+    "food_id": "F015",
+    "name": "Cá kho tộ",
+    "meal_types": [
+      "lunch",
+      "dinner"
+    ],
+    "ingredients": [
+      "catfish",
+      "coconut_water",
+      "fish_sauce",
+      "sugar",
+      "pepper"
+    ],
+    "serving_size_g": 300.0,
+    "calories_kcal": 350.0,
+    "protein_g": 28.0,
+    "carb_g": 15.0,
+    "fat_g": 20.0,
+    "sugar_g": 8.0,
+    "fiber_g": 1.0,
+    "sodium_mg": 1200.0,
+    "purine_level": "moderate",
+    "cost_estimate": 45000.0,
+    "diet_tags": [
+      "high_protein",
+      "vietnamese"
+    ],
+    "source": "ProteinNAP",
+    "source_version": "v1",
+    "quality_flags": [],
+    "allergen_tags": [
+      "fish"
+    ]
+  },
+  {
+    "food_id": "F016",
+    "name": "Thịt kho tàu",
+    "meal_types": [
+      "lunch",
+      "dinner"
+    ],
+    "ingredients": [
+      "pork_belly",
+      "egg",
+      "coconut_water",
+      "fish_sauce",
+      "sugar"
+    ],
+    "serving_size_g": 350.0,
+    "calories_kcal": 480.0,
+    "protein_g": 25.0,
+    "carb_g": 18.0,
+    "fat_g": 35.0,
+    "sugar_g": 6.0,
+    "fiber_g": 0.0,
+    "sodium_mg": 1100.0,
+    "purine_level": "moderate",
+    "cost_estimate": 50000.0,
+    "diet_tags": [
+      "high_protein",
+      "vietnamese"
+    ],
+    "source": "ProteinNAP",
+    "source_version": "v1",
+    "quality_flags": [],
+    "allergen_tags": [
+      "egg",
+      "fish"
+    ]
+  },
+  {
+    "food_id": "F017",
+    "name": "Gà kho gừng",
+    "meal_types": [
+      "lunch",
+      "dinner"
+    ],
+    "ingredients": [
+      "chicken",
+      "ginger",
+      "fish_sauce",
+      "sugar"
+    ],
+    "serving_size_g": 300.0,
+    "calories_kcal": 320.0,
+    "protein_g": 28.0,
+    "carb_g": 8.0,
+    "fat_g": 18.0,
+    "sugar_g": 3.0,
+    "fiber_g": 0.0,
+    "sodium_mg": 950.0,
+    "purine_level": "low",
+    "cost_estimate": 40000.0,
+    "diet_tags": [
+      "high_protein",
+      "vietnamese"
+    ],
+    "source": "ProteinNAP",
+    "source_version": "v1",
+    "quality_flags": [],
+    "allergen_tags": [
+      "fish"
+    ]
+  },
+  {
+    "food_id": "F018",
+    "name": "Tôm rang",
+    "meal_types": [
+      "lunch",
+      "dinner"
+    ],
+    "ingredients": [
+      "shrimp",
+      "garlic",
+      "fish_sauce",
+      "sugar",
+      "scallion"
+    ],
+    "serving_size_g": 250.0,
+    "calories_kcal": 280.0,
+    "protein_g": 25.0,
+    "carb_g": 10.0,
+    "fat_g": 15.0,
+    "sugar_g": 4.0,
+    "fiber_g": 0.0,
+    "sodium_mg": 900.0,
+    "purine_level": "high",
+    "cost_estimate": 55000.0,
+    "diet_tags": [
+      "high_protein",
+      "seafood",
+      "vietnamese"
+    ],
+    "source": "ProteinNAP",
+    "source_version": "v1",
+    "quality_flags": [],
+    "allergen_tags": [
+      "shellfish",
+      "fish"
+    ]
+  },
+  {
+    "food_id": "F019",
+    "name": "Đậu hũ sốt cà",
+    "meal_types": [
+      "lunch",
+      "dinner"
+    ],
+    "ingredients": [
+      "tofu",
+      "tomato",
+      "scallion",
+      "fish_sauce"
+    ],
+    "serving_size_g": 250.0,
+    "calories_kcal": 220.0,
+    "protein_g": 15.0,
+    "carb_g": 12.0,
+    "fat_g": 14.0,
+    "sugar_g": 4.0,
+    "fiber_g": 2.0,
+    "sodium_mg": 700.0,
+    "purine_level": "low",
+    "cost_estimate": 20000.0,
+    "diet_tags": [
+      "low_calorie",
+      "vegetarian",
+      "vietnamese"
+    ],
+    "source": "ProteinNAP",
+    "source_version": "v1",
+    "quality_flags": [],
+    "allergen_tags": [
+      "soy",
+      "fish"
+    ]
+  },
+  {
+    "food_id": "F020",
+    "name": "Rau muống xào tỏi",
+    "meal_types": [
+      "lunch",
+      "dinner"
+    ],
+    "ingredients": [
+      "water_spinach",
+      "garlic",
+      "oil",
+      "fish_sauce"
+    ],
+    "serving_size_g": 200.0,
+    "calories_kcal": 120.0,
+    "protein_g": 4.0,
+    "carb_g": 8.0,
+    "fat_g": 8.0,
+    "sugar_g": 2.0,
+    "fiber_g": 3.0,
+    "sodium_mg": 550.0,
+    "purine_level": "low",
+    "cost_estimate": 15000.0,
+    "diet_tags": [
+      "low_calorie",
+      "vegetarian",
+      "vietnamese"
+    ],
+    "source": "ProteinNAP",
+    "source_version": "v1",
+    "quality_flags": [],
+    "allergen_tags": [
+      "fish"
+    ]
+  },
+  {
+    "food_id": "F021",
+    "name": "Cơm chiên dương châu",
+    "meal_types": [
+      "lunch",
+      "dinner"
+    ],
+    "ingredients": [
+      "rice",
+      "egg",
+      "shrimp",
+      "pork",
+      "carrot",
+      "pea",
+      "scallion"
+    ],
+    "serving_size_g": 400.0,
+    "calories_kcal": 520.0,
+    "protein_g": 20.0,
+    "carb_g": 62.0,
+    "fat_g": 22.0,
+    "sugar_g": 3.0,
+    "fiber_g": 3.0,
+    "sodium_mg": 1000.0,
+    "purine_level": "moderate",
+    "cost_estimate": 40000.0,
+    "diet_tags": [
+      "high_protein",
+      "seafood",
+      "vietnamese"
+    ],
+    "source": "ProteinNAP",
+    "source_version": "v1",
+    "quality_flags": [],
+    "allergen_tags": [
+      "shellfish",
+      "egg"
+    ]
+  },
+  {
+    "food_id": "F022",
+    "name": "Mì xào bò",
+    "meal_types": [
+      "lunch",
+      "dinner"
+    ],
+    "ingredients": [
+      "wheat_noodle",
+      "beef",
+      "vegetables",
+      "soy_sauce",
+      "oyster_sauce"
+    ],
+    "serving_size_g": 400.0,
+    "calories_kcal": 480.0,
+    "protein_g": 25.0,
+    "carb_g": 52.0,
+    "fat_g": 18.0,
+    "sugar_g": 4.0,
+    "fiber_g": 3.0,
+    "sodium_mg": 1200.0,
+    "purine_level": "moderate",
+    "cost_estimate": 45000.0,
+    "diet_tags": [
+      "high_protein",
+      "vietnamese"
+    ],
+    "source": "ProteinNAP",
+    "source_version": "v1",
+    "quality_flags": [],
+    "allergen_tags": [
+      "soy",
+      "wheat"
+    ]
+  },
+  {
+    "food_id": "F023",
+    "name": "Hủ tiếu",
+    "meal_types": [
+      "breakfast",
+      "lunch",
+      "dinner"
+    ],
+    "ingredients": [
+      "rice_noodle",
+      "pork",
+      "shrimp",
+      "bean_sprout",
+      "herbs",
+      "fish_sauce"
+    ],
+    "serving_size_g": 450.0,
+    "calories_kcal": 400.0,
+    "protein_g": 22.0,
+    "carb_g": 48.0,
+    "fat_g": 14.0,
+    "sugar_g": 3.0,
+    "fiber_g": 2.0,
+    "sodium_mg": 950.0,
+    "purine_level": "moderate",
+    "cost_estimate": 35000.0,
+    "diet_tags": [
+      "high_protein",
+      "seafood",
+      "vietnamese"
+    ],
+    "source": "ProteinNAP",
+    "source_version": "v1",
+    "quality_flags": [],
+    "allergen_tags": [
+      "shellfish",
+      "fish"
+    ]
+  },
+  {
+    "food_id": "F024",
+    "name": "Bánh cuốn",
+    "meal_types": [
+      "breakfast"
+    ],
+    "ingredients": [
+      "rice_sheet",
+      "pork",
+      "mushroom",
+      "fish_sauce",
+      "herbs"
+    ],
+    "serving_size_g": 250.0,
+    "calories_kcal": 300.0,
+    "protein_g": 12.0,
+    "carb_g": 38.0,
+    "fat_g": 12.0,
+    "sugar_g": 2.0,
+    "fiber_g": 1.0,
+    "sodium_mg": 700.0,
+    "purine_level": "low",
+    "cost_estimate": 25000.0,
+    "diet_tags": [
+      "vietnamese"
+    ],
+    "source": "ProteinNAP",
+    "source_version": "v1",
+    "quality_flags": [],
+    "allergen_tags": [
+      "fish"
+    ]
+  },
+  {
+    "food_id": "F025",
+    "name": "Bún riêu",
+    "meal_types": [
+      "breakfast",
+      "lunch"
+    ],
+    "ingredients": [
+      "rice_noodle",
+      "crab",
+      "tomato",
+      "tofu",
+      "herbs",
+      "fish_sauce"
+    ],
+    "serving_size_g": 450.0,
+    "calories_kcal": 380.0,
+    "protein_g": 20.0,
+    "carb_g": 45.0,
+    "fat_g": 14.0,
+    "sugar_g": 5.0,
+    "fiber_g": 3.0,
+    "sodium_mg": 1050.0,
+    "purine_level": "high",
+    "cost_estimate": 40000.0,
+    "diet_tags": [
+      "high_protein",
+      "seafood",
+      "vietnamese"
+    ],
+    "source": "ProteinNAP",
+    "source_version": "v1",
+    "quality_flags": [],
+    "allergen_tags": [
+      "shellfish",
+      "soy",
+      "fish"
+    ]
+  },
+  {
+    "food_id": "F026",
+    "name": "Chè đậu xanh",
+    "meal_types": [
+      "snack"
+    ],
+    "ingredients": [
+      "mung_bean",
+      "sugar",
+      "coconut_milk"
+    ],
+    "serving_size_g": 200.0,
+    "calories_kcal": 250.0,
+    "protein_g": 6.0,
+    "carb_g": 42.0,
+    "fat_g": 8.0,
+    "sugar_g": 28.0,
+    "fiber_g": 2.0,
+    "sodium_mg": 50.0,
+    "purine_level": "low",
+    "cost_estimate": 15000.0,
+    "diet_tags": [
+      "low_calorie",
+      "low_sodium",
+      "vegetarian",
+      "vietnamese"
+    ],
+    "source": "ProteinNAP",
+    "source_version": "v1",
+    "quality_flags": [],
+    "allergen_tags": []
+  },
+  {
+    "food_id": "F027",
+    "name": "Chè ba màu",
+    "meal_types": [
+      "snack"
+    ],
+    "ingredients": [
+      "red_bean",
+      "mung_bean",
+      "jelly",
+      "sugar",
+      "coconut_milk",
+      "ice"
+    ],
+    "serving_size_g": 300.0,
+    "calories_kcal": 320.0,
+    "protein_g": 8.0,
+    "carb_g": 55.0,
+    "fat_g": 10.0,
+    "sugar_g": 35.0,
+    "fiber_g": 3.0,
+    "sodium_mg": 80.0,
+    "purine_level": "low",
+    "cost_estimate": 20000.0,
+    "diet_tags": [
+      "low_sodium",
+      "vegetarian",
+      "vietnamese"
+    ],
+    "source": "ProteinNAP",
+    "source_version": "v1",
+    "quality_flags": [],
+    "allergen_tags": []
+  },
+  {
+    "food_id": "F028",
+    "name": "Trái cây dĩa",
+    "meal_types": [
+      "snack"
+    ],
+    "ingredients": [
+      "mango",
+      "watermelon",
+      "pineapple",
+      "dragon_fruit"
+    ],
+    "serving_size_g": 250.0,
+    "calories_kcal": 150.0,
+    "protein_g": 2.0,
+    "carb_g": 38.0,
+    "fat_g": 1.0,
+    "sugar_g": 28.0,
+    "fiber_g": 4.0,
+    "sodium_mg": 10.0,
+    "purine_level": "low",
+    "cost_estimate": 25000.0,
+    "diet_tags": [
+      "low_calorie",
+      "low_sodium",
+      "vegetarian",
+      "vietnamese"
+    ],
+    "source": "ProteinNAP",
+    "source_version": "v1",
+    "quality_flags": [],
+    "allergen_tags": []
+  },
+  {
+    "food_id": "F029",
+    "name": "Sữa đậu nành",
+    "meal_types": [
+      "breakfast",
+      "snack"
+    ],
+    "ingredients": [
+      "soy_milk",
+      "sugar"
+    ],
+    "serving_size_g": 250.0,
+    "calories_kcal": 120.0,
+    "protein_g": 7.0,
+    "carb_g": 15.0,
+    "fat_g": 4.0,
+    "sugar_g": 12.0,
+    "fiber_g": 1.0,
+    "sodium_mg": 80.0,
+    "purine_level": "low",
+    "cost_estimate": 10000.0,
+    "diet_tags": [
+      "low_calorie",
+      "low_sodium",
+      "vegetarian",
+      "vietnamese"
+    ],
+    "source": "ProteinNAP",
+    "source_version": "v1",
+    "quality_flags": [],
+    "allergen_tags": [
+      "soy"
+    ]
+  },
+  {
+    "food_id": "F030",
+    "name": "Bánh bao",
+    "meal_types": [
+      "breakfast",
+      "snack"
+    ],
+    "ingredients": [
+      "wheat_flour",
+      "pork",
+      "egg",
+      "mushroom"
+    ],
+    "serving_size_g": 150.0,
+    "calories_kcal": 320.0,
+    "protein_g": 12.0,
+    "carb_g": 38.0,
+    "fat_g": 14.0,
+    "sugar_g": 3.0,
+    "fiber_g": 2.0,
+    "sodium_mg": 650.0,
+    "purine_level": "moderate",
+    "cost_estimate": 15000.0,
+    "diet_tags": [
+      "vietnamese"
+    ],
+    "source": "ProteinNAP",
+    "source_version": "v1",
+    "quality_flags": [],
+    "allergen_tags": [
+      "egg",
+      "wheat"
+    ]
+  },
+  {
+    "food_id": "F031",
+    "name": "Cơm chay",
+    "meal_types": [
+      "lunch",
+      "dinner"
+    ],
+    "ingredients": [
+      "rice",
+      "tofu",
+      "vegetables",
+      "mushroom",
+      "soy_sauce"
+    ],
+    "serving_size_g": 400.0,
+    "calories_kcal": 380.0,
+    "protein_g": 15.0,
+    "carb_g": 58.0,
+    "fat_g": 10.0,
+    "sugar_g": 5.0,
+    "fiber_g": 6.0,
+    "sodium_mg": 800.0,
+    "purine_level": "low",
+    "cost_estimate": 30000.0,
+    "diet_tags": [
+      "vegetarian",
+      "vietnamese"
+    ],
+    "source": "ProteinNAP",
+    "source_version": "v1",
+    "quality_flags": [],
+    "allergen_tags": [
+      "soy"
+    ]
+  },
+  {
+    "food_id": "F032",
+    "name": "Phở chay",
+    "meal_types": [
+      "breakfast",
+      "lunch",
+      "dinner"
+    ],
+    "ingredients": [
+      "rice_noodle",
+      "tofu",
+      "vegetables",
+      "mushroom"
+    ],
+    "serving_size_g": 400.0,
+    "calories_kcal": 300.0,
+    "protein_g": 12.0,
+    "carb_g": 45.0,
+    "fat_g": 8.0,
+    "sugar_g": 3.0,
+    "fiber_g": 4.0,
+    "sodium_mg": 700.0,
+    "purine_level": "low",
+    "cost_estimate": 35000.0,
+    "diet_tags": [
+      "vegetarian",
+      "vietnamese"
+    ],
+    "source": "ProteinNAP",
+    "source_version": "v1",
+    "quality_flags": [],
+    "allergen_tags": [
+      "soy"
+    ]
+  },
+  {
+    "food_id": "F033",
+    "name": "Bò lúc lắc",
+    "meal_types": [
+      "lunch",
+      "dinner"
+    ],
+    "ingredients": [
+      "beef",
+      "bell_pepper",
+      "onion",
+      "garlic",
+      "soy_sauce",
+      "oyster_sauce"
+    ],
+    "serving_size_g": 300.0,
+    "calories_kcal": 420.0,
+    "protein_g": 32.0,
+    "carb_g": 12.0,
+    "fat_g": 28.0,
+    "sugar_g": 3.0,
+    "fiber_g": 2.0,
+    "sodium_mg": 1000.0,
+    "purine_level": "moderate",
+    "cost_estimate": 65000.0,
+    "diet_tags": [
+      "high_protein",
+      "vietnamese"
+    ],
+    "source": "ProteinNAP",
+    "source_version": "v1",
+    "quality_flags": [],
+    "allergen_tags": [
+      "soy"
+    ]
+  },
+  {
+    "food_id": "F034",
+    "name": "Gà nướng",
+    "meal_types": [
+      "breakfast",
+      "lunch",
+      "dinner"
+    ],
+    "ingredients": [
+      "chicken",
+      "lemongrass",
+      "garlic",
+      "honey",
+      "fish_sauce"
+    ],
+    "serving_size_g": 300.0,
+    "calories_kcal": 350.0,
+    "protein_g": 30.0,
+    "carb_g": 8.0,
+    "fat_g": 20.0,
+    "sugar_g": 4.0,
+    "fiber_g": 0.0,
+    "sodium_mg": 850.0,
+    "purine_level": "low",
+    "cost_estimate": 45000.0,
+    "diet_tags": [
+      "high_protein",
+      "vietnamese"
+    ],
+    "source": "ProteinNAP",
+    "source_version": "v1",
+    "quality_flags": [],
+    "allergen_tags": [
+      "fish"
+    ]
+  },
+  {
+    "food_id": "F035",
+    "name": "Cá chiên",
+    "meal_types": [
+      "lunch",
+      "dinner"
+    ],
+    "ingredients": [
+      "fish",
+      "oil",
+      "fish_sauce",
+      "chili"
+    ],
+    "serving_size_g": 250.0,
+    "calories_kcal": 380.0,
+    "protein_g": 25.0,
+    "carb_g": 5.0,
+    "fat_g": 28.0,
+    "sugar_g": 1.0,
+    "fiber_g": 0.0,
+    "sodium_mg": 800.0,
+    "purine_level": "moderate",
+    "cost_estimate": 40000.0,
+    "diet_tags": [
+      "high_protein",
+      "seafood",
+      "vietnamese"
+    ],
+    "source": "ProteinNAP",
+    "source_version": "v1",
+    "quality_flags": [],
+    "allergen_tags": [
+      "fish"
+    ]
+  },
+  {
+    "food_id": "F036",
+    "name": "Canh bí đỏ",
+    "meal_types": [
+      "lunch",
+      "dinner"
+    ],
+    "ingredients": [
+      "pumpkin",
+      "pork",
+      "scallion",
+      "fish_sauce"
+    ],
+    "serving_size_g": 300.0,
+    "calories_kcal": 180.0,
+    "protein_g": 10.0,
+    "carb_g": 20.0,
+    "fat_g": 8.0,
+    "sugar_g": 4.0,
+    "fiber_g": 3.0,
+    "sodium_mg": 650.0,
+    "purine_level": "low",
+    "cost_estimate": 25000.0,
+    "diet_tags": [
+      "low_calorie",
+      "vietnamese"
+    ],
+    "source": "ProteinNAP",
+    "source_version": "v1",
+    "quality_flags": [],
+    "allergen_tags": [
+      "fish"
+    ]
+  },
+  {
+    "food_id": "F037",
+    "name": "Canh khổ qua",
+    "meal_types": [
+      "lunch",
+      "dinner"
+    ],
+    "ingredients": [
+      "bitter_melon",
+      "pork",
+      "egg",
+      "fish_sauce"
+    ],
+    "serving_size_g": 300.0,
+    "calories_kcal": 200.0,
+    "protein_g": 14.0,
+    "carb_g": 12.0,
+    "fat_g": 10.0,
+    "sugar_g": 3.0,
+    "fiber_g": 3.0,
+    "sodium_mg": 700.0,
+    "purine_level": "low",
+    "cost_estimate": 30000.0,
+    "diet_tags": [
+      "low_calorie",
+      "vietnamese"
+    ],
+    "source": "ProteinNAP",
+    "source_version": "v1",
+    "quality_flags": [],
+    "allergen_tags": [
+      "egg",
+      "fish"
+    ]
+  },
+  {
+    "food_id": "F038",
+    "name": "Nem nướng",
+    "meal_types": [
+      "lunch",
+      "dinner"
+    ],
+    "ingredients": [
+      "pork",
+      "garlic",
+      "fish_sauce",
+      "sugar",
+      "rice_paper",
+      "herbs"
+    ],
+    "serving_size_g": 250.0,
+    "calories_kcal": 380.0,
+    "protein_g": 20.0,
+    "carb_g": 25.0,
+    "fat_g": 22.0,
+    "sugar_g": 4.0,
+    "fiber_g": 1.0,
+    "sodium_mg": 900.0,
+    "purine_level": "moderate",
+    "cost_estimate": 40000.0,
+    "diet_tags": [
+      "high_protein",
+      "vietnamese"
+    ],
+    "source": "ProteinNAP",
+    "source_version": "v1",
+    "quality_flags": [],
+    "allergen_tags": [
+      "fish"
+    ]
+  },
+  {
+    "food_id": "F039",
+    "name": "Bánh xèo",
+    "meal_types": [
+      "lunch",
+      "dinner"
+    ],
+    "ingredients": [
+      "rice_flour",
+      "turmeric",
+      "pork",
+      "shrimp",
+      "bean_sprout",
+      "herbs"
+    ],
+    "serving_size_g": 300.0,
+    "calories_kcal": 420.0,
+    "protein_g": 18.0,
+    "carb_g": 38.0,
+    "fat_g": 22.0,
+    "sugar_g": 2.0,
+    "fiber_g": 3.0,
+    "sodium_mg": 800.0,
+    "purine_level": "moderate",
+    "cost_estimate": 35000.0,
+    "diet_tags": [
+      "seafood",
+      "vietnamese"
+    ],
+    "source": "ProteinNAP",
+    "source_version": "v1",
+    "quality_flags": [],
+    "allergen_tags": [
+      "shellfish"
+    ]
+  },
+  {
+    "food_id": "F040",
+    "name": "Bún thịt nướng",
+    "meal_types": [
+      "lunch",
+      "dinner"
+    ],
+    "ingredients": [
+      "rice_noodle",
+      "pork",
+      "lettuce",
+      "herbs",
+      "peanut",
+      "fish_sauce"
+    ],
+    "serving_size_g": 400.0,
+    "calories_kcal": 450.0,
+    "protein_g": 22.0,
+    "carb_g": 52.0,
+    "fat_g": 18.0,
+    "sugar_g": 5.0,
+    "fiber_g": 3.0,
+    "sodium_mg": 950.0,
+    "purine_level": "moderate",
+    "cost_estimate": 40000.0,
+    "diet_tags": [
+      "high_protein",
+      "vietnamese"
+    ],
+    "source": "ProteinNAP",
+    "source_version": "v1",
+    "quality_flags": [],
+    "allergen_tags": [
+      "peanut",
+      "fish"
+    ]
+  },
+  {
+    "food_id": "F041",
+    "name": "Trứng chiên",
+    "meal_types": [
+      "breakfast",
+      "lunch",
+      "dinner"
+    ],
+    "ingredients": [
+      "egg",
+      "scallion",
+      "fish_sauce",
+      "oil"
+    ],
+    "serving_size_g": 150.0,
+    "calories_kcal": 220.0,
+    "protein_g": 14.0,
+    "carb_g": 3.0,
+    "fat_g": 17.0,
+    "sugar_g": 1.0,
+    "fiber_g": 0.0,
+    "sodium_mg": 500.0,
+    "purine_level": "low",
+    "cost_estimate": 10000.0,
+    "diet_tags": [
+      "low_calorie",
+      "vegetarian",
+      "vietnamese"
+    ],
+    "source": "ProteinNAP",
+    "source_version": "v1",
+    "quality_flags": [],
+    "allergen_tags": [
+      "egg",
+      "fish"
+    ]
+  },
+  {
+    "food_id": "F042",
+    "name": "Rau sống cuốn",
+    "meal_types": [
+      "lunch",
+      "dinner"
+    ],
+    "ingredients": [
+      "lettuce",
+      "herbs",
+      "rice_paper",
+      "tofu",
+      "peanut"
+    ],
+    "serving_size_g": 200.0,
+    "calories_kcal": 150.0,
+    "protein_g": 6.0,
+    "carb_g": 18.0,
+    "fat_g": 6.0,
+    "sugar_g": 3.0,
+    "fiber_g": 4.0,
+    "sodium_mg": 300.0,
+    "purine_level": "low",
+    "cost_estimate": 20000.0,
+    "diet_tags": [
+      "low_calorie",
+      "low_sodium",
+      "vegetarian",
+      "vietnamese"
+    ],
+    "source": "ProteinNAP",
+    "source_version": "v1",
+    "quality_flags": [],
+    "allergen_tags": [
+      "peanut",
+      "soy"
+    ]
+  },
+  {
+    "food_id": "F043",
+    "name": "Lẩu thái",
+    "meal_types": [
+      "lunch",
+      "dinner"
+    ],
+    "ingredients": [
+      "shrimp",
+      "squid",
+      "mushroom",
+      "vegetables",
+      "lemongrass",
+      "chili",
+      "tom_yum"
+    ],
+    "serving_size_g": 600.0,
+    "calories_kcal": 480.0,
+    "protein_g": 30.0,
+    "carb_g": 30.0,
+    "fat_g": 25.0,
+    "sugar_g": 6.0,
+    "fiber_g": 4.0,
+    "sodium_mg": 1400.0,
+    "purine_level": "high",
+    "cost_estimate": 80000.0,
+    "diet_tags": [
+      "high_protein",
+      "seafood",
+      "spicy",
+      "vietnamese"
+    ],
+    "source": "ProteinNAP",
+    "source_version": "v1",
+    "quality_flags": [],
+    "allergen_tags": [
+      "shellfish"
+    ]
+  },
+  {
+    "food_id": "F044",
+    "name": "Cơm sườn bì",
+    "meal_types": [
+      "lunch",
+      "dinner"
+    ],
+    "ingredients": [
+      "rice",
+      "pork_rib",
+      "pork_skin",
+      "egg",
+      "pickled_vegetables"
+    ],
+    "serving_size_g": 500.0,
+    "calories_kcal": 680.0,
+    "protein_g": 32.0,
+    "carb_g": 75.0,
+    "fat_g": 28.0,
+    "sugar_g": 4.0,
+    "fiber_g": 2.0,
+    "sodium_mg": 1150.0,
+    "purine_level": "moderate",
+    "cost_estimate": 50000.0,
+    "diet_tags": [
+      "high_protein",
+      "vietnamese"
+    ],
+    "source": "ProteinNAP",
+    "source_version": "v1",
+    "quality_flags": [],
+    "allergen_tags": [
+      "egg"
+    ]
+  },
+  {
+    "food_id": "F045",
+    "name": "Bún mắm",
+    "meal_types": [
+      "breakfast",
+      "lunch"
+    ],
+    "ingredients": [
+      "rice_noodle",
+      "fish",
+      "shrimp",
+      "pork",
+      "eggplant",
+      "fish_sauce"
+    ],
+    "serving_size_g": 500.0,
+    "calories_kcal": 480.0,
+    "protein_g": 28.0,
+    "carb_g": 48.0,
+    "fat_g": 20.0,
+    "sugar_g": 4.0,
+    "fiber_g": 3.0,
+    "sodium_mg": 1300.0,
+    "purine_level": "high",
+    "cost_estimate": 45000.0,
+    "diet_tags": [
+      "high_protein",
+      "seafood",
+      "vietnamese"
+    ],
+    "source": "ProteinNAP",
+    "source_version": "v1",
+    "quality_flags": [],
+    "allergen_tags": [
+      "shellfish",
+      "fish"
+    ]
+  },
+  {
+    "food_id": "F046",
+    "name": "Cháo lòng",
+    "meal_types": [
+      "breakfast"
+    ],
+    "ingredients": [
+      "rice",
+      "pork_offal",
+      "ginger",
+      "scallion",
+      "fish_sauce"
+    ],
+    "serving_size_g": 400.0,
+    "calories_kcal": 350.0,
+    "protein_g": 18.0,
+    "carb_g": 35.0,
+    "fat_g": 15.0,
+    "sugar_g": 2.0,
+    "fiber_g": 1.0,
+    "sodium_mg": 900.0,
+    "purine_level": "high",
+    "cost_estimate": 30000.0,
+    "diet_tags": [
+      "vietnamese"
+    ],
+    "source": "ProteinNAP",
+    "source_version": "v1",
+    "quality_flags": [],
+    "allergen_tags": [
+      "fish"
+    ]
+  },
+  {
+    "food_id": "F047",
+    "name": "Xôi mặn",
+    "meal_types": [
+      "breakfast"
+    ],
+    "ingredients": [
+      "sticky_rice",
+      "pork",
+      "sausage",
+      "fried_onion",
+      "scallion"
+    ],
+    "serving_size_g": 300.0,
+    "calories_kcal": 480.0,
+    "protein_g": 18.0,
+    "carb_g": 58.0,
+    "fat_g": 20.0,
+    "sugar_g": 3.0,
+    "fiber_g": 2.0,
+    "sodium_mg": 750.0,
+    "purine_level": "moderate",
+    "cost_estimate": 25000.0,
+    "diet_tags": [
+      "vietnamese"
+    ],
+    "source": "ProteinNAP",
+    "source_version": "v1",
+    "quality_flags": [],
+    "allergen_tags": []
+  },
+  {
+    "food_id": "F048",
+    "name": "Bánh mì ốp la",
+    "meal_types": [
+      "breakfast"
+    ],
+    "ingredients": [
+      "baguette",
+      "egg",
+      "butter",
+      "cucumber",
+      "soy_sauce"
+    ],
+    "serving_size_g": 200.0,
+    "calories_kcal": 380.0,
+    "protein_g": 15.0,
+    "carb_g": 42.0,
+    "fat_g": 16.0,
+    "sugar_g": 3.0,
+    "fiber_g": 2.0,
+    "sodium_mg": 700.0,
+    "purine_level": "low",
+    "cost_estimate": 20000.0,
+    "diet_tags": [
+      "vegetarian",
+      "vietnamese"
+    ],
+    "source": "ProteinNAP",
+    "source_version": "v1",
+    "quality_flags": [],
+    "allergen_tags": [
+      "milk",
+      "egg",
+      "soy",
+      "wheat"
+    ]
+  },
+  {
+    "food_id": "F049",
+    "name": "Mì gói",
+    "meal_types": [
+      "breakfast",
+      "snack"
+    ],
+    "ingredients": [
+      "instant_noodle",
+      "egg",
+      "scallion"
+    ],
+    "serving_size_g": 300.0,
+    "calories_kcal": 380.0,
+    "protein_g": 10.0,
+    "carb_g": 48.0,
+    "fat_g": 16.0,
+    "sugar_g": 2.0,
+    "fiber_g": 2.0,
+    "sodium_mg": 1500.0,
+    "purine_level": "low",
+    "cost_estimate": 12000.0,
+    "diet_tags": [
+      "vegetarian",
+      "vietnamese"
+    ],
+    "source": "ProteinNAP",
+    "source_version": "v1",
+    "quality_flags": [],
+    "allergen_tags": [
+      "egg",
+      "wheat"
+    ]
+  },
+  {
+    "food_id": "F050",
+    "name": "Súp cua",
+    "meal_types": [
+      "breakfast",
+      "snack"
+    ],
+    "ingredients": [
+      "crab",
+      "corn",
+      "egg",
+      "cornstarch",
+      "herbs"
+    ],
+    "serving_size_g": 300.0,
+    "calories_kcal": 220.0,
+    "protein_g": 15.0,
+    "carb_g": 20.0,
+    "fat_g": 8.0,
+    "sugar_g": 3.0,
+    "fiber_g": 2.0,
+    "sodium_mg": 750.0,
+    "purine_level": "high",
+    "cost_estimate": 35000.0,
+    "diet_tags": [
+      "low_calorie",
+      "seafood",
+      "vietnamese"
+    ],
+    "source": "ProteinNAP",
+    "source_version": "v1",
+    "quality_flags": [],
+    "allergen_tags": [
+      "shellfish",
+      "egg"
+    ]
+  },
+  {
+    "food_id": "F051",
+    "name": "Cơm rang hải sản",
+    "meal_types": [
+      "lunch",
+      "dinner"
+    ],
+    "ingredients": [
+      "rice",
+      "shrimp",
+      "squid",
+      "egg",
+      "vegetables",
+      "garlic"
+    ],
+    "serving_size_g": 400.0,
+    "calories_kcal": 480.0,
+    "protein_g": 22.0,
+    "carb_g": 55.0,
+    "fat_g": 18.0,
+    "sugar_g": 3.0,
+    "fiber_g": 3.0,
+    "sodium_mg": 1050.0,
+    "purine_level": "high",
+    "cost_estimate": 50000.0,
+    "diet_tags": [
+      "high_protein",
+      "seafood",
+      "vietnamese"
+    ],
+    "source": "ProteinNAP",
+    "source_version": "v1",
+    "quality_flags": [],
+    "allergen_tags": [
+      "shellfish",
+      "egg"
+    ]
+  },
+  {
+    "food_id": "F052",
+    "name": "Salad gà",
+    "meal_types": [
+      "lunch",
+      "dinner"
+    ],
+    "ingredients": [
+      "chicken",
+      "lettuce",
+      "tomato",
+      "cucumber",
+      "dressing"
+    ],
+    "serving_size_g": 300.0,
+    "calories_kcal": 280.0,
+    "protein_g": 25.0,
+    "carb_g": 12.0,
+    "fat_g": 14.0,
+    "sugar_g": 4.0,
+    "fiber_g": 4.0,
+    "sodium_mg": 500.0,
+    "purine_level": "low",
+    "cost_estimate": 40000.0,
+    "diet_tags": [
+      "high_protein",
+      "western"
+    ],
+    "source": "ProteinNAP",
+    "source_version": "v1",
+    "quality_flags": [],
+    "allergen_tags": []
+  },
+  {
+    "food_id": "F053",
+    "name": "Pasta sốt cà",
+    "meal_types": [
+      "lunch",
+      "dinner"
+    ],
+    "ingredients": [
+      "pasta",
+      "tomato",
+      "garlic",
+      "olive_oil",
+      "basil"
+    ],
+    "serving_size_g": 350.0,
+    "calories_kcal": 420.0,
+    "protein_g": 14.0,
+    "carb_g": 62.0,
+    "fat_g": 14.0,
+    "sugar_g": 6.0,
+    "fiber_g": 4.0,
+    "sodium_mg": 600.0,
+    "purine_level": "low",
+    "cost_estimate": 35000.0,
+    "diet_tags": [
+      "vegetarian",
+      "western"
+    ],
+    "source": "ProteinNAP",
+    "source_version": "v1",
+    "quality_flags": [],
+    "allergen_tags": [
+      "wheat"
+    ]
+  },
+  {
+    "food_id": "F054",
+    "name": "Bò kho",
+    "meal_types": [
+      "breakfast",
+      "lunch",
+      "dinner"
+    ],
+    "ingredients": [
+      "beef",
+      "carrot",
+      "lemongrass",
+      "star_anise",
+      "baguette"
+    ],
+    "serving_size_g": 500.0,
+    "calories_kcal": 520.0,
+    "protein_g": 35.0,
+    "carb_g": 35.0,
+    "fat_g": 25.0,
+    "sugar_g": 5.0,
+    "fiber_g": 4.0,
+    "sodium_mg": 1100.0,
+    "purine_level": "moderate",
+    "cost_estimate": 55000.0,
+    "diet_tags": [
+      "high_protein",
+      "spicy",
+      "vietnamese"
+    ],
+    "source": "ProteinNAP",
+    "source_version": "v1",
+    "quality_flags": [],
+    "allergen_tags": [
+      "wheat"
+    ]
+  },
+  {
+    "food_id": "F055",
+    "name": "Cà ri gà",
+    "meal_types": [
+      "lunch",
+      "dinner"
+    ],
+    "ingredients": [
+      "chicken",
+      "potato",
+      "carrot",
+      "coconut_milk",
+      "curry_powder"
+    ],
+    "serving_size_g": 450.0,
+    "calories_kcal": 480.0,
+    "protein_g": 28.0,
+    "carb_g": 30.0,
+    "fat_g": 28.0,
+    "sugar_g": 5.0,
+    "fiber_g": 3.0,
+    "sodium_mg": 1000.0,
+    "purine_level": "low",
+    "cost_estimate": 50000.0,
+    "diet_tags": [
+      "high_protein",
+      "vietnamese"
+    ],
+    "source": "ProteinNAP",
+    "source_version": "v1",
+    "quality_flags": [],
+    "allergen_tags": []
+  },
+  {
+    "food_id": "F056",
+    "name": "Cháo thịt bằm",
+    "meal_types": [
+      "breakfast",
+      "dinner"
+    ],
+    "ingredients": [
+      "rice",
+      "pork",
+      "ginger",
+      "scallion",
+      "fish_sauce"
+    ],
+    "serving_size_g": 400.0,
+    "calories_kcal": 300.0,
+    "protein_g": 16.0,
+    "carb_g": 38.0,
+    "fat_g": 8.0,
+    "sugar_g": 1.0,
+    "fiber_g": 1.0,
+    "sodium_mg": 700.0,
+    "purine_level": "low",
+    "cost_estimate": 25000.0,
+    "diet_tags": [
+      "vietnamese"
+    ],
+    "source": "ProteinNAP",
+    "source_version": "v1",
+    "quality_flags": [],
+    "allergen_tags": [
+      "fish"
+    ]
+  },
+  {
+    "food_id": "F057",
+    "name": "Bánh canh",
+    "meal_types": [
+      "breakfast",
+      "lunch",
+      "dinner"
+    ],
+    "ingredients": [
+      "tapioca_noodle",
+      "pork",
+      "shrimp",
+      "scallion",
+      "fish_sauce"
+    ],
+    "serving_size_g": 450.0,
+    "calories_kcal": 400.0,
+    "protein_g": 20.0,
+    "carb_g": 50.0,
+    "fat_g": 14.0,
+    "sugar_g": 2.0,
+    "fiber_g": 1.0,
+    "sodium_mg": 900.0,
+    "purine_level": "moderate",
+    "cost_estimate": 35000.0,
+    "diet_tags": [
+      "high_protein",
+      "seafood",
+      "vietnamese"
+    ],
+    "source": "ProteinNAP",
+    "source_version": "v1",
+    "quality_flags": [],
+    "allergen_tags": [
+      "shellfish",
+      "fish"
+    ]
+  },
+  {
+    "food_id": "F058",
+    "name": "Nui xào bò",
+    "meal_types": [
+      "lunch",
+      "dinner"
+    ],
+    "ingredients": [
+      "pasta",
+      "beef",
+      "vegetables",
+      "soy_sauce",
+      "oyster_sauce"
+    ],
+    "serving_size_g": 400.0,
+    "calories_kcal": 480.0,
+    "protein_g": 25.0,
+    "carb_g": 50.0,
+    "fat_g": 18.0,
+    "sugar_g": 4.0,
+    "fiber_g": 3.0,
+    "sodium_mg": 1100.0,
+    "purine_level": "moderate",
+    "cost_estimate": 45000.0,
+    "diet_tags": [
+      "high_protein",
+      "vietnamese"
+    ],
+    "source": "ProteinNAP",
+    "source_version": "v1",
+    "quality_flags": [],
+    "allergen_tags": [
+      "soy",
+      "wheat"
+    ]
+  },
+  {
+    "food_id": "F059",
+    "name": "Bánh chưng",
+    "meal_types": [
+      "breakfast",
+      "snack"
+    ],
+    "ingredients": [
+      "sticky_rice",
+      "pork",
+      "mung_bean",
+      "banana_leaf"
+    ],
+    "serving_size_g": 250.0,
+    "calories_kcal": 400.0,
+    "protein_g": 15.0,
+    "carb_g": 52.0,
+    "fat_g": 15.0,
+    "sugar_g": 3.0,
+    "fiber_g": 3.0,
+    "sodium_mg": 600.0,
+    "purine_level": "moderate",
+    "cost_estimate": 30000.0,
+    "diet_tags": [
+      "vietnamese"
+    ],
+    "source": "ProteinNAP",
+    "source_version": "v1",
+    "quality_flags": [],
+    "allergen_tags": []
+  },
+  {
+    "food_id": "F060",
+    "name": "Gỏi gà",
+    "meal_types": [
+      "breakfast",
+      "lunch"
+    ],
+    "ingredients": [
+      "chicken",
+      "cabbage",
+      "onion",
+      "herbs",
+      "peanut",
+      "lime"
+    ],
+    "serving_size_g": 250.0,
+    "calories_kcal": 250.0,
+    "protein_g": 22.0,
+    "carb_g": 12.0,
+    "fat_g": 12.0,
+    "sugar_g": 3.0,
+    "fiber_g": 3.0,
+    "sodium_mg": 500.0,
+    "purine_level": "low",
+    "cost_estimate": 35000.0,
+    "diet_tags": [
+      "high_protein",
+      "low_calorie",
+      "vietnamese"
+    ],
+    "source": "ProteinNAP",
+    "source_version": "v1",
+    "quality_flags": [],
+    "allergen_tags": [
+      "peanut"
+    ]
+  },
+  {
+    "food_id": "F061",
+    "name": "Tào phớ",
+    "meal_types": [
+      "snack"
+    ],
+    "ingredients": [
+      "soy_pudding",
+      "sugar",
+      "ginger",
+      "jasmine"
+    ],
+    "serving_size_g": 250.0,
+    "calories_kcal": 150.0,
+    "protein_g": 5.0,
+    "carb_g": 28.0,
+    "fat_g": 2.0,
+    "sugar_g": 20.0,
+    "fiber_g": 0.0,
+    "sodium_mg": 30.0,
+    "purine_level": "low",
+    "cost_estimate": 10000.0,
+    "diet_tags": [
+      "low_calorie",
+      "low_sodium",
+      "vegetarian",
+      "vietnamese"
+    ],
+    "source": "ProteinNAP",
+    "source_version": "v1",
+    "quality_flags": [],
+    "allergen_tags": [
+      "soy"
+    ]
+  },
+  {
+    "food_id": "F062",
+    "name": "Bánh flan",
+    "meal_types": [
+      "snack"
+    ],
+    "ingredients": [
+      "egg",
+      "milk",
+      "sugar",
+      "caramel"
+    ],
+    "serving_size_g": 120.0,
+    "calories_kcal": 180.0,
+    "protein_g": 5.0,
+    "carb_g": 25.0,
+    "fat_g": 7.0,
+    "sugar_g": 22.0,
+    "fiber_g": 0.0,
+    "sodium_mg": 80.0,
+    "purine_level": "low",
+    "cost_estimate": 15000.0,
+    "diet_tags": [
+      "low_calorie",
+      "low_sodium",
+      "vegetarian",
+      "vietnamese"
+    ],
+    "source": "ProteinNAP",
+    "source_version": "v1",
+    "quality_flags": [],
+    "allergen_tags": [
+      "milk",
+      "egg"
+    ]
+  },
+  {
+    "food_id": "F063",
+    "name": "Sinh tố bơ",
+    "meal_types": [
+      "snack"
+    ],
+    "ingredients": [
+      "avocado",
+      "milk",
+      "sugar",
+      "ice"
+    ],
+    "serving_size_g": 300.0,
+    "calories_kcal": 280.0,
+    "protein_g": 3.0,
+    "carb_g": 30.0,
+    "fat_g": 18.0,
+    "sugar_g": 18.0,
+    "fiber_g": 5.0,
+    "sodium_mg": 50.0,
+    "purine_level": "low",
+    "cost_estimate": 25000.0,
+    "diet_tags": [
+      "low_sodium",
+      "vegetarian",
+      "vietnamese"
+    ],
+    "source": "ProteinNAP",
+    "source_version": "v1",
+    "quality_flags": [],
+    "allergen_tags": [
+      "milk"
+    ]
+  },
+  {
+    "food_id": "F064",
+    "name": "Nước cam",
+    "meal_types": [
+      "snack"
+    ],
+    "ingredients": [
+      "orange",
+      "sugar",
+      "ice"
+    ],
+    "serving_size_g": 300.0,
+    "calories_kcal": 120.0,
+    "protein_g": 1.0,
+    "carb_g": 30.0,
+    "fat_g": 0.0,
+    "sugar_g": 25.0,
+    "fiber_g": 0.0,
+    "sodium_mg": 10.0,
+    "purine_level": "low",
+    "cost_estimate": 15000.0,
+    "diet_tags": [
+      "low_calorie",
+      "low_sodium",
+      "vegetarian",
+      "vietnamese"
+    ],
+    "source": "ProteinNAP",
+    "source_version": "v1",
+    "quality_flags": [
+      "missing_critical"
+    ],
+    "allergen_tags": []
+  },
+  {
+    "food_id": "F065",
+    "name": "Cà phê sữa đá",
+    "meal_types": [
+      "snack"
+    ],
+    "ingredients": [
+      "coffee",
+      "condensed_milk",
+      "ice"
+    ],
+    "serving_size_g": 250.0,
+    "calories_kcal": 150.0,
+    "protein_g": 2.0,
+    "carb_g": 25.0,
+    "fat_g": 4.0,
+    "sugar_g": 22.0,
+    "fiber_g": 0.0,
+    "sodium_mg": 30.0,
+    "purine_level": "low",
+    "cost_estimate": 15000.0,
+    "diet_tags": [
+      "low_calorie",
+      "low_sodium",
+      "vegetarian",
+      "vietnamese"
+    ],
+    "source": "ProteinNAP",
+    "source_version": "v1",
+    "quality_flags": [],
+    "allergen_tags": [
+      "milk"
+    ]
+  },
+  {
+    "food_id": "F066",
+    "name": "Trà đá",
+    "meal_types": [
+      "snack"
+    ],
+    "ingredients": [
+      "tea",
+      "ice",
+      "sugar"
+    ],
+    "serving_size_g": 300.0,
+    "calories_kcal": 40.0,
+    "protein_g": 0.0,
+    "carb_g": 10.0,
+    "fat_g": 0.0,
+    "sugar_g": 8.0,
+    "fiber_g": 0.0,
+    "sodium_mg": 5.0,
+    "purine_level": "low",
+    "cost_estimate": 5000.0,
+    "diet_tags": [
+      "low_calorie",
+      "low_sodium",
+      "vegetarian",
+      "vietnamese"
+    ],
+    "source": "ProteinNAP",
+    "source_version": "v1",
+    "quality_flags": [
+      "missing_critical"
+    ],
+    "allergen_tags": []
+  },
+  {
+    "food_id": "F067",
+    "name": "Cơm gà xối mỡ",
+    "meal_types": [
+      "lunch",
+      "dinner"
+    ],
+    "ingredients": [
+      "rice",
+      "chicken",
+      "oil",
+      "fish_sauce",
+      "cucumber"
+    ],
+    "serving_size_g": 500.0,
+    "calories_kcal": 620.0,
+    "protein_g": 30.0,
+    "carb_g": 68.0,
+    "fat_g": 24.0,
+    "sugar_g": 2.0,
+    "fiber_g": 1.0,
+    "sodium_mg": 950.0,
+    "purine_level": "low",
+    "cost_estimate": 45000.0,
+    "diet_tags": [
+      "high_protein",
+      "vietnamese"
+    ],
+    "source": "ProteinNAP",
+    "source_version": "v1",
+    "quality_flags": [],
+    "allergen_tags": [
+      "fish"
+    ]
+  },
+  {
+    "food_id": "F068",
+    "name": "Mực xào chua ngọt",
+    "meal_types": [
+      "lunch",
+      "dinner"
+    ],
+    "ingredients": [
+      "squid",
+      "bell_pepper",
+      "onion",
+      "tomato",
+      "garlic",
+      "sugar",
+      "vinegar"
+    ],
+    "serving_size_g": 300.0,
+    "calories_kcal": 320.0,
+    "protein_g": 22.0,
+    "carb_g": 15.0,
+    "fat_g": 18.0,
+    "sugar_g": 5.0,
+    "fiber_g": 2.0,
+    "sodium_mg": 850.0,
+    "purine_level": "high",
+    "cost_estimate": 55000.0,
+    "diet_tags": [
+      "high_protein",
+      "seafood",
+      "vietnamese"
+    ],
+    "source": "ProteinNAP",
+    "source_version": "v1",
+    "quality_flags": [],
+    "allergen_tags": [
+      "shellfish"
+    ]
+  },
+  {
+    "food_id": "F069",
+    "name": "Tôm sú nướng",
+    "meal_types": [
+      "lunch",
+      "dinner"
+    ],
+    "ingredients": [
+      "shrimp",
+      "garlic",
+      "butter",
+      "chili",
+      "salt"
+    ],
+    "serving_size_g": 250.0,
+    "calories_kcal": 280.0,
+    "protein_g": 28.0,
+    "carb_g": 2.0,
+    "fat_g": 18.0,
+    "sugar_g": 1.0,
+    "fiber_g": 0.0,
+    "sodium_mg": 600.0,
+    "purine_level": "high",
+    "cost_estimate": 70000.0,
+    "diet_tags": [
+      "high_protein",
+      "seafood",
+      "vietnamese"
+    ],
+    "source": "ProteinNAP",
+    "source_version": "v1",
+    "quality_flags": [],
+    "allergen_tags": [
+      "shellfish",
+      "milk"
+    ]
+  },
+  {
+    "food_id": "F070",
+    "name": "Bò né",
+    "meal_types": [
+      "breakfast",
+      "lunch"
+    ],
+    "ingredients": [
+      "beef",
+      "egg",
+      "potato",
+      "butter",
+      "bread",
+      "herbs"
+    ],
+    "serving_size_g": 400.0,
+    "calories_kcal": 550.0,
+    "protein_g": 30.0,
+    "carb_g": 35.0,
+    "fat_g": 30.0,
+    "sugar_g": 2.0,
+    "fiber_g": 2.0,
+    "sodium_mg": 1000.0,
+    "purine_level": "moderate",
+    "cost_estimate": 55000.0,
+    "diet_tags": [
+      "high_protein",
+      "vietnamese"
+    ],
+    "source": "ProteinNAP",
+    "source_version": "v1",
+    "quality_flags": [],
+    "allergen_tags": [
+      "milk",
+      "egg"
+    ]
+  },
+  {
+    "food_id": "F071",
+    "name": "Bánh mì xíu mại",
+    "meal_types": [
+      "breakfast",
+      "lunch"
+    ],
+    "ingredients": [
+      "baguette",
+      "pork",
+      "tomato",
+      "onion",
+      "fish_sauce"
+    ],
+    "serving_size_g": 280.0,
+    "calories_kcal": 420.0,
+    "protein_g": 18.0,
+    "carb_g": 48.0,
+    "fat_g": 18.0,
+    "sugar_g": 5.0,
+    "fiber_g": 2.0,
+    "sodium_mg": 950.0,
+    "purine_level": "moderate",
+    "cost_estimate": 30000.0,
+    "diet_tags": [
+      "vietnamese"
+    ],
+    "source": "ProteinNAP",
+    "source_version": "v1",
+    "quality_flags": [],
+    "allergen_tags": [
+      "wheat",
+      "fish"
+    ]
+  },
+  {
+    "food_id": "F072",
+    "name": "Cháo hải sản",
+    "meal_types": [
+      "breakfast",
+      "dinner"
+    ],
+    "ingredients": [
+      "rice",
+      "shrimp",
+      "squid",
+      "fish",
+      "ginger",
+      "scallion"
+    ],
+    "serving_size_g": 400.0,
+    "calories_kcal": 320.0,
+    "protein_g": 22.0,
+    "carb_g": 35.0,
+    "fat_g": 10.0,
+    "sugar_g": 1.0,
+    "fiber_g": 1.0,
+    "sodium_mg": 850.0,
+    "purine_level": "high",
+    "cost_estimate": 45000.0,
+    "diet_tags": [
+      "high_protein",
+      "seafood",
+      "vietnamese"
+    ],
+    "source": "ProteinNAP",
+    "source_version": "v1",
+    "quality_flags": [],
+    "allergen_tags": [
+      "shellfish",
+      "fish"
+    ]
+  },
+  {
+    "food_id": "F073",
+    "name": "Bún ốc",
+    "meal_types": [
+      "breakfast",
+      "lunch"
+    ],
+    "ingredients": [
+      "rice_noodle",
+      "snail",
+      "tomato",
+      "tofu",
+      "herbs",
+      "vinegar"
+    ],
+    "serving_size_g": 450.0,
+    "calories_kcal": 350.0,
+    "protein_g": 18.0,
+    "carb_g": 42.0,
+    "fat_g": 12.0,
+    "sugar_g": 4.0,
+    "fiber_g": 3.0,
+    "sodium_mg": 900.0,
+    "purine_level": "moderate",
+    "cost_estimate": 40000.0,
+    "diet_tags": [
+      "seafood",
+      "vietnamese"
+    ],
+    "source": "ProteinNAP",
+    "source_version": "v1",
+    "quality_flags": [],
+    "allergen_tags": [
+      "shellfish",
+      "soy"
+    ]
+  },
+  {
+    "food_id": "F074",
+    "name": "Canh măng",
+    "meal_types": [
+      "lunch",
+      "dinner"
+    ],
+    "ingredients": [
+      "bamboo_shoot",
+      "pork",
+      "scallion",
+      "fish_sauce"
+    ],
+    "serving_size_g": 300.0,
+    "calories_kcal": 200.0,
+    "protein_g": 12.0,
+    "carb_g": 10.0,
+    "fat_g": 12.0,
+    "sugar_g": 2.0,
+    "fiber_g": 4.0,
+    "sodium_mg": 700.0,
+    "purine_level": "low",
+    "cost_estimate": 25000.0,
+    "diet_tags": [
+      "low_calorie",
+      "vietnamese"
+    ],
+    "source": "ProteinNAP",
+    "source_version": "v1",
+    "quality_flags": [],
+    "allergen_tags": [
+      "fish"
+    ]
+  },
+  {
+    "food_id": "F075",
+    "name": "Rau luộc thập cẩm",
+    "meal_types": [
+      "lunch",
+      "dinner"
+    ],
+    "ingredients": [
+      "cabbage",
+      "carrot",
+      "morning_glory",
+      "bean_sprout"
+    ],
+    "serving_size_g": 250.0,
+    "calories_kcal": 80.0,
+    "protein_g": 4.0,
+    "carb_g": 12.0,
+    "fat_g": 1.0,
+    "sugar_g": 4.0,
+    "fiber_g": 5.0,
+    "sodium_mg": 300.0,
+    "purine_level": "low",
+    "cost_estimate": 15000.0,
+    "diet_tags": [
+      "low_calorie",
+      "low_sodium",
+      "vegetarian",
+      "vietnamese"
+    ],
+    "source": "ProteinNAP",
+    "source_version": "v1",
+    "quality_flags": [],
+    "allergen_tags": []
+  },
+  {
+    "food_id": "F076",
+    "name": "Đậu hũ chiên",
+    "meal_types": [
+      "lunch",
+      "dinner"
+    ],
+    "ingredients": [
+      "tofu",
+      "oil",
+      "soy_sauce",
+      "chili"
+    ],
+    "serving_size_g": 200.0,
+    "calories_kcal": 280.0,
+    "protein_g": 15.0,
+    "carb_g": 8.0,
+    "fat_g": 20.0,
+    "sugar_g": 1.0,
+    "fiber_g": 1.0,
+    "sodium_mg": 600.0,
+    "purine_level": "low",
+    "cost_estimate": 18000.0,
+    "diet_tags": [
+      "vegetarian",
+      "vietnamese"
+    ],
+    "source": "ProteinNAP",
+    "source_version": "v1",
+    "quality_flags": [],
+    "allergen_tags": [
+      "soy"
+    ]
+  },
+  {
+    "food_id": "F077",
+    "name": "Cá hấp gừng",
+    "meal_types": [
+      "lunch",
+      "dinner"
+    ],
+    "ingredients": [
+      "fish",
+      "ginger",
+      "scallion",
+      "soy_sauce",
+      "mushroom"
+    ],
+    "serving_size_g": 300.0,
+    "calories_kcal": 250.0,
+    "protein_g": 28.0,
+    "carb_g": 5.0,
+    "fat_g": 12.0,
+    "sugar_g": 2.0,
+    "fiber_g": 1.0,
+    "sodium_mg": 700.0,
+    "purine_level": "low",
+    "cost_estimate": 40000.0,
+    "diet_tags": [
+      "high_protein",
+      "low_calorie",
+      "seafood",
+      "vietnamese"
+    ],
+    "source": "ProteinNAP",
+    "source_version": "v1",
+    "quality_flags": [],
+    "allergen_tags": [
+      "soy",
+      "fish"
+    ]
+  },
+  {
+    "food_id": "F078",
+    "name": "Gà luộc",
+    "meal_types": [
+      "breakfast",
+      "lunch",
+      "dinner"
+    ],
+    "ingredients": [
+      "chicken",
+      "ginger",
+      "salt",
+      "lime",
+      "chili"
+    ],
+    "serving_size_g": 300.0,
+    "calories_kcal": 280.0,
+    "protein_g": 30.0,
+    "carb_g": 2.0,
+    "fat_g": 16.0,
+    "sugar_g": 0.0,
+    "fiber_g": 0.0,
+    "sodium_mg": 500.0,
+    "purine_level": "low",
+    "cost_estimate": 40000.0,
+    "diet_tags": [
+      "high_protein",
+      "vietnamese"
+    ],
+    "source": "ProteinNAP",
+    "source_version": "v1",
+    "quality_flags": [],
+    "allergen_tags": []
+  },
+  {
+    "food_id": "F079",
+    "name": "Thịt luộc",
+    "meal_types": [
+      "lunch",
+      "dinner"
+    ],
+    "ingredients": [
+      "pork",
+      "ginger",
+      "fish_sauce",
+      "shrimp_paste"
+    ],
+    "serving_size_g": 250.0,
+    "calories_kcal": 320.0,
+    "protein_g": 25.0,
+    "carb_g": 2.0,
+    "fat_g": 22.0,
+    "sugar_g": 0.0,
+    "fiber_g": 0.0,
+    "sodium_mg": 650.0,
+    "purine_level": "moderate",
+    "cost_estimate": 35000.0,
+    "diet_tags": [
+      "high_protein",
+      "vietnamese"
+    ],
+    "source": "ProteinNAP",
+    "source_version": "v1",
+    "quality_flags": [],
+    "allergen_tags": [
+      "fish"
+    ]
+  },
+  {
+    "food_id": "F080",
+    "name": "Cơm gạo lứt",
+    "meal_types": [
+      "lunch",
+      "dinner"
+    ],
+    "ingredients": [
+      "brown_rice",
+      "sesame",
+      "salt"
+    ],
+    "serving_size_g": 300.0,
+    "calories_kcal": 350.0,
+    "protein_g": 8.0,
+    "carb_g": 68.0,
+    "fat_g": 4.0,
+    "sugar_g": 1.0,
+    "fiber_g": 4.0,
+    "sodium_mg": 100.0,
+    "purine_level": "low",
+    "cost_estimate": 20000.0,
+    "diet_tags": [
+      "low_sodium",
+      "vegetarian",
+      "vietnamese"
+    ],
+    "source": "ProteinNAP",
+    "source_version": "v1",
+    "quality_flags": [],
+    "allergen_tags": []
+  },
+  {
+    "food_id": "F081",
+    "name": "Salad rau củ",
+    "meal_types": [
+      "lunch",
+      "dinner"
+    ],
+    "ingredients": [
+      "lettuce",
+      "tomato",
+      "cucumber",
+      "carrot",
+      "olive_oil",
+      "lemon"
+    ],
+    "serving_size_g": 250.0,
+    "calories_kcal": 120.0,
+    "protein_g": 3.0,
+    "carb_g": 15.0,
+    "fat_g": 6.0,
+    "sugar_g": 6.0,
+    "fiber_g": 4.0,
+    "sodium_mg": 200.0,
+    "purine_level": "low",
+    "cost_estimate": 25000.0,
+    "diet_tags": [
+      "low_calorie",
+      "low_sodium",
+      "vegetarian",
+      "western"
+    ],
+    "source": "ProteinNAP",
+    "source_version": "v1",
+    "quality_flags": [],
+    "allergen_tags": []
+  },
+  {
+    "food_id": "F082",
+    "name": "Yến mạch",
+    "meal_types": [
+      "breakfast"
+    ],
+    "ingredients": [
+      "oats",
+      "milk",
+      "honey",
+      "banana"
+    ],
+    "serving_size_g": 250.0,
+    "calories_kcal": 300.0,
+    "protein_g": 10.0,
+    "carb_g": 48.0,
+    "fat_g": 8.0,
+    "sugar_g": 15.0,
+    "fiber_g": 5.0,
+    "sodium_mg": 80.0,
+    "purine_level": "low",
+    "cost_estimate": 25000.0,
+    "diet_tags": [
+      "low_sodium",
+      "vegetarian",
+      "western"
+    ],
+    "source": "ProteinNAP",
+    "source_version": "v1",
+    "quality_flags": [],
+    "allergen_tags": [
+      "milk"
+    ]
+  },
+  {
+    "food_id": "F083",
+    "name": "Smoothie bowl",
+    "meal_types": [
+      "breakfast"
+    ],
+    "ingredients": [
+      "banana",
+      "berry",
+      "yogurt",
+      "granola",
+      "honey"
+    ],
+    "serving_size_g": 300.0,
+    "calories_kcal": 350.0,
+    "protein_g": 12.0,
+    "carb_g": 55.0,
+    "fat_g": 10.0,
+    "sugar_g": 28.0,
+    "fiber_g": 6.0,
+    "sodium_mg": 80.0,
+    "purine_level": "low",
+    "cost_estimate": 35000.0,
+    "diet_tags": [
+      "low_sodium",
+      "vegetarian",
+      "western"
+    ],
+    "source": "ProteinNAP",
+    "source_version": "v1",
+    "quality_flags": [],
+    "allergen_tags": [
+      "milk"
+    ]
+  },
+  {
+    "food_id": "F084",
+    "name": "Trứng luộc",
+    "meal_types": [
+      "breakfast",
+      "snack"
+    ],
+    "ingredients": [
+      "egg"
+    ],
+    "serving_size_g": 120.0,
+    "calories_kcal": 155.0,
+    "protein_g": 13.0,
+    "carb_g": 1.0,
+    "fat_g": 10.0,
+    "sugar_g": 1.0,
+    "fiber_g": 0.0,
+    "sodium_mg": 120.0,
+    "purine_level": "low",
+    "cost_estimate": 8000.0,
+    "diet_tags": [
+      "low_calorie",
+      "low_sodium",
+      "vegetarian",
+      "vietnamese"
+    ],
+    "source": "ProteinNAP",
+    "source_version": "v1",
+    "quality_flags": [],
+    "allergen_tags": [
+      "egg"
+    ]
+  },
+  {
+    "food_id": "F085",
+    "name": "Khoai lang luộc",
+    "meal_types": [
+      "breakfast",
+      "snack"
+    ],
+    "ingredients": [
+      "sweet_potato"
+    ],
+    "serving_size_g": 200.0,
+    "calories_kcal": 180.0,
+    "protein_g": 2.0,
+    "carb_g": 42.0,
+    "fat_g": 0.0,
+    "sugar_g": 6.0,
+    "fiber_g": 3.0,
+    "sodium_mg": 30.0,
+    "purine_level": "low",
+    "cost_estimate": 10000.0,
+    "diet_tags": [
+      "low_calorie",
+      "low_sodium",
+      "vegetarian",
+      "vietnamese"
+    ],
+    "source": "ProteinNAP",
+    "source_version": "v1",
+    "quality_flags": [
+      "missing_critical"
+    ],
+    "allergen_tags": []
+  },
+  {
+    "food_id": "F086",
+    "name": "Bắp luộc",
+    "meal_types": [
+      "snack"
+    ],
+    "ingredients": [
+      "corn"
+    ],
+    "serving_size_g": 200.0,
+    "calories_kcal": 180.0,
+    "protein_g": 5.0,
+    "carb_g": 35.0,
+    "fat_g": 2.0,
+    "sugar_g": 3.0,
+    "fiber_g": 4.0,
+    "sodium_mg": 10.0,
+    "purine_level": "low",
+    "cost_estimate": 8000.0,
+    "diet_tags": [
+      "low_calorie",
+      "low_sodium",
+      "vegetarian",
+      "vietnamese"
+    ],
+    "source": "ProteinNAP",
+    "source_version": "v1",
+    "quality_flags": [],
+    "allergen_tags": []
+  },
+  {
+    "food_id": "F087",
+    "name": "Chuối",
+    "meal_types": [
+      "snack"
+    ],
+    "ingredients": [
+      "banana"
+    ],
+    "serving_size_g": 120.0,
+    "calories_kcal": 105.0,
+    "protein_g": 1.0,
+    "carb_g": 27.0,
+    "fat_g": 0.0,
+    "sugar_g": 14.0,
+    "fiber_g": 3.0,
+    "sodium_mg": 1.0,
+    "purine_level": "low",
+    "cost_estimate": 5000.0,
+    "diet_tags": [
+      "low_calorie",
+      "low_sodium",
+      "vegetarian",
+      "vietnamese"
+    ],
+    "source": "ProteinNAP",
+    "source_version": "v1",
+    "quality_flags": [
+      "missing_critical"
+    ],
+    "allergen_tags": []
+  },
+  {
+    "food_id": "F088",
+    "name": "Xoài",
+    "meal_types": [
+      "snack"
+    ],
+    "ingredients": [
+      "mango"
+    ],
+    "serving_size_g": 200.0,
+    "calories_kcal": 120.0,
+    "protein_g": 1.0,
+    "carb_g": 30.0,
+    "fat_g": 0.0,
+    "sugar_g": 28.0,
+    "fiber_g": 3.0,
+    "sodium_mg": 5.0,
+    "purine_level": "low",
+    "cost_estimate": 15000.0,
+    "diet_tags": [
+      "low_calorie",
+      "low_sodium",
+      "vegetarian",
+      "vietnamese"
+    ],
+    "source": "ProteinNAP",
+    "source_version": "v1",
+    "quality_flags": [
+      "missing_critical"
+    ],
+    "allergen_tags": []
+  },
+  {
+    "food_id": "F089",
+    "name": "Dưa hấu",
+    "meal_types": [
+      "snack"
+    ],
+    "ingredients": [
+      "watermelon"
+    ],
+    "serving_size_g": 300.0,
+    "calories_kcal": 90.0,
+    "protein_g": 2.0,
+    "carb_g": 22.0,
+    "fat_g": 0.0,
+    "sugar_g": 18.0,
+    "fiber_g": 1.0,
+    "sodium_mg": 3.0,
+    "purine_level": "low",
+    "cost_estimate": 10000.0,
+    "diet_tags": [
+      "low_calorie",
+      "low_sodium",
+      "vegetarian",
+      "vietnamese"
+    ],
+    "source": "ProteinNAP",
+    "source_version": "v1",
+    "quality_flags": [
+      "missing_critical"
+    ],
+    "allergen_tags": []
+  },
+  {
+    "food_id": "F090",
+    "name": "Bưởi",
+    "meal_types": [
+      "snack"
+    ],
+    "ingredients": [
+      "pomelo"
+    ],
+    "serving_size_g": 200.0,
+    "calories_kcal": 80.0,
+    "protein_g": 2.0,
+    "carb_g": 20.0,
+    "fat_g": 0.0,
+    "sugar_g": 12.0,
+    "fiber_g": 2.0,
+    "sodium_mg": 2.0,
+    "purine_level": "low",
+    "cost_estimate": 15000.0,
+    "diet_tags": [
+      "low_calorie",
+      "low_sodium",
+      "vegetarian",
+      "vietnamese"
+    ],
+    "source": "ProteinNAP",
+    "source_version": "v1",
+    "quality_flags": [
+      "missing_critical"
+    ],
+    "allergen_tags": []
+  },
+  {
+    "food_id": "F091",
+    "name": "Sữa chua",
+    "meal_types": [
+      "snack"
+    ],
+    "ingredients": [
+      "yogurt",
+      "sugar"
+    ],
+    "serving_size_g": 150.0,
+    "calories_kcal": 120.0,
+    "protein_g": 5.0,
+    "carb_g": 18.0,
+    "fat_g": 3.0,
+    "sugar_g": 15.0,
+    "fiber_g": 0.0,
+    "sodium_mg": 50.0,
+    "purine_level": "low",
+    "cost_estimate": 12000.0,
+    "diet_tags": [
+      "low_calorie",
+      "low_sodium",
+      "vegetarian",
+      "vietnamese"
+    ],
+    "source": "ProteinNAP",
+    "source_version": "v1",
+    "quality_flags": [],
+    "allergen_tags": [
+      "milk"
+    ]
+  },
+  {
+    "food_id": "F092",
+    "name": "Bánh mì kẹp chay",
+    "meal_types": [
+      "breakfast",
+      "lunch"
+    ],
+    "ingredients": [
+      "baguette",
+      "tofu",
+      "cucumber",
+      "pickled_carrot",
+      "herbs"
+    ],
+    "serving_size_g": 220.0,
+    "calories_kcal": 320.0,
+    "protein_g": 12.0,
+    "carb_g": 45.0,
+    "fat_g": 10.0,
+    "sugar_g": 4.0,
+    "fiber_g": 4.0,
+    "sodium_mg": 600.0,
+    "purine_level": "low",
+    "cost_estimate": 20000.0,
+    "diet_tags": [
+      "vegetarian",
+      "vietnamese"
+    ],
+    "source": "ProteinNAP",
+    "source_version": "v1",
+    "quality_flags": [],
+    "allergen_tags": [
+      "soy",
+      "wheat"
+    ]
+  },
+  {
+    "food_id": "F093",
+    "name": "Lẩu cá",
+    "meal_types": [
+      "lunch",
+      "dinner"
+    ],
+    "ingredients": [
+      "fish",
+      "tofu",
+      "tomato",
+      "vegetables",
+      "herbs",
+      "tamarind"
+    ],
+    "serving_size_g": 600.0,
+    "calories_kcal": 420.0,
+    "protein_g": 35.0,
+    "carb_g": 25.0,
+    "fat_g": 18.0,
+    "sugar_g": 5.0,
+    "fiber_g": 4.0,
+    "sodium_mg": 1100.0,
+    "purine_level": "moderate",
+    "cost_estimate": 70000.0,
+    "diet_tags": [
+      "high_protein",
+      "seafood",
+      "vietnamese"
+    ],
+    "source": "ProteinNAP",
+    "source_version": "v1",
+    "quality_flags": [],
+    "allergen_tags": [
+      "soy",
+      "fish"
+    ]
+  },
+  {
+    "food_id": "F094",
+    "name": "Cơm thịt luộc cà pháo",
+    "meal_types": [
+      "lunch",
+      "dinner"
+    ],
+    "ingredients": [
+      "rice",
+      "pork",
+      "pickled_eggplant",
+      "fish_sauce",
+      "shrimp_paste"
+    ],
+    "serving_size_g": 450.0,
+    "calories_kcal": 550.0,
+    "protein_g": 28.0,
+    "carb_g": 60.0,
+    "fat_g": 22.0,
+    "sugar_g": 3.0,
+    "fiber_g": 2.0,
+    "sodium_mg": 1000.0,
+    "purine_level": "moderate",
+    "cost_estimate": 40000.0,
+    "diet_tags": [
+      "high_protein",
+      "vietnamese"
+    ],
+    "source": "ProteinNAP",
+    "source_version": "v1",
+    "quality_flags": [],
+    "allergen_tags": [
+      "fish"
+    ]
+  },
+  {
+    "food_id": "F095",
+    "name": "Bún đậu mắm tôm",
+    "meal_types": [
+      "lunch",
+      "dinner"
+    ],
+    "ingredients": [
+      "rice_noodle",
+      "tofu",
+      "pork",
+      "shrimp_paste",
+      "herbs"
+    ],
+    "serving_size_g": 400.0,
+    "calories_kcal": 420.0,
+    "protein_g": 20.0,
+    "carb_g": 42.0,
+    "fat_g": 18.0,
+    "sugar_g": 3.0,
+    "fiber_g": 2.0,
+    "sodium_mg": 1200.0,
+    "purine_level": "moderate",
+    "cost_estimate": 35000.0,
+    "diet_tags": [
+      "high_protein",
+      "vietnamese"
+    ],
+    "source": "ProteinNAP",
+    "source_version": "v1",
+    "quality_flags": [],
+    "allergen_tags": [
+      "soy"
+    ]
+  },
+  {
+    "food_id": "F096",
+    "name": "Ốc luộc",
+    "meal_types": [
+      "snack"
+    ],
+    "ingredients": [
+      "snail",
+      "lemongrass",
+      "ginger",
+      "chili",
+      "fish_sauce"
+    ],
+    "serving_size_g": 300.0,
+    "calories_kcal": 180.0,
+    "protein_g": 18.0,
+    "carb_g": 5.0,
+    "fat_g": 10.0,
+    "sugar_g": 1.0,
+    "fiber_g": 0.0,
+    "sodium_mg": 600.0,
+    "purine_level": "moderate",
+    "cost_estimate": 40000.0,
+    "diet_tags": [
+      "low_calorie",
+      "seafood",
+      "vietnamese"
+    ],
+    "source": "ProteinNAP",
+    "source_version": "v1",
+    "quality_flags": [],
+    "allergen_tags": [
+      "shellfish",
+      "fish"
+    ]
+  },
+  {
+    "food_id": "F097",
+    "name": "Chè trôi nước",
+    "meal_types": [
+      "snack"
+    ],
+    "ingredients": [
+      "sticky_rice_flour",
+      "mung_bean",
+      "sugar",
+      "ginger",
+      "coconut_milk"
+    ],
+    "serving_size_g": 250.0,
+    "calories_kcal": 280.0,
+    "protein_g": 5.0,
+    "carb_g": 50.0,
+    "fat_g": 8.0,
+    "sugar_g": 25.0,
+    "fiber_g": 2.0,
+    "sodium_mg": 40.0,
+    "purine_level": "low",
+    "cost_estimate": 15000.0,
+    "diet_tags": [
+      "low_sodium",
+      "vegetarian",
+      "vietnamese"
+    ],
+    "source": "ProteinNAP",
+    "source_version": "v1",
+    "quality_flags": [],
+    "allergen_tags": []
+  },
+  {
+    "food_id": "F098",
+    "name": "Bánh giò",
+    "meal_types": [
+      "breakfast",
+      "snack"
+    ],
+    "ingredients": [
+      "rice_flour",
+      "pork",
+      "mushroom",
+      "banana_leaf"
+    ],
+    "serving_size_g": 200.0,
+    "calories_kcal": 280.0,
+    "protein_g": 10.0,
+    "carb_g": 32.0,
+    "fat_g": 12.0,
+    "sugar_g": 2.0,
+    "fiber_g": 1.0,
+    "sodium_mg": 600.0,
+    "purine_level": "moderate",
+    "cost_estimate": 15000.0,
+    "diet_tags": [
+      "vietnamese"
+    ],
+    "source": "ProteinNAP",
+    "source_version": "v1",
+    "quality_flags": [],
+    "allergen_tags": []
+  },
+  {
+    "food_id": "F099",
+    "name": "Phở cuốn",
+    "meal_types": [
+      "lunch",
+      "dinner"
+    ],
+    "ingredients": [
+      "rice_sheet",
+      "beef",
+      "lettuce",
+      "herbs"
+    ],
+    "serving_size_g": 250.0,
+    "calories_kcal": 300.0,
+    "protein_g": 18.0,
+    "carb_g": 28.0,
+    "fat_g": 14.0,
+    "sugar_g": 2.0,
+    "fiber_g": 2.0,
+    "sodium_mg": 650.0,
+    "purine_level": "moderate",
+    "cost_estimate": 35000.0,
+    "diet_tags": [
+      "vietnamese"
+    ],
+    "source": "ProteinNAP",
+    "source_version": "v1",
+    "quality_flags": [],
+    "allergen_tags": []
+  },
+  {
+    "food_id": "F100",
+    "name": "Cơm văn phòng",
+    "meal_types": [
+      "lunch",
+      "dinner"
+    ],
+    "ingredients": [
+      "rice",
+      "pork",
+      "egg",
+      "vegetables",
+      "fish_sauce",
+      "soup"
+    ],
+    "serving_size_g": 550.0,
+    "calories_kcal": 620.0,
+    "protein_g": 28.0,
+    "carb_g": 70.0,
+    "fat_g": 22.0,
+    "sugar_g": 4.0,
+    "fiber_g": 3.0,
+    "sodium_mg": 1050.0,
+    "purine_level": "moderate",
+    "cost_estimate": 40000.0,
+    "diet_tags": [
+      "high_protein",
+      "vietnamese"
+    ],
+    "source": "ProteinNAP",
+    "source_version": "v1",
+    "quality_flags": [],
+    "allergen_tags": [
+      "egg",
+      "fish"
+    ]
+  }
+]

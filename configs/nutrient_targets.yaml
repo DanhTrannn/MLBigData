@@ -1,0 +1,46 @@
+version: "2026-01"
+currency: "VND"
+
+# Basal Metabolic Rate formula: Mifflin-St Jeor
+bmr:
+  formula: "mifflin_st_jeor"
+  male: "10 * weight_kg + 6.25 * height_cm - 5 * age + 5"
+  female: "10 * weight_kg + 6.25 * height_cm - 5 * age - 161"
+  default_sex: "male"
+
+activity_multipliers:
+  sedentary: 1.2
+  light: 1.375
+  moderate: 1.55
+  high: 1.725
+
+goal_adjustments:
+  maintain: 0
+  lose: -500
+  gain: 500
+
+default_targets:
+  calories_kcal: 2000
+  protein_g: 60
+  carb_g: 250
+  fat_g: 65
+  sugar_g: 50
+  fiber_g: 25
+  sodium_mg: 2300
+
+disease_overrides:
+  hypertension:
+    sodium_mg: 1500
+  diabetes:
+    sugar_g: 45
+    carb_g: 180
+  gout:
+    protein_g: 80
+
+per_meal_ratios:
+  breakfast: 0.30
+  lunch: 0.40
+  dinner: 0.30
+
+min_calories: 1200
+max_calories: 4000

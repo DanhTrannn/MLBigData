@@ -1,0 +1,19 @@
+{
+  "total_interactions": 8997,
+  "total_users_with_interactions": 500,
+  "total_foods_interacted": 100,
+  "event_distribution": {
+    "dislike": 2637,
+    "like": 1501,
+    "rating": 2951,
+    "eaten": 1533,
+    "swap": 375
+  },
+  "interactions_per_user": {
+    "min": 5,
+    "max": 30,
+    "mean": 17.99
+  },
+  "cold_start_users": 0,
+  "sparsity": 0.8201
+}

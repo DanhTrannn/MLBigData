@@ -1,0 +1,131 @@
+rules:
+  # ── Hypertension rules ──
+  - rule_id: HTN_SODIUM_PER_MEAL
+    applies_to: hypertension
+    target_field: sodium_mg
+    operator: "<="
+    value: 500
+    scope: per_meal
+    severity: hard
+    unknown_policy: reject
+    reason_template:
+      vi: "Món chứa {observed:.0f}mg natri, vượt giới hạn {threshold:.0f}mg cho người tăng huyết áp."
+      en: "Dish contains {observed:.0f}mg sodium, exceeding the {threshold:.0f}mg limit for hypertension."
+    source_reference: "AHA 2024 sodium guidelines"
+    version: "2026-01"
+
+  - rule_id: HTN_SODIUM_PER_DAY
+    applies_to: hypertension
+    target_field: sodium_mg
+    operator: "<="
+    value: 1500
+    scope: per_day
+    severity: hard
+    unknown_policy: reject
+    reason_template:
+      vi: "Tổng natri trong ngày vượt 1500mg cho người tăng huyết áp."
+      en: "Daily sodium total exceeds 1500mg for hypertension."
+    source_reference: "AHA 2024 sodium guidelines"
+    version: "2026-01"
+
+  # ── Diabetes rules ──
+  - rule_id: DM_SUGAR_PER_MEAL
+    applies_to: diabetes
+    target_field: sugar_g
+    operator: "<="
+    value: 15
+    scope: per_meal
+    severity: hard
+    unknown_policy: reject
+    reason_template:
+      vi: "Món chứa {observed:.1f}g đường, vượt giới hạn {threshold:.1f}g cho người tiểu đường."
+      en: "Dish contains {observed:.1f}g sugar, exceeding the {threshold:.1f}g limit for diabetes."
+    source_reference: "ADA 2024 nutrition guidelines"
+    version: "2026-01"
+
+  - rule_id: DM_SUGAR_PER_DAY
+    applies_to: diabetes
+    target_field: sugar_g
+    operator: "<="
+    value: 45
+    scope: per_day
+    severity: hard
+    unknown_policy: reject
+    reason_template:
+      vi: "Tổng đường trong ngày vượt {threshold:.1f}g cho người tiểu đường."
+      en: "Daily sugar total exceeds {threshold:.1f}g for diabetes."
+    source_reference: "ADA 2024 nutrition guidelines"
+    version: "2026-01"
+
+  - rule_id: DM_CARBS_PER_MEAL
+    applies_to: diabetes
+    target_field: carb_g
+    operator: "<="
+    value: 60
+    scope: per_meal
+    severity: soft
+    unknown_policy: warn
+    reason_template:
+      vi: "Món chứa {observed:.1f}g carb, cao hơn khuyến nghị {threshold:.1f}g cho người tiểu đường."
+      en: "Dish contains {observed:.1f}g carbs, above the recommended {threshold:.1f}g for diabetes."
+    source_reference: "ADA 2024 nutrition guidelines"
+    version: "2026-01"
+
+  # ── Gout rules ──
+  - rule_id: GOUT_PURINE_AVOID
+    applies_to: gout
+    target_field: purine_level
+    operator: "not_in"
+    value: ["high"]
+    scope: per_meal
+    severity: hard
+    unknown_policy: reject
+    reason_template:
+      vi: "Món có hàm lượng purine cao, cần tránh cho người gout."
+      en: "Dish has high purine level, should be avoided for gout."
+    source_reference: "ACR 2024 gout management"
+    version: "2026-01"
+
+  - rule_id: GOUT_PURINE_WARN
+    applies_to: gout
+    target_field: purine_level
+    operator: "not_in"
+    value: ["moderate"]
+    scope: per_meal
+    severity: soft
+    unknown_policy: warn
+    reason_template:
+      vi: "Món có hàm lượng purine trung bình, nên hạn chế cho người gout."
+      en: "Dish has moderate purine level, should be limited for gout."
+    source_reference: "ACR 2024 gout management"
+    version: "2026-01"
+
+  # ── Allergy hard rules ──
+  - rule_id: ALLERGY_CHECK
+    applies_to: all
+    target_field: ingredients
+    operator: "no_intersection"
+    value: "${user_allergies}"
+    scope: per_meal
+    severity: hard
+    unknown_policy: reject
+    reason_template:
+      vi: "Món chứa thành phần gây dị ứng: {matched}."
+      en: "Dish contains allergen ingredients: {matched}."
+    source_reference: "food-safety-standard"
+    version: "2026-01"
+
+  # ── Disliked ingredients (soft) ──
+  - rule_id: DISLIKE_CHECK
+    applies_to: all
+    target_field: ingredients
+    operator: "no_intersection"
+    value: "${user_dislikes}"
+    scope: per_meal
+    severity: soft
+    unknown_policy: pass
+    reason_template:
+      vi: "Món chứa thành phần bạn không thích: {matched}."
+      en: "Dish contains ingredients you dislike: {matched}."
+    source_reference: "user-preference"
+    version: "2026-01"

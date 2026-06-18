@@ -1,0 +1,9035 @@
+[
+  {
+    "user_id": "U0001",
+    "age": 58,
+    "height_cm": 150.0,
+    "weight_kg": 99.3,
+    "bmi": 44.1,
+    "activity_level": "sedentary",
+    "goal": "maintain",
+    "diseases": [
+      "hypertension"
+    ],
+    "allergies": [],
+    "budget_per_day": 230000,
+    "preferred_tags": [
+      "seafood",
+      "spicy"
+    ],
+    "latent_taste_seed": 9654
+  },
+  {
+    "user_id": "U0002",
+    "age": 35,
+    "height_cm": 181.4,
+    "weight_kg": 40.5,
+    "bmi": 12.3,
+    "activity_level": "moderate",
+    "goal": "lose",
+    "diseases": [],
+    "allergies": [],
+    "budget_per_day": 200000,
+    "preferred_tags": [
+      "vietnamese",
+      "vegetarian"
+    ],
+    "latent_taste_seed": 5925
+  },
+  {
+    "user_id": "U0003",
+    "age": 54,
+    "height_cm": 153.7,
+    "weight_kg": 45.6,
+    "bmi": 19.3,
+    "activity_level": "moderate",
+    "goal": "lose",
+    "diseases": [],
+    "allergies": [],
+    "budget_per_day": 230000,
+    "preferred_tags": [
+      "western"
+    ],
+    "latent_taste_seed": 2803
+  },
+  {
+    "user_id": "U0004",
+    "age": 52,
+    "height_cm": 177.8,
+    "weight_kg": 53.1,
+    "bmi": 16.8,
+    "activity_level": "light",
+    "goal": "gain",
+    "diseases": [],
+    "allergies": [],
+    "budget_per_day": 290000,
+    "preferred_tags": [
+      "vegetarian",
+      "seafood",
+      "western"
+    ],
+    "latent_taste_seed": 8179
+  },
+  {
+    "user_id": "U0005",
+    "age": 43,
+    "height_cm": 184.8,
+    "weight_kg": 91.4,
+    "bmi": 26.8,
+    "activity_level": "sedentary",
+    "goal": "maintain",
+    "diseases": [],
+    "allergies": [],
+    "budget_per_day": 270000,
+    "preferred_tags": [
+      "seafood"
+    ],
+    "latent_taste_seed": 6916
+  },
+  {
+    "user_id": "U0006",
+    "age": 56,
+    "height_cm": 147.9,
+    "weight_kg": 70.5,
+    "bmi": 32.2,
+    "activity_level": "high",
+    "goal": "lose",
+    "diseases": [
+      "gout"
+    ],
+    "allergies": [],
+    "budget_per_day": 180000,
+    "preferred_tags": [
+      "vegetarian",
+      "seafood",
+      "western"
+    ],
+    "latent_taste_seed": 1743
+  },
+  {
+    "user_id": "U0007",
+    "age": 73,
+    "height_cm": 173.1,
+    "weight_kg": 107.3,
+    "bmi": 35.8,
+    "activity_level": "light",
+    "goal": "maintain",
+    "diseases": [],
+    "allergies": [],
+    "budget_per_day": 260000,
+    "preferred_tags": [
+      "vietnamese"
+    ],
+    "latent_taste_seed": 3946
+  },
+  {
+    "user_id": "U0008",
+    "age": 74,
+    "height_cm": 170.5,
+    "weight_kg": 46.3,
+    "bmi": 15.9,
+    "activity_level": "moderate",
+    "goal": "gain",
+    "diseases": [],
+    "allergies": [],
+    "budget_per_day": 250000,
+    "preferred_tags": [
+      "seafood",
+      "vegetarian",
+      "western"
+    ],
+    "latent_taste_seed": 6118
+  },
+  {
+    "user_id": "U0009",
+    "age": 46,
+    "height_cm": 185.5,
+    "weight_kg": 76.1,
+    "bmi": 22.1,
+    "activity_level": "sedentary",
+    "goal": "maintain",
+    "diseases": [
+      "hypertension"
+    ],
+    "allergies": [
+      "shellfish"
+    ],
+    "budget_per_day": 140000,
+    "preferred_tags": [
+      "seafood",
+      "western"
+    ],
+    "latent_taste_seed": 9355
+  },
+  {
+    "user_id": "U0010",
+    "age": 54,
+    "height_cm": 166.3,
+    "weight_kg": 102.8,
+    "bmi": 37.2,
+    "activity_level": "moderate",
+    "goal": "maintain",
+    "diseases": [
+      "hypertension"
+    ],
+    "allergies": [],
+    "budget_per_day": 270000,
+    "preferred_tags": [
+      "seafood"
+    ],
+    "latent_taste_seed": 3116
+  },
+  {
+    "user_id": "U0011",
+    "age": 52,
+    "height_cm": 165.2,
+    "weight_kg": 73.8,
+    "bmi": 27.0,
+    "activity_level": "sedentary",
+    "goal": "maintain",
+    "diseases": [],
+    "allergies": [],
+    "budget_per_day": 120000,
+    "preferred_tags": [
+      "spicy",
+      "seafood"
+    ],
+    "latent_taste_seed": 6570
+  },
+  {
+    "user_id": "U0012",
+    "age": 75,
+    "height_cm": 147.6,
+    "weight_kg": 70.3,
+    "bmi": 32.3,
+    "activity_level": "high",
+    "goal": "maintain",
+    "diseases": [],
+    "allergies": [],
+    "budget_per_day": 210000,
+    "preferred_tags": [
+      "vietnamese",
+      "vegetarian",
+      "western"
+    ],
+    "latent_taste_seed": 821
+  },
+  {
+    "user_id": "U0013",
+    "age": 55,
+    "height_cm": 166.5,
+    "weight_kg": 113.6,
+    "bmi": 41.0,
+    "activity_level": "light",
+    "goal": "maintain",
+    "diseases": [
+      "gout"
+    ],
+    "allergies": [],
+    "budget_per_day": 100000,
+    "preferred_tags": [
+      "western",
+      "vegetarian",
+      "seafood"
+    ],
+    "latent_taste_seed": 3346
+  },
+  {
+    "user_id": "U0014",
+    "age": 60,
+    "height_cm": 177.2,
+    "weight_kg": 59.1,
+    "bmi": 18.8,
+    "activity_level": "light",
+    "goal": "lose",
+    "diseases": [],
+    "allergies": [],
+    "budget_per_day": 290000,
+    "preferred_tags": [
+      "seafood"
+    ],
+    "latent_taste_seed": 6054
+  },
+  {
+    "user_id": "U0015",
+    "age": 36,
+    "height_cm": 152.1,
+    "weight_kg": 106.7,
+    "bmi": 46.1,
+    "activity_level": "moderate",
+    "goal": "lose",
+    "diseases": [
+      "gout"
+    ],
+    "allergies": [],
+    "budget_per_day": 200000,
+    "preferred_tags": [
+      "vegetarian",
+      "seafood"
+    ],
+    "latent_taste_seed": 5617
+  },
+  {
+    "user_id": "U0016",
+    "age": 31,
+    "height_cm": 175.9,
+    "weight_kg": 108.2,
+    "bmi": 35.0,
+    "activity_level": "light",
+    "goal": "maintain",
+    "diseases": [
+      "diabetes"
+    ],
+    "allergies": [],
+    "budget_per_day": 240000,
+    "preferred_tags": [
+      "vietnamese",
+      "western",
+      "spicy"
+    ],
+    "latent_taste_seed": 2442
+  },
+  {
+    "user_id": "U0017",
+    "age": 52,
+    "height_cm": 146.6,
+    "weight_kg": 69.5,
+    "bmi": 32.3,
+    "activity_level": "light",
+    "goal": "maintain",
+    "diseases": [
+      "hypertension"
+    ],
+    "allergies": [],
+    "budget_per_day": 270000,
+    "preferred_tags": [
+      "seafood",
+      "western",
+      "vietnamese"
+    ],
+    "latent_taste_seed": 2900
+  },
+  {
+    "user_id": "U0018",
+    "age": 74,
+    "height_cm": 163.6,
+    "weight_kg": 54.3,
+    "bmi": 20.3,
+    "activity_level": "high",
+    "goal": "lose",
+    "diseases": [],
+    "allergies": [],
+    "budget_per_day": 280000,
+    "preferred_tags": [
+      "vegetarian",
+      "seafood"
+    ],
+    "latent_taste_seed": 3652
+  },
+  {
+    "user_id": "U0019",
+    "age": 19,
+    "height_cm": 174.7,
+    "weight_kg": 71.9,
+    "bmi": 23.6,
+    "activity_level": "sedentary",
+    "goal": "maintain",
+    "diseases": [],
+    "allergies": [],
+    "budget_per_day": 300000,
+    "preferred_tags": [
+      "vietnamese"
+    ],
+    "latent_taste_seed": 9774
+  },
+  {
+    "user_id": "U0020",
+    "age": 45,
+    "height_cm": 160.6,
+    "weight_kg": 102.9,
+    "bmi": 39.9,
+    "activity_level": "light",
+    "goal": "gain",
+    "diseases": [
+      "hypertension",
+      "gout"
+    ],
+    "allergies": [
+      "shellfish"
+    ],
+    "budget_per_day": 120000,
+    "preferred_tags": [
+      "vietnamese",
+      "vegetarian"
+    ],
+    "latent_taste_seed": 5143
+  },
+  {
+    "user_id": "U0021",
+    "age": 60,
+    "height_cm": 183.2,
+    "weight_kg": 97.6,
+    "bmi": 29.1,
+    "activity_level": "light",
+    "goal": "maintain",
+    "diseases": [],
+    "allergies": [],
+    "budget_per_day": 200000,
+    "preferred_tags": [
+      "vegetarian"
+    ],
+    "latent_taste_seed": 4700
+  },
+  {
+    "user_id": "U0022",
+    "age": 31,
+    "height_cm": 164.3,
+    "weight_kg": 86.4,
+    "bmi": 32.0,
+    "activity_level": "moderate",
+    "goal": "maintain",
+    "diseases": [],
+    "allergies": [],
+    "budget_per_day": 260000,
+    "preferred_tags": [
+      "vegetarian"
+    ],
+    "latent_taste_seed": 3680
+  },
+  {
+    "user_id": "U0023",
+    "age": 69,
+    "height_cm": 154.0,
+    "weight_kg": 42.0,
+    "bmi": 17.7,
+    "activity_level": "sedentary",
+    "goal": "maintain",
+    "diseases": [
+      "diabetes"
+    ],
+    "allergies": [
+      "fish"
+    ],
+    "budget_per_day": 250000,
+    "preferred_tags": [
+      "spicy"
+    ],
+    "latent_taste_seed": 3585
+  },
+  {
+    "user_id": "U0024",
+    "age": 29,
+    "height_cm": 181.2,
+    "weight_kg": 95.7,
+    "bmi": 29.1,
+    "activity_level": "light",
+    "goal": "lose",
+    "diseases": [
+      "diabetes",
+      "gout"
+    ],
+    "allergies": [],
+    "budget_per_day": 280000,
+    "preferred_tags": [
+      "western",
+      "spicy"
+    ],
+    "latent_taste_seed": 2607
+  },
+  {
+    "user_id": "U0025",
+    "age": 65,
+    "height_cm": 183.8,
+    "weight_kg": 76.0,
+    "bmi": 22.5,
+    "activity_level": "moderate",
+    "goal": "gain",
+    "diseases": [],
+    "allergies": [],
+    "budget_per_day": 110000,
+    "preferred_tags": [
+      "seafood",
+      "western"
+    ],
+    "latent_taste_seed": 1052
+  },
+  {
+    "user_id": "U0026",
+    "age": 44,
+    "height_cm": 163.3,
+    "weight_kg": 83.4,
+    "bmi": 31.3,
+    "activity_level": "light",
+    "goal": "maintain",
+    "diseases": [],
+    "allergies": [
+      "soy"
+    ],
+    "budget_per_day": 270000,
+    "preferred_tags": [
+      "western",
+      "seafood"
+    ],
+    "latent_taste_seed": 7999
+  },
+  {
+    "user_id": "U0027",
+    "age": 32,
+    "height_cm": 157.3,
+    "weight_kg": 78.9,
+    "bmi": 31.9,
+    "activity_level": "light",
+    "goal": "lose",
+    "diseases": [],
+    "allergies": [],
+    "budget_per_day": 170000,
+    "preferred_tags": [
+      "seafood",
+      "vietnamese"
+    ],
+    "latent_taste_seed": 4262
+  },
+  {
+    "user_id": "U0028",
+    "age": 42,
+    "height_cm": 159.7,
+    "weight_kg": 76.4,
+    "bmi": 30.0,
+    "activity_level": "light",
+    "goal": "gain",
+    "diseases": [],
+    "allergies": [],
+    "budget_per_day": 290000,
+    "preferred_tags": [
+      "vietnamese"
+    ],
+    "latent_taste_seed": 4051
+  },
+  {
+    "user_id": "U0029",
+    "age": 30,
+    "height_cm": 182.8,
+    "weight_kg": 89.7,
+    "bmi": 26.8,
+    "activity_level": "sedentary",
+    "goal": "maintain",
+    "diseases": [
+      "hypertension"
+    ],
+    "allergies": [],
+    "budget_per_day": 150000,
+    "preferred_tags": [
+      "vietnamese",
+      "vegetarian",
+      "spicy"
+    ],
+    "latent_taste_seed": 6149
+  },
+  {
+    "user_id": "U0030",
+    "age": 43,
+    "height_cm": 187.4,
+    "weight_kg": 55.9,
+    "bmi": 15.9,
+    "activity_level": "light",
+    "goal": "gain",
+    "diseases": [],
+    "allergies": [],
+    "budget_per_day": 100000,
+    "preferred_tags": [
+      "vegetarian",
+      "vietnamese",
+      "seafood"
+    ],
+    "latent_taste_seed": 8031
+  },
+  {
+    "user_id": "U0031",
+    "age": 24,
+    "height_cm": 164.5,
+    "weight_kg": 69.0,
+    "bmi": 25.5,
+    "activity_level": "moderate",
+    "goal": "maintain",
+    "diseases": [
+      "hypertension",
+      "diabetes"
+    ],
+    "allergies": [],
+    "budget_per_day": 150000,
+    "preferred_tags": [
+      "vietnamese"
+    ],
+    "latent_taste_seed": 4569
+  },
+  {
+    "user_id": "U0032",
+    "age": 74,
+    "height_cm": 165.3,
+    "weight_kg": 100.0,
+    "bmi": 36.6,
+    "activity_level": "light",
+    "goal": "lose",
+    "diseases": [],
+    "allergies": [],
+    "budget_per_day": 190000,
+    "preferred_tags": [
+      "vietnamese"
+    ],
+    "latent_taste_seed": 3954
+  },
+  {
+    "user_id": "U0033",
+    "age": 64,
+    "height_cm": 163.3,
+    "weight_kg": 84.4,
+    "bmi": 31.6,
+    "activity_level": "sedentary",
+    "goal": "maintain",
+    "diseases": [
+      "gout"
+    ],
+    "allergies": [],
+    "budget_per_day": 300000,
+    "preferred_tags": [
+      "vegetarian",
+      "western",
+      "spicy"
+    ],
+    "latent_taste_seed": 7434
+  },
+  {
+    "user_id": "U0034",
+    "age": 35,
+    "height_cm": 158.8,
+    "weight_kg": 58.4,
+    "bmi": 23.2,
+    "activity_level": "moderate",
+    "goal": "maintain",
+    "diseases": [],
+    "allergies": [],
+    "budget_per_day": 260000,
+    "preferred_tags": [
+      "seafood",
+      "vegetarian"
+    ],
+    "latent_taste_seed": 2939
+  },
+  {
+    "user_id": "U0035",
+    "age": 37,
+    "height_cm": 145.6,
+    "weight_kg": 82.7,
+    "bmi": 39.0,
+    "activity_level": "sedentary",
+    "goal": "gain",
+    "diseases": [],
+    "allergies": [],
+    "budget_per_day": 90000,
+    "preferred_tags": [
+      "vietnamese",
+      "western"
+    ],
+    "latent_taste_seed": 6565
+  },
+  {
+    "user_id": "U0036",
+    "age": 49,
+    "height_cm": 148.3,
+    "weight_kg": 90.4,
+    "bmi": 41.1,
+    "activity_level": "sedentary",
+    "goal": "maintain",
+    "diseases": [],
+    "allergies": [],
+    "budget_per_day": 180000,
+    "preferred_tags": [
+      "spicy",
+      "vegetarian",
+      "western"
+    ],
+    "latent_taste_seed": 986
+  },
+  {
+    "user_id": "U0037",
+    "age": 57,
+    "height_cm": 188.2,
+    "weight_kg": 47.9,
+    "bmi": 13.5,
+    "activity_level": "moderate",
+    "goal": "lose",
+    "diseases": [],
+    "allergies": [],
+    "budget_per_day": 140000,
+    "preferred_tags": [
+      "vietnamese",
+      "seafood"
+    ],
+    "latent_taste_seed": 4334
+  },
+  {
+    "user_id": "U0038",
+    "age": 68,
+    "height_cm": 180.6,
+    "weight_kg": 87.2,
+    "bmi": 26.7,
+    "activity_level": "moderate",
+    "goal": "maintain",
+    "diseases": [
+      "hypertension",
+      "diabetes",
+      "gout"
+    ],
+    "allergies": [],
+    "budget_per_day": 180000,
+    "preferred_tags": [
+      "vegetarian",
+      "spicy"
+    ],
+    "latent_taste_seed": 4460
+  },
+  {
+    "user_id": "U0039",
+    "age": 50,
+    "height_cm": 169.3,
+    "weight_kg": 75.0,
+    "bmi": 26.2,
+    "activity_level": "light",
+    "goal": "gain",
+    "diseases": [
+      "gout"
+    ],
+    "allergies": [],
+    "budget_per_day": 210000,
+    "preferred_tags": [
+      "spicy"
+    ],
+    "latent_taste_seed": 8502
+  },
+  {
+    "user_id": "U0040",
+    "age": 59,
+    "height_cm": 164.9,
+    "weight_kg": 62.3,
+    "bmi": 22.9,
+    "activity_level": "high",
+    "goal": "maintain",
+    "diseases": [],
+    "allergies": [],
+    "budget_per_day": 170000,
+    "preferred_tags": [
+      "vietnamese",
+      "spicy",
+      "western"
+    ],
+    "latent_taste_seed": 5153
+  },
+  {
+    "user_id": "U0041",
+    "age": 34,
+    "height_cm": 159.5,
+    "weight_kg": 117.6,
+    "bmi": 46.2,
+    "activity_level": "light",
+    "goal": "lose",
+    "diseases": [],
+    "allergies": [],
+    "budget_per_day": 200000,
+    "preferred_tags": [
+      "spicy",
+      "western"
+    ],
+    "latent_taste_seed": 1989
+  },
+  {
+    "user_id": "U0042",
+    "age": 19,
+    "height_cm": 188.8,
+    "weight_kg": 88.7,
+    "bmi": 24.9,
+    "activity_level": "sedentary",
+    "goal": "maintain",
+    "diseases": [],
+    "allergies": [],
+    "budget_per_day": 190000,
+    "preferred_tags": [
+      "spicy",
+      "western"
+    ],
+    "latent_taste_seed": 7736
+  },
+  {
+    "user_id": "U0043",
+    "age": 33,
+    "height_cm": 165.6,
+    "weight_kg": 51.6,
+    "bmi": 18.8,
+    "activity_level": "sedentary",
+    "goal": "lose",
+    "diseases": [],
+    "allergies": [
+      "wheat"
+    ],
+    "budget_per_day": 260000,
+    "preferred_tags": [
+      "spicy",
+      "seafood",
+      "western"
+    ],
+    "latent_taste_seed": 8824
+  },
+  {
+    "user_id": "U0044",
+    "age": 48,
+    "height_cm": 160.5,
+    "weight_kg": 84.2,
+    "bmi": 32.7,
+    "activity_level": "light",
+    "goal": "maintain",
+    "diseases": [],
+    "allergies": [],
+    "budget_per_day": 160000,
+    "preferred_tags": [
+      "seafood",
+      "spicy",
+      "vietnamese"
+    ],
+    "latent_taste_seed": 2068
+  },
+  {
+    "user_id": "U0045",
+    "age": 50,
+    "height_cm": 188.4,
+    "weight_kg": 66.6,
+    "bmi": 18.8,
+    "activity_level": "sedentary",
+    "goal": "gain",
+    "diseases": [
+      "hypertension",
+      "gout"
+    ],
+    "allergies": [],
+    "budget_per_day": 170000,
+    "preferred_tags": [
+      "vegetarian"
+    ],
+    "latent_taste_seed": 8742
+  },
+  {
+    "user_id": "U0046",
+    "age": 42,
+    "height_cm": 187.9,
+    "weight_kg": 90.1,
+    "bmi": 25.5,
+    "activity_level": "moderate",
+    "goal": "maintain",
+    "diseases": [],
+    "allergies": [],
+    "budget_per_day": 100000,
+    "preferred_tags": [
+      "vegetarian"
+    ],
+    "latent_taste_seed": 474
+  },
+  {
+    "user_id": "U0047",
+    "age": 20,
+    "height_cm": 159.6,
+    "weight_kg": 44.5,
+    "bmi": 17.5,
+    "activity_level": "light",
+    "goal": "maintain",
+    "diseases": [],
+    "allergies": [],
+    "budget_per_day": 130000,
+    "preferred_tags": [
+      "vegetarian",
+      "spicy",
+      "seafood"
+    ],
+    "latent_taste_seed": 153
+  },
+  {
+    "user_id": "U0048",
+    "age": 75,
+    "height_cm": 181.2,
+    "weight_kg": 112.1,
+    "bmi": 34.1,
+    "activity_level": "moderate",
+    "goal": "maintain",
+    "diseases": [],
+    "allergies": [],
+    "budget_per_day": 130000,
+    "preferred_tags": [
+      "vegetarian",
+      "western",
+      "spicy"
+    ],
+    "latent_taste_seed": 4837
+  },
+  {
+    "user_id": "U0049",
+    "age": 19,
+    "height_cm": 189.0,
+    "weight_kg": 92.7,
+    "bmi": 26.0,
+    "activity_level": "sedentary",
+    "goal": "lose",
+    "diseases": [
+      "gout"
+    ],
+    "allergies": [],
+    "budget_per_day": 220000,
+    "preferred_tags": [
+      "vegetarian",
+      "seafood",
+      "western"
+    ],
+    "latent_taste_seed": 1591
+  },
+  {
+    "user_id": "U0050",
+    "age": 75,
+    "height_cm": 173.2,
+    "weight_kg": 43.2,
+    "bmi": 14.4,
+    "activity_level": "moderate",
+    "goal": "maintain",
+    "diseases": [],
+    "allergies": [],
+    "budget_per_day": 140000,
+    "preferred_tags": [
+      "vegetarian"
+    ],
+    "latent_taste_seed": 7894
+  },
+  {
+    "user_id": "U0051",
+    "age": 69,
+    "height_cm": 158.3,
+    "weight_kg": 109.6,
+    "bmi": 43.7,
+    "activity_level": "moderate",
+    "goal": "maintain",
+    "diseases": [
+      "hypertension",
+      "gout"
+    ],
+    "allergies": [],
+    "budget_per_day": 140000,
+    "preferred_tags": [
+      "spicy"
+    ],
+    "latent_taste_seed": 6038
+  },
+  {
+    "user_id": "U0052",
+    "age": 61,
+    "height_cm": 178.7,
+    "weight_kg": 61.0,
+    "bmi": 19.1,
+    "activity_level": "light",
+    "goal": "lose",
+    "diseases": [],
+    "allergies": [],
+    "budget_per_day": 230000,
+    "preferred_tags": [
+      "spicy",
+      "vietnamese",
+      "western"
+    ],
+    "latent_taste_seed": 742
+  },
+  {
+    "user_id": "U0053",
+    "age": 20,
+    "height_cm": 158.7,
+    "weight_kg": 79.4,
+    "bmi": 31.5,
+    "activity_level": "sedentary",
+    "goal": "gain",
+    "diseases": [
+      "hypertension"
+    ],
+    "allergies": [],
+    "budget_per_day": 190000,
+    "preferred_tags": [
+      "vegetarian",
+      "vietnamese"
+    ],
+    "latent_taste_seed": 6070
+  },
+  {
+    "user_id": "U0054",
+    "age": 31,
+    "height_cm": 165.0,
+    "weight_kg": 116.0,
+    "bmi": 42.6,
+    "activity_level": "moderate",
+    "goal": "maintain",
+    "diseases": [],
+    "allergies": [],
+    "budget_per_day": 220000,
+    "preferred_tags": [
+      "vietnamese",
+      "western",
+      "seafood"
+    ],
+    "latent_taste_seed": 3990
+  },
+  {
+    "user_id": "U0055",
+    "age": 26,
+    "height_cm": 180.4,
+    "weight_kg": 56.4,
+    "bmi": 17.3,
+    "activity_level": "moderate",
+    "goal": "lose",
+    "diseases": [],
+    "allergies": [],
+    "budget_per_day": 260000,
+    "preferred_tags": [
+      "vietnamese"
+    ],
+    "latent_taste_seed": 2159
+  },
+  {
+    "user_id": "U0056",
+    "age": 18,
+    "height_cm": 161.1,
+    "weight_kg": 103.1,
+    "bmi": 39.7,
+    "activity_level": "light",
+    "goal": "maintain",
+    "diseases": [
+      "diabetes"
+    ],
+    "allergies": [],
+    "budget_per_day": 220000,
+    "preferred_tags": [
+      "western",
+      "vegetarian",
+      "seafood"
+    ],
+    "latent_taste_seed": 510
+  },
+  {
+    "user_id": "U0057",
+    "age": 21,
+    "height_cm": 189.9,
+    "weight_kg": 107.8,
+    "bmi": 29.9,
+    "activity_level": "light",
+    "goal": "maintain",
+    "diseases": [],
+    "allergies": [],
+    "budget_per_day": 210000,
+    "preferred_tags": [
+      "spicy",
+      "western"
+    ],
+    "latent_taste_seed": 1624
+  },
+  {
+    "user_id": "U0058",
+    "age": 68,
+    "height_cm": 176.6,
+    "weight_kg": 108.2,
+    "bmi": 34.7,
+    "activity_level": "moderate",
+    "goal": "lose",
+    "diseases": [],
+    "allergies": [],
+    "budget_per_day": 160000,
+    "preferred_tags": [
+      "spicy"
+    ],
+    "latent_taste_seed": 1099
+  },
+  {
+    "user_id": "U0059",
+    "age": 23,
+    "height_cm": 182.4,
+    "weight_kg": 47.5,
+    "bmi": 14.3,
+    "activity_level": "sedentary",
+    "goal": "lose",
+    "diseases": [],
+    "allergies": [],
+    "budget_per_day": 240000,
+    "preferred_tags": [
+      "western",
+      "vegetarian"
+    ],
+    "latent_taste_seed": 5761
+  },
+  {
+    "user_id": "U0060",
+    "age": 24,
+    "height_cm": 171.0,
+    "weight_kg": 57.0,
+    "bmi": 19.5,
+    "activity_level": "moderate",
+    "goal": "maintain",
+    "diseases": [
+      "hypertension"
+    ],
+    "allergies": [],
+    "budget_per_day": 220000,
+    "preferred_tags": [
+      "western"
+    ],
+    "latent_taste_seed": 4381
+  },
+  {
+    "user_id": "U0061",
+    "age": 19,
+    "height_cm": 153.1,
+    "weight_kg": 96.2,
+    "bmi": 41.0,
+    "activity_level": "light",
+    "goal": "maintain",
+    "diseases": [
+      "hypertension"
+    ],
+    "allergies": [],
+    "budget_per_day": 150000,
+    "preferred_tags": [
+      "vegetarian",
+      "western"
+    ],
+    "latent_taste_seed": 9299
+  },
+  {
+    "user_id": "U0062",
+    "age": 56,
+    "height_cm": 148.8,
+    "weight_kg": 44.2,
+    "bmi": 20.0,
+    "activity_level": "sedentary",
+    "goal": "lose",
+    "diseases": [],
+    "allergies": [],
+    "budget_per_day": 230000,
+    "preferred_tags": [
+      "western",
+      "vegetarian"
+    ],
+    "latent_taste_seed": 744
+  },
+  {
+    "user_id": "U0063",
+    "age": 32,
+    "height_cm": 162.8,
+    "weight_kg": 87.9,
+    "bmi": 33.2,
+    "activity_level": "sedentary",
+    "goal": "maintain",
+    "diseases": [
+      "hypertension",
+      "diabetes"
+    ],
+    "allergies": [
+      "peanut"
+    ],
+    "budget_per_day": 260000,
+    "preferred_tags": [
+      "vietnamese",
+      "spicy"
+    ],
+    "latent_taste_seed": 693
+  },
+  {
+    "user_id": "U0064",
+    "age": 45,
+    "height_cm": 145.8,
+    "weight_kg": 113.7,
+    "bmi": 53.5,
+    "activity_level": "moderate",
+    "goal": "lose",
+    "diseases": [],
+    "allergies": [
+      "peanut"
+    ],
+    "budget_per_day": 100000,
+    "preferred_tags": [
+      "seafood"
+    ],
+    "latent_taste_seed": 7138
+  },
+  {
+    "user_id": "U0065",
+    "age": 55,
+    "height_cm": 163.0,
+    "weight_kg": 46.3,
+    "bmi": 17.4,
+    "activity_level": "moderate",
+    "goal": "lose",
+    "diseases": [],
+    "allergies": [],
+    "budget_per_day": 110000,
+    "preferred_tags": [
+      "seafood"
+    ],
+    "latent_taste_seed": 4193
+  },
+  {
+    "user_id": "U0066",
+    "age": 30,
+    "height_cm": 152.8,
+    "weight_kg": 52.2,
+    "bmi": 22.4,
+    "activity_level": "moderate",
+    "goal": "maintain",
+    "diseases": [],
+    "allergies": [],
+    "budget_per_day": 290000,
+    "preferred_tags": [
+      "seafood",
+      "spicy"
+    ],
+    "latent_taste_seed": 1118
+  },
+  {
+    "user_id": "U0067",
+    "age": 48,
+    "height_cm": 164.9,
+    "weight_kg": 64.2,
+    "bmi": 23.6,
+    "activity_level": "sedentary",
+    "goal": "maintain",
+    "diseases": [],
+    "allergies": [],
+    "budget_per_day": 180000,
+    "preferred_tags": [
+      "vietnamese",
+      "spicy",
+      "vegetarian"
+    ],
+    "latent_taste_seed": 3084
+  },
+  {
+    "user_id": "U0068",
+    "age": 38,
+    "height_cm": 172.2,
+    "weight_kg": 80.1,
+    "bmi": 27.0,
+    "activity_level": "high",
+    "goal": "maintain",
+    "diseases": [],
+    "allergies": [
+      "milk"
+    ],
+    "budget_per_day": 160000,
+    "preferred_tags": [
+      "spicy",
+      "western"
+    ],
+    "latent_taste_seed": 5543
+  },
+  {
+    "user_id": "U0069",
+    "age": 61,
+    "height_cm": 171.9,
+    "weight_kg": 103.1,
+    "bmi": 34.9,
+    "activity_level": "light",
+    "goal": "maintain",
+    "diseases": [
+      "hypertension"
+    ],
+    "allergies": [],
+    "budget_per_day": 160000,
+    "preferred_tags": [
+      "spicy",
+      "seafood",
+      "vegetarian"
+    ],
+    "latent_taste_seed": 1388
+  },
+  {
+    "user_id": "U0070",
+    "age": 37,
+    "height_cm": 170.2,
+    "weight_kg": 91.5,
+    "bmi": 31.6,
+    "activity_level": "light",
+    "goal": "maintain",
+    "diseases": [],
+    "allergies": [
+      "soy"
+    ],
+    "budget_per_day": 160000,
+    "preferred_tags": [
+      "seafood",
+      "western"
+    ],
+    "latent_taste_seed": 2253
+  },
+  {
+    "user_id": "U0071",
+    "age": 27,
+    "height_cm": 148.5,
+    "weight_kg": 107.6,
+    "bmi": 48.8,
+    "activity_level": "sedentary",
+    "goal": "lose",
+    "diseases": [
+      "gout"
+    ],
+    "allergies": [],
+    "budget_per_day": 260000,
+    "preferred_tags": [
+      "spicy"
+    ],
+    "latent_taste_seed": 715
+  },
+  {
+    "user_id": "U0072",
+    "age": 44,
+    "height_cm": 161.4,
+    "weight_kg": 97.6,
+    "bmi": 37.5,
+    "activity_level": "high",
+    "goal": "lose",
+    "diseases": [],
+    "allergies": [],
+    "budget_per_day": 180000,
+    "preferred_tags": [
+      "spicy",
+      "western"
+    ],
+    "latent_taste_seed": 2655
+  },
+  {
+    "user_id": "U0073",
+    "age": 70,
+    "height_cm": 154.0,
+    "weight_kg": 88.4,
+    "bmi": 37.3,
+    "activity_level": "moderate",
+    "goal": "maintain",
+    "diseases": [],
+    "allergies": [],
+    "budget_per_day": 260000,
+    "preferred_tags": [
+      "seafood"
+    ],
+    "latent_taste_seed": 7391
+  },
+  {
+    "user_id": "U0074",
+    "age": 74,
+    "height_cm": 160.7,
+    "weight_kg": 42.1,
+    "bmi": 16.3,
+    "activity_level": "sedentary",
+    "goal": "lose",
+    "diseases": [],
+    "allergies": [
+      "shellfish"
+    ],
+    "budget_per_day": 260000,
+    "preferred_tags": [
+      "seafood",
+      "spicy",
+      "western"
+    ],
+    "latent_taste_seed": 86
+  },
+  {
+    "user_id": "U0075",
+    "age": 75,
+    "height_cm": 148.6,
+    "weight_kg": 60.5,
+    "bmi": 27.4,
+    "activity_level": "moderate",
+    "goal": "lose",
+    "diseases": [],
+    "allergies": [],
+    "budget_per_day": 280000,
+    "preferred_tags": [
+      "western",
+      "vietnamese",
+      "vegetarian"
+    ],
+    "latent_taste_seed": 8443
+  },
+  {
+    "user_id": "U0076",
+    "age": 54,
+    "height_cm": 155.9,
+    "weight_kg": 51.5,
+    "bmi": 21.2,
+    "activity_level": "light",
+    "goal": "lose",
+    "diseases": [],
+    "allergies": [],
+    "budget_per_day": 170000,
+    "preferred_tags": [
+      "vietnamese",
+      "spicy"
+    ],
+    "latent_taste_seed": 6116
+  },
+  {
+    "user_id": "U0077",
+    "age": 34,
+    "height_cm": 178.6,
+    "weight_kg": 68.6,
+    "bmi": 21.5,
+    "activity_level": "sedentary",
+    "goal": "maintain",
+    "diseases": [],
+    "allergies": [],
+    "budget_per_day": 300000,
+    "preferred_tags": [
+      "seafood",
+      "western"
+    ],
+    "latent_taste_seed": 1033
+  },
+  {
+    "user_id": "U0078",
+    "age": 63,
+    "height_cm": 179.9,
+    "weight_kg": 76.6,
+    "bmi": 23.7,
+    "activity_level": "sedentary",
+    "goal": "maintain",
+    "diseases": [
+      "diabetes"
+    ],
+    "allergies": [],
+    "budget_per_day": 250000,
+    "preferred_tags": [
+      "vegetarian",
+      "western",
+      "vietnamese"
+    ],
+    "latent_taste_seed": 6029
+  },
+  {
+    "user_id": "U0079",
+    "age": 45,
+    "height_cm": 185.0,
+    "weight_kg": 99.5,
+    "bmi": 29.1,
+    "activity_level": "moderate",
+    "goal": "maintain",
+    "diseases": [],
+    "allergies": [],
+    "budget_per_day": 200000,
+    "preferred_tags": [
+      "vietnamese",
+      "western"
+    ],
+    "latent_taste_seed": 5372
+  },
+  {
+    "user_id": "U0080",
+    "age": 60,
+    "height_cm": 158.3,
+    "weight_kg": 75.7,
+    "bmi": 30.2,
+    "activity_level": "moderate",
+    "goal": "maintain",
+    "diseases": [],
+    "allergies": [],
+    "budget_per_day": 170000,
+    "preferred_tags": [
+      "seafood",
+      "vietnamese",
+      "spicy"
+    ],
+    "latent_taste_seed": 9954
+  },
+  {
+    "user_id": "U0081",
+    "age": 61,
+    "height_cm": 180.2,
+    "weight_kg": 42.8,
+    "bmi": 13.2,
+    "activity_level": "sedentary",
+    "goal": "lose",
+    "diseases": [],
+    "allergies": [],
+    "budget_per_day": 170000,
+    "preferred_tags": [
+      "vegetarian",
+      "seafood",
+      "vietnamese"
+    ],
+    "latent_taste_seed": 424
+  },
+  {
+    "user_id": "U0082",
+    "age": 65,
+    "height_cm": 153.4,
+    "weight_kg": 81.4,
+    "bmi": 34.6,
+    "activity_level": "high",
+    "goal": "maintain",
+    "diseases": [],
+    "allergies": [],
+    "budget_per_day": 240000,
+    "preferred_tags": [
+      "vegetarian"
+    ],
+    "latent_taste_seed": 5692
+  },
+  {
+    "user_id": "U0083",
+    "age": 63,
+    "height_cm": 147.9,
+    "weight_kg": 83.4,
+    "bmi": 38.1,
+    "activity_level": "moderate",
+    "goal": "gain",
+    "diseases": [],
+    "allergies": [
+      "fish"
+    ],
+    "budget_per_day": 200000,
+    "preferred_tags": [
+      "spicy",
+      "seafood"
+    ],
+    "latent_taste_seed": 1412
+  },
+  {
+    "user_id": "U0084",
+    "age": 22,
+    "height_cm": 158.9,
+    "weight_kg": 120.0,
+    "bmi": 47.5,
+    "activity_level": "moderate",
+    "goal": "lose",
+    "diseases": [
+      "gout"
+    ],
+    "allergies": [],
+    "budget_per_day": 220000,
+    "preferred_tags": [
+      "seafood"
+    ],
+    "latent_taste_seed": 7088
+  },
+  {
+    "user_id": "U0085",
+    "age": 50,
+    "height_cm": 186.0,
+    "weight_kg": 44.4,
+    "bmi": 12.8,
+    "activity_level": "sedentary",
+    "goal": "maintain",
+    "diseases": [],
+    "allergies": [],
+    "budget_per_day": 110000,
+    "preferred_tags": [
+      "western",
+      "vietnamese"
+    ],
+    "latent_taste_seed": 8234
+  },
+  {
+    "user_id": "U0086",
+    "age": 59,
+    "height_cm": 152.6,
+    "weight_kg": 115.3,
+    "bmi": 49.5,
+    "activity_level": "sedentary",
+    "goal": "lose",
+    "diseases": [],
+    "allergies": [
+      "milk"
+    ],
+    "budget_per_day": 250000,
+    "preferred_tags": [
+      "western",
+      "vietnamese"
+    ],
+    "latent_taste_seed": 8159
+  },
+  {
+    "user_id": "U0087",
+    "age": 74,
+    "height_cm": 173.2,
+    "weight_kg": 63.2,
+    "bmi": 21.1,
+    "activity_level": "high",
+    "goal": "maintain",
+    "diseases": [],
+    "allergies": [],
+    "budget_per_day": 240000,
+    "preferred_tags": [
+      "vegetarian",
+      "spicy",
+      "vietnamese"
+    ],
+    "latent_taste_seed": 6070
+  },
+  {
+    "user_id": "U0088",
+    "age": 50,
+    "height_cm": 170.3,
+    "weight_kg": 65.5,
+    "bmi": 22.6,
+    "activity_level": "light",
+    "goal": "maintain",
+    "diseases": [],
+    "allergies": [],
+    "budget_per_day": 150000,
+    "preferred_tags": [
+      "spicy"
+    ],
+    "latent_taste_seed": 8433
+  },
+  {
+    "user_id": "U0089",
+    "age": 47,
+    "height_cm": 167.4,
+    "weight_kg": 64.7,
+    "bmi": 23.1,
+    "activity_level": "sedentary",
+    "goal": "gain",
+    "diseases": [],
+    "allergies": [],
+    "budget_per_day": 270000,
+    "preferred_tags": [
+      "seafood",
+      "vegetarian"
+    ],
+    "latent_taste_seed": 5992
+  },
+  {
+    "user_id": "U0090",
+    "age": 66,
+    "height_cm": 163.1,
+    "weight_kg": 43.6,
+    "bmi": 16.4,
+    "activity_level": "sedentary",
+    "goal": "lose",
+    "diseases": [],
+    "allergies": [],
+    "budget_per_day": 160000,
+    "preferred_tags": [
+      "western",
+      "vegetarian"
+    ],
+    "latent_taste_seed": 2363
+  },
+  {
+    "user_id": "U0091",
+    "age": 30,
+    "height_cm": 172.1,
+    "weight_kg": 72.1,
+    "bmi": 24.3,
+    "activity_level": "sedentary",
+    "goal": "maintain",
+    "diseases": [],
+    "allergies": [],
+    "budget_per_day": 270000,
+    "preferred_tags": [
+      "vegetarian",
+      "spicy",
+      "western"
+    ],
+    "latent_taste_seed": 9222
+  },
+  {
+    "user_id": "U0092",
+    "age": 37,
+    "height_cm": 166.4,
+    "weight_kg": 41.3,
+    "bmi": 14.9,
+    "activity_level": "light",
+    "goal": "maintain",
+    "diseases": [],
+    "allergies": [],
+    "budget_per_day": 130000,
+    "preferred_tags": [
+      "western"
+    ],
+    "latent_taste_seed": 7871
+  },
+  {
+    "user_id": "U0093",
+    "age": 28,
+    "height_cm": 168.6,
+    "weight_kg": 97.7,
+    "bmi": 34.4,
+    "activity_level": "moderate",
+    "goal": "maintain",
+    "diseases": [],
+    "allergies": [],
+    "budget_per_day": 210000,
+    "preferred_tags": [
+      "vietnamese",
+      "seafood"
+    ],
+    "latent_taste_seed": 8498
+  },
+  {
+    "user_id": "U0094",
+    "age": 31,
+    "height_cm": 170.2,
+    "weight_kg": 119.8,
+    "bmi": 41.4,
+    "activity_level": "light",
+    "goal": "maintain",
+    "diseases": [],
+    "allergies": [],
+    "budget_per_day": 290000,
+    "preferred_tags": [
+      "western",
+      "vegetarian"
+    ],
+    "latent_taste_seed": 3684
+  },
+  {
+    "user_id": "U0095",
+    "age": 37,
+    "height_cm": 179.7,
+    "weight_kg": 96.4,
+    "bmi": 29.9,
+    "activity_level": "moderate",
+    "goal": "maintain",
+    "diseases": [],
+    "allergies": [],
+    "budget_per_day": 250000,
+    "preferred_tags": [
+      "vegetarian"
+    ],
+    "latent_taste_seed": 689
+  },
+  {
+    "user_id": "U0096",
+    "age": 36,
+    "height_cm": 188.0,
+    "weight_kg": 46.3,
+    "bmi": 13.1,
+    "activity_level": "high",
+    "goal": "lose",
+    "diseases": [],
+    "allergies": [],
+    "budget_per_day": 280000,
+    "preferred_tags": [
+      "seafood"
+    ],
+    "latent_taste_seed": 860
+  },
+  {
+    "user_id": "U0097",
+    "age": 24,
+    "height_cm": 163.6,
+    "weight_kg": 97.4,
+    "bmi": 36.4,
+    "activity_level": "sedentary",
+    "goal": "lose",
+    "diseases": [
+      "hypertension"
+    ],
+    "allergies": [],
+    "budget_per_day": 220000,
+    "preferred_tags": [
+      "western"
+    ],
+    "latent_taste_seed": 3804
+  },
+  {
+    "user_id": "U0098",
+    "age": 52,
+    "height_cm": 178.2,
+    "weight_kg": 108.0,
+    "bmi": 34.0,
+    "activity_level": "sedentary",
+    "goal": "gain",
+    "diseases": [],
+    "allergies": [
+      "shellfish"
+    ],
+    "budget_per_day": 90000,
+    "preferred_tags": [
+      "western",
+      "vietnamese"
+    ],
+    "latent_taste_seed": 5489
+  },
+  {
+    "user_id": "U0099",
+    "age": 36,
+    "height_cm": 165.4,
+    "weight_kg": 91.3,
+    "bmi": 33.4,
+    "activity_level": "light",
+    "goal": "gain",
+    "diseases": [
+      "hypertension"
+    ],
+    "allergies": [],
+    "budget_per_day": 140000,
+    "preferred_tags": [
+      "seafood",
+      "western",
+      "vegetarian"
+    ],
+    "latent_taste_seed": 6643
+  },
+  {
+    "user_id": "U0100",
+    "age": 70,
+    "height_cm": 164.2,
+    "weight_kg": 66.2,
+    "bmi": 24.6,
+    "activity_level": "light",
+    "goal": "maintain",
+    "diseases": [],
+    "allergies": [
+      "shellfish"
+    ],
+    "budget_per_day": 140000,
+    "preferred_tags": [
+      "seafood",
+      "vietnamese"
+    ],
+    "latent_taste_seed": 1936
+  },
+  {
+    "user_id": "U0101",
+    "age": 47,
+    "height_cm": 158.8,
+    "weight_kg": 72.4,
+    "bmi": 28.7,
+    "activity_level": "light",
+    "goal": "gain",
+    "diseases": [],
+    "allergies": [],
+    "budget_per_day": 210000,
+    "preferred_tags": [
+      "western",
+      "spicy"
+    ],
+    "latent_taste_seed": 8806
+  },
+  {
+    "user_id": "U0102",
+    "age": 69,
+    "height_cm": 174.9,
+    "weight_kg": 57.5,
+    "bmi": 18.8,
+    "activity_level": "sedentary",
+    "goal": "lose",
+    "diseases": [],
+    "allergies": [],
+    "budget_per_day": 110000,
+    "preferred_tags": [
+      "western",
+      "spicy"
+    ],
+    "latent_taste_seed": 1904
+  },
+  {
+    "user_id": "U0103",
+    "age": 61,
+    "height_cm": 154.2,
+    "weight_kg": 86.7,
+    "bmi": 36.5,
+    "activity_level": "sedentary",
+    "goal": "lose",
+    "diseases": [],
+    "allergies": [],
+    "budget_per_day": 240000,
+    "preferred_tags": [
+      "vietnamese",
+      "western",
+      "seafood"
+    ],
+    "latent_taste_seed": 5644
+  },
+  {
+    "user_id": "U0104",
+    "age": 62,
+    "height_cm": 147.9,
+    "weight_kg": 119.5,
+    "bmi": 54.6,
+    "activity_level": "high",
+    "goal": "maintain",
+    "diseases": [
+      "diabetes"
+    ],
+    "allergies": [],
+    "budget_per_day": 270000,
+    "preferred_tags": [
+      "spicy",
+      "vietnamese"
+    ],
+    "latent_taste_seed": 8835
+  },
+  {
+    "user_id": "U0105",
+    "age": 26,
+    "height_cm": 174.4,
+    "weight_kg": 67.8,
+    "bmi": 22.3,
+    "activity_level": "sedentary",
+    "goal": "lose",
+    "diseases": [],
+    "allergies": [
+      "shellfish",
+      "peanut"
+    ],
+    "budget_per_day": 130000,
+    "preferred_tags": [
+      "seafood",
+      "vegetarian"
+    ],
+    "latent_taste_seed": 3088
+  },
+  {
+    "user_id": "U0106",
+    "age": 74,
+    "height_cm": 177.6,
+    "weight_kg": 49.0,
+    "bmi": 15.5,
+    "activity_level": "moderate",
+    "goal": "maintain",
+    "diseases": [
+      "gout"
+    ],
+    "allergies": [
+      "milk"
+    ],
+    "budget_per_day": 170000,
+    "preferred_tags": [
+      "western"
+    ],
+    "latent_taste_seed": 3559
+  },
+  {
+    "user_id": "U0107",
+    "age": 66,
+    "height_cm": 183.9,
+    "weight_kg": 44.5,
+    "bmi": 13.2,
+    "activity_level": "light",
+    "goal": "maintain",
+    "diseases": [],
+    "allergies": [],
+    "budget_per_day": 150000,
+    "preferred_tags": [
+      "western"
+    ],
+    "latent_taste_seed": 9693
+  },
+  {
+    "user_id": "U0108",
+    "age": 74,
+    "height_cm": 178.1,
+    "weight_kg": 54.0,
+    "bmi": 17.0,
+    "activity_level": "moderate",
+    "goal": "lose",
+    "diseases": [
+      "hypertension"
+    ],
+    "allergies": [],
+    "budget_per_day": 130000,
+    "preferred_tags": [
+      "vegetarian"
+    ],
+    "latent_taste_seed": 2365
+  },
+  {
+    "user_id": "U0109",
+    "age": 69,
+    "height_cm": 165.8,
+    "weight_kg": 44.6,
+    "bmi": 16.2,
+    "activity_level": "light",
+    "goal": "maintain",
+    "diseases": [],
+    "allergies": [],
+    "budget_per_day": 160000,
+    "preferred_tags": [
+      "western",
+      "vietnamese",
+      "spicy"
+    ],
+    "latent_taste_seed": 3082
+  },
+  {
+    "user_id": "U0110",
+    "age": 69,
+    "height_cm": 179.3,
+    "weight_kg": 97.9,
+    "bmi": 30.5,
+    "activity_level": "light",
+    "goal": "maintain",
+    "diseases": [],
+    "allergies": [
+      "shellfish"
+    ],
+    "budget_per_day": 210000,
+    "preferred_tags": [
+      "spicy"
+    ],
+    "latent_taste_seed": 3921
+  },
+  {
+    "user_id": "U0111",
+    "age": 53,
+    "height_cm": 159.5,
+    "weight_kg": 62.6,
+    "bmi": 24.6,
+    "activity_level": "light",
+    "goal": "lose",
+    "diseases": [],
+    "allergies": [],
+    "budget_per_day": 90000,
+    "preferred_tags": [
+      "seafood"
+    ],
+    "latent_taste_seed": 265
+  },
+  {
+    "user_id": "U0112",
+    "age": 34,
+    "height_cm": 169.9,
+    "weight_kg": 86.7,
+    "bmi": 30.0,
+    "activity_level": "moderate",
+    "goal": "maintain",
+    "diseases": [
+      "hypertension",
+      "diabetes"
+    ],
+    "allergies": [],
+    "budget_per_day": 240000,
+    "preferred_tags": [
+      "seafood",
+      "vegetarian"
+    ],
+    "latent_taste_seed": 2773
+  },
+  {
+    "user_id": "U0113",
+    "age": 26,
+    "height_cm": 177.4,
+    "weight_kg": 79.1,
+    "bmi": 25.1,
+    "activity_level": "high",
+    "goal": "lose",
+    "diseases": [
+      "diabetes",
+      "gout"
+    ],
+    "allergies": [],
+    "budget_per_day": 240000,
+    "preferred_tags": [
+      "seafood"
+    ],
+    "latent_taste_seed": 8285
+  },
+  {
+    "user_id": "U0114",
+    "age": 47,
+    "height_cm": 161.8,
+    "weight_kg": 89.4,
+    "bmi": 34.1,
+    "activity_level": "moderate",
+    "goal": "lose",
+    "diseases": [
+      "gout"
+    ],
+    "allergies": [
+      "peanut"
+    ],
+    "budget_per_day": 230000,
+    "preferred_tags": [
+      "vietnamese"
+    ],
+    "latent_taste_seed": 1578
+  },
+  {
+    "user_id": "U0115",
+    "age": 51,
+    "height_cm": 151.7,
+    "weight_kg": 55.4,
+    "bmi": 24.1,
+    "activity_level": "light",
+    "goal": "gain",
+    "diseases": [],
+    "allergies": [],
+    "budget_per_day": 270000,
+    "preferred_tags": [
+      "vietnamese"
+    ],
+    "latent_taste_seed": 6640
+  },
+  {
+    "user_id": "U0116",
+    "age": 42,
+    "height_cm": 162.0,
+    "weight_kg": 78.1,
+    "bmi": 29.8,
+    "activity_level": "light",
+    "goal": "lose",
+    "diseases": [
+      "hypertension"
+    ],
+    "allergies": [],
+    "budget_per_day": 230000,
+    "preferred_tags": [
+      "spicy",
+      "vegetarian",
+      "vietnamese"
+    ],
+    "latent_taste_seed": 1218
+  },
+  {
+    "user_id": "U0117",
+    "age": 61,
+    "height_cm": 186.7,
+    "weight_kg": 111.9,
+    "bmi": 32.1,
+    "activity_level": "light",
+    "goal": "maintain",
+    "diseases": [],
+    "allergies": [],
+    "budget_per_day": 260000,
+    "preferred_tags": [
+      "western",
+      "vegetarian"
+    ],
+    "latent_taste_seed": 6288
+  },
+  {
+    "user_id": "U0118",
+    "age": 66,
+    "height_cm": 178.3,
+    "weight_kg": 103.2,
+    "bmi": 32.5,
+    "activity_level": "moderate",
+    "goal": "maintain",
+    "diseases": [],
+    "allergies": [],
+    "budget_per_day": 220000,
+    "preferred_tags": [
+      "spicy",
+      "seafood"
+    ],
+    "latent_taste_seed": 5829
+  },
+  {
+    "user_id": "U0119",
+    "age": 53,
+    "height_cm": 187.4,
+    "weight_kg": 74.5,
+    "bmi": 21.2,
+    "activity_level": "moderate",
+    "goal": "lose",
+    "diseases": [
+      "hypertension"
+    ],
+    "allergies": [],
+    "budget_per_day": 100000,
+    "preferred_tags": [
+      "vegetarian"
+    ],
+    "latent_taste_seed": 7286
+  },
+  {
+    "user_id": "U0120",
+    "age": 41,
+    "height_cm": 179.3,
+    "weight_kg": 48.2,
+    "bmi": 15.0,
+    "activity_level": "sedentary",
+    "goal": "maintain",
+    "diseases": [],
+    "allergies": [],
+    "budget_per_day": 250000,
+    "preferred_tags": [
+      "western",
+      "seafood",
+      "vegetarian"
+    ],
+    "latent_taste_seed": 8537
+  },
+  {
+    "user_id": "U0121",
+    "age": 28,
+    "height_cm": 175.8,
+    "weight_kg": 53.6,
+    "bmi": 17.3,
+    "activity_level": "sedentary",
+    "goal": "maintain",
+    "diseases": [],
+    "allergies": [],
+    "budget_per_day": 180000,
+    "preferred_tags": [
+      "vegetarian"
+    ],
+    "latent_taste_seed": 110
+  },
+  {
+    "user_id": "U0122",
+    "age": 43,
+    "height_cm": 159.9,
+    "weight_kg": 89.6,
+    "bmi": 35.0,
+    "activity_level": "moderate",
+    "goal": "maintain",
+    "diseases": [],
+    "allergies": [],
+    "budget_per_day": 290000,
+    "preferred_tags": [
+      "spicy",
+      "seafood"
+    ],
+    "latent_taste_seed": 5339
+  },
+  {
+    "user_id": "U0123",
+    "age": 42,
+    "height_cm": 157.6,
+    "weight_kg": 102.9,
+    "bmi": 41.4,
+    "activity_level": "light",
+    "goal": "gain",
+    "diseases": [
+      "hypertension",
+      "gout"
+    ],
+    "allergies": [
+      "peanut"
+    ],
+    "budget_per_day": 100000,
+    "preferred_tags": [
+      "spicy",
+      "seafood"
+    ],
+    "latent_taste_seed": 4961
+  },
+  {
+    "user_id": "U0124",
+    "age": 33,
+    "height_cm": 156.4,
+    "weight_kg": 52.3,
+    "bmi": 21.4,
+    "activity_level": "light",
+    "goal": "maintain",
+    "diseases": [],
+    "allergies": [],
+    "budget_per_day": 260000,
+    "preferred_tags": [
+      "vietnamese",
+      "western",
+      "spicy"
+    ],
+    "latent_taste_seed": 5816
+  },
+  {
+    "user_id": "U0125",
+    "age": 28,
+    "height_cm": 174.1,
+    "weight_kg": 43.5,
+    "bmi": 14.4,
+    "activity_level": "high",
+    "goal": "lose",
+    "diseases": [],
+    "allergies": [
+      "peanut"
+    ],
+    "budget_per_day": 180000,
+    "preferred_tags": [
+      "spicy",
+      "seafood"
+    ],
+    "latent_taste_seed": 5651
+  },
+  {
+    "user_id": "U0126",
+    "age": 19,
+    "height_cm": 166.7,
+    "weight_kg": 63.6,
+    "bmi": 22.9,
+    "activity_level": "high",
+    "goal": "maintain",
+    "diseases": [],
+    "allergies": [],
+    "budget_per_day": 90000,
+    "preferred_tags": [
+      "vietnamese"
+    ],
+    "latent_taste_seed": 370
+  },
+  {
+    "user_id": "U0127",
+    "age": 72,
+    "height_cm": 160.4,
+    "weight_kg": 48.7,
+    "bmi": 18.9,
+    "activity_level": "moderate",
+    "goal": "gain",
+    "diseases": [],
+    "allergies": [],
+    "budget_per_day": 170000,
+    "preferred_tags": [
+      "western",
+      "seafood",
+      "spicy"
+    ],
+    "latent_taste_seed": 9702
+  },
+  {
+    "user_id": "U0128",
+    "age": 45,
+    "height_cm": 162.5,
+    "weight_kg": 96.4,
+    "bmi": 36.5,
+    "activity_level": "sedentary",
+    "goal": "lose",
+    "diseases": [
+      "diabetes",
+      "gout"
+    ],
+    "allergies": [],
+    "budget_per_day": 220000,
+    "preferred_tags": [
+      "spicy",
+      "western",
+      "vegetarian"
+    ],
+    "latent_taste_seed": 1871
+  },
+  {
+    "user_id": "U0129",
+    "age": 40,
+    "height_cm": 160.8,
+    "weight_kg": 76.6,
+    "bmi": 29.6,
+    "activity_level": "sedentary",
+    "goal": "lose",
+    "diseases": [],
+    "allergies": [],
+    "budget_per_day": 210000,
+    "preferred_tags": [
+      "spicy",
+      "western",
+      "vietnamese"
+    ],
+    "latent_taste_seed": 7973
+  },
+  {
+    "user_id": "U0130",
+    "age": 58,
+    "height_cm": 169.2,
+    "weight_kg": 113.5,
+    "bmi": 39.6,
+    "activity_level": "high",
+    "goal": "maintain",
+    "diseases": [
+      "hypertension",
+      "diabetes",
+      "gout"
+    ],
+    "allergies": [],
+    "budget_per_day": 200000,
+    "preferred_tags": [
+      "spicy",
+      "western",
+      "vegetarian"
+    ],
+    "latent_taste_seed": 8056
+  },
+  {
+    "user_id": "U0131",
+    "age": 44,
+    "height_cm": 177.0,
+    "weight_kg": 75.5,
+    "bmi": 24.1,
+    "activity_level": "sedentary",
+    "goal": "lose",
+    "diseases": [
+      "gout"
+    ],
+    "allergies": [],
+    "budget_per_day": 210000,
+    "preferred_tags": [
+      "western",
+      "vegetarian"
+    ],
+    "latent_taste_seed": 8880
+  },
+  {
+    "user_id": "U0132",
+    "age": 70,
+    "height_cm": 179.1,
+    "weight_kg": 100.8,
+    "bmi": 31.4,
+    "activity_level": "light",
+    "goal": "maintain",
+    "diseases": [],
+    "allergies": [
+      "milk"
+    ],
+    "budget_per_day": 110000,
+    "preferred_tags": [
+      "seafood"
+    ],
+    "latent_taste_seed": 9632
+  },
+  {
+    "user_id": "U0133",
+    "age": 62,
+    "height_cm": 160.8,
+    "weight_kg": 96.9,
+    "bmi": 37.5,
+    "activity_level": "light",
+    "goal": "maintain",
+    "diseases": [
+      "hypertension",
+      "diabetes",
+      "gout"
+    ],
+    "allergies": [],
+    "budget_per_day": 140000,
+    "preferred_tags": [
+      "vietnamese",
+      "seafood",
+      "spicy"
+    ],
+    "latent_taste_seed": 971
+  },
+  {
+    "user_id": "U0134",
+    "age": 35,
+    "height_cm": 184.0,
+    "weight_kg": 50.2,
+    "bmi": 14.8,
+    "activity_level": "moderate",
+    "goal": "maintain",
+    "diseases": [],
+    "allergies": [],
+    "budget_per_day": 270000,
+    "preferred_tags": [
+      "spicy"
+    ],
+    "latent_taste_seed": 8447
+  },
+  {
+    "user_id": "U0135",
+    "age": 65,
+    "height_cm": 157.5,
+    "weight_kg": 114.9,
+    "bmi": 46.3,
+    "activity_level": "light",
+    "goal": "gain",
+    "diseases": [
+      "diabetes"
+    ],
+    "allergies": [],
+    "budget_per_day": 130000,
+    "preferred_tags": [
+      "seafood",
+      "spicy"
+    ],
+    "latent_taste_seed": 4399
+  },
+  {
+    "user_id": "U0136",
+    "age": 38,
+    "height_cm": 182.3,
+    "weight_kg": 67.0,
+    "bmi": 20.2,
+    "activity_level": "light",
+    "goal": "lose",
+    "diseases": [],
+    "allergies": [
+      "shellfish"
+    ],
+    "budget_per_day": 80000,
+    "preferred_tags": [
+      "seafood",
+      "western"
+    ],
+    "latent_taste_seed": 4945
+  },
+  {
+    "user_id": "U0137",
+    "age": 28,
+    "height_cm": 184.3,
+    "weight_kg": 110.1,
+    "bmi": 32.4,
+    "activity_level": "sedentary",
+    "goal": "maintain",
+    "diseases": [
+      "hypertension"
+    ],
+    "allergies": [],
+    "budget_per_day": 130000,
+    "preferred_tags": [
+      "seafood"
+    ],
+    "latent_taste_seed": 9726
+  },
+  {
+    "user_id": "U0138",
+    "age": 32,
+    "height_cm": 168.4,
+    "weight_kg": 75.6,
+    "bmi": 26.7,
+    "activity_level": "sedentary",
+    "goal": "maintain",
+    "diseases": [
+      "hypertension"
+    ],
+    "allergies": [],
+    "budget_per_day": 160000,
+    "preferred_tags": [
+      "seafood"
+    ],
+    "latent_taste_seed": 1120
+  },
+  {
+    "user_id": "U0139",
+    "age": 51,
+    "height_cm": 170.3,
+    "weight_kg": 88.8,
+    "bmi": 30.6,
+    "activity_level": "sedentary",
+    "goal": "maintain",
+    "diseases": [
+      "hypertension"
+    ],
+    "allergies": [],
+    "budget_per_day": 160000,
+    "preferred_tags": [
+      "vegetarian",
+      "seafood"
+    ],
+    "latent_taste_seed": 4059
+  },
+  {
+    "user_id": "U0140",
+    "age": 35,
+    "height_cm": 174.0,
+    "weight_kg": 59.9,
+    "bmi": 19.8,
+    "activity_level": "light",
+    "goal": "lose",
+    "diseases": [
+      "gout"
+    ],
+    "allergies": [],
+    "budget_per_day": 250000,
+    "preferred_tags": [
+      "spicy"
+    ],
+    "latent_taste_seed": 6322
+  },
+  {
+    "user_id": "U0141",
+    "age": 25,
+    "height_cm": 155.8,
+    "weight_kg": 91.0,
+    "bmi": 37.5,
+    "activity_level": "sedentary",
+    "goal": "gain",
+    "diseases": [
+      "hypertension"
+    ],
+    "allergies": [],
+    "budget_per_day": 100000,
+    "preferred_tags": [
+      "vietnamese",
+      "western",
+      "seafood"
+    ],
+    "latent_taste_seed": 3534
+  },
+  {
+    "user_id": "U0142",
+    "age": 20,
+    "height_cm": 186.5,
+    "weight_kg": 115.9,
+    "bmi": 33.3,
+    "activity_level": "light",
+    "goal": "maintain",
+    "diseases": [],
+    "allergies": [],
+    "budget_per_day": 290000,
+    "preferred_tags": [
+      "western"
+    ],
+    "latent_taste_seed": 5353
+  },
+  {
+    "user_id": "U0143",
+    "age": 43,
+    "height_cm": 171.4,
+    "weight_kg": 101.1,
+    "bmi": 34.4,
+    "activity_level": "light",
+    "goal": "lose",
+    "diseases": [],
+    "allergies": [],
+    "budget_per_day": 220000,
+    "preferred_tags": [
+      "vietnamese"
+    ],
+    "latent_taste_seed": 207
+  },
+  {
+    "user_id": "U0144",
+    "age": 63,
+    "height_cm": 151.2,
+    "weight_kg": 40.9,
+    "bmi": 17.9,
+    "activity_level": "light",
+    "goal": "maintain",
+    "diseases": [],
+    "allergies": [],
+    "budget_per_day": 170000,
+    "preferred_tags": [
+      "vietnamese",
+      "vegetarian",
+      "spicy"
+    ],
+    "latent_taste_seed": 9447
+  },
+  {
+    "user_id": "U0145",
+    "age": 58,
+    "height_cm": 148.5,
+    "weight_kg": 76.4,
+    "bmi": 34.6,
+    "activity_level": "light",
+    "goal": "maintain",
+    "diseases": [],
+    "allergies": [],
+    "budget_per_day": 130000,
+    "preferred_tags": [
+      "vegetarian",
+      "spicy"
+    ],
+    "latent_taste_seed": 2458
+  },
+  {
+    "user_id": "U0146",
+    "age": 29,
+    "height_cm": 186.9,
+    "weight_kg": 108.6,
+    "bmi": 31.1,
+    "activity_level": "light",
+    "goal": "gain",
+    "diseases": [],
+    "allergies": [],
+    "budget_per_day": 120000,
+    "preferred_tags": [
+      "vietnamese",
+      "spicy",
+      "western"
+    ],
+    "latent_taste_seed": 7620
+  },
+  {
+    "user_id": "U0147",
+    "age": 73,
+    "height_cm": 157.7,
+    "weight_kg": 107.6,
+    "bmi": 43.3,
+    "activity_level": "light",
+    "goal": "lose",
+    "diseases": [
+      "hypertension",
+      "diabetes"
+    ],
+    "allergies": [],
+    "budget_per_day": 280000,
+    "preferred_tags": [
+      "seafood"
+    ],
+    "latent_taste_seed": 104
+  },
+  {
+    "user_id": "U0148",
+    "age": 44,
+    "height_cm": 146.1,
+    "weight_kg": 83.3,
+    "bmi": 39.0,
+    "activity_level": "light",
+    "goal": "lose",
+    "diseases": [
+      "hypertension"
+    ],
+    "allergies": [],
+    "budget_per_day": 290000,
+    "preferred_tags": [
+      "vegetarian"
+    ],
+    "latent_taste_seed": 1524
+  },
+  {
+    "user_id": "U0149",
+    "age": 20,
+    "height_cm": 186.5,
+    "weight_kg": 111.8,
+    "bmi": 32.1,
+    "activity_level": "light",
+    "goal": "lose",
+    "diseases": [],
+    "allergies": [],
+    "budget_per_day": 130000,
+    "preferred_tags": [
+      "vegetarian",
+      "spicy"
+    ],
+    "latent_taste_seed": 5345
+  },
+  {
+    "user_id": "U0150",
+    "age": 38,
+    "height_cm": 165.4,
+    "weight_kg": 58.7,
+    "bmi": 21.5,
+    "activity_level": "high",
+    "goal": "maintain",
+    "diseases": [],
+    "allergies": [],
+    "budget_per_day": 270000,
+    "preferred_tags": [
+      "seafood"
+    ],
+    "latent_taste_seed": 4984
+  },
+  {
+    "user_id": "U0151",
+    "age": 70,
+    "height_cm": 176.7,
+    "weight_kg": 88.3,
+    "bmi": 28.3,
+    "activity_level": "sedentary",
+    "goal": "gain",
+    "diseases": [
+      "hypertension"
+    ],
+    "allergies": [],
+    "budget_per_day": 200000,
+    "preferred_tags": [
+      "seafood",
+      "vietnamese",
+      "western"
+    ],
+    "latent_taste_seed": 1669
+  },
+  {
+    "user_id": "U0152",
+    "age": 69,
+    "height_cm": 180.7,
+    "weight_kg": 49.7,
+    "bmi": 15.2,
+    "activity_level": "sedentary",
+    "goal": "lose",
+    "diseases": [],
+    "allergies": [],
+    "budget_per_day": 120000,
+    "preferred_tags": [
+      "spicy",
+      "seafood",
+      "vietnamese"
+    ],
+    "latent_taste_seed": 5432
+  },
+  {
+    "user_id": "U0153",
+    "age": 25,
+    "height_cm": 146.9,
+    "weight_kg": 76.9,
+    "bmi": 35.6,
+    "activity_level": "sedentary",
+    "goal": "lose",
+    "diseases": [
+      "gout"
+    ],
+    "allergies": [],
+    "budget_per_day": 220000,
+    "preferred_tags": [
+      "vegetarian"
+    ],
+    "latent_taste_seed": 8173
+  },
+  {
+    "user_id": "U0154",
+    "age": 44,
+    "height_cm": 184.7,
+    "weight_kg": 78.3,
+    "bmi": 23.0,
+    "activity_level": "sedentary",
+    "goal": "maintain",
+    "diseases": [],
+    "allergies": [
+      "egg"
+    ],
+    "budget_per_day": 250000,
+    "preferred_tags": [
+      "western",
+      "vegetarian"
+    ],
+    "latent_taste_seed": 6363
+  },
+  {
+    "user_id": "U0155",
+    "age": 35,
+    "height_cm": 153.1,
+    "weight_kg": 65.5,
+    "bmi": 27.9,
+    "activity_level": "sedentary",
+    "goal": "gain",
+    "diseases": [
+      "diabetes"
+    ],
+    "allergies": [],
+    "budget_per_day": 260000,
+    "preferred_tags": [
+      "vietnamese",
+      "seafood",
+      "vegetarian"
+    ],
+    "latent_taste_seed": 6363
+  },
+  {
+    "user_id": "U0156",
+    "age": 40,
+    "height_cm": 187.1,
+    "weight_kg": 119.3,
+    "bmi": 34.1,
+    "activity_level": "sedentary",
+    "goal": "maintain",
+    "diseases": [],
+    "allergies": [],
+    "budget_per_day": 260000,
+    "preferred_tags": [
+      "western",
+      "vegetarian"
+    ],
+    "latent_taste_seed": 2876
+  },
+  {
+    "user_id": "U0157",
+    "age": 49,
+    "height_cm": 146.7,
+    "weight_kg": 44.5,
+    "bmi": 20.7,
+    "activity_level": "light",
+    "goal": "maintain",
+    "diseases": [],
+    "allergies": [],
+    "budget_per_day": 240000,
+    "preferred_tags": [
+      "vietnamese"
+    ],
+    "latent_taste_seed": 8622
+  },
+  {
+    "user_id": "U0158",
+    "age": 73,
+    "height_cm": 161.4,
+    "weight_kg": 45.8,
+    "bmi": 17.6,
+    "activity_level": "moderate",
+    "goal": "lose",
+    "diseases": [],
+    "allergies": [],
+    "budget_per_day": 200000,
+    "preferred_tags": [
+      "vegetarian",
+      "seafood",
+      "western"
+    ],
+    "latent_taste_seed": 9649
+  },
+  {
+    "user_id": "U0159",
+    "age": 70,
+    "height_cm": 152.9,
+    "weight_kg": 64.5,
+    "bmi": 27.6,
+    "activity_level": "moderate",
+    "goal": "maintain",
+    "diseases": [],
+    "allergies": [],
+    "budget_per_day": 130000,
+    "preferred_tags": [
+      "vietnamese",
+      "spicy",
+      "western"
+    ],
+    "latent_taste_seed": 5425
+  },
+  {
+    "user_id": "U0160",
+    "age": 65,
+    "height_cm": 148.5,
+    "weight_kg": 67.7,
+    "bmi": 30.7,
+    "activity_level": "light",
+    "goal": "lose",
+    "diseases": [],
+    "allergies": [
+      "milk"
+    ],
+    "budget_per_day": 240000,
+    "preferred_tags": [
+      "spicy"
+    ],
+    "latent_taste_seed": 7179
+  },
+  {
+    "user_id": "U0161",
+    "age": 64,
+    "height_cm": 163.9,
+    "weight_kg": 53.3,
+    "bmi": 19.8,
+    "activity_level": "light",
+    "goal": "gain",
+    "diseases": [],
+    "allergies": [],
+    "budget_per_day": 80000,
+    "preferred_tags": [
+      "vietnamese",
+      "western"
+    ],
+    "latent_taste_seed": 5600
+  },
+  {
+    "user_id": "U0162",
+    "age": 28,
+    "height_cm": 185.0,
+    "weight_kg": 52.9,
+    "bmi": 15.5,
+    "activity_level": "sedentary",
+    "goal": "gain",
+    "diseases": [],
+    "allergies": [],
+    "budget_per_day": 150000,
+    "preferred_tags": [
+      "spicy"
+    ],
+    "latent_taste_seed": 9078
+  },
+  {
+    "user_id": "U0163",
+    "age": 64,
+    "height_cm": 186.7,
+    "weight_kg": 83.2,
+    "bmi": 23.9,
+    "activity_level": "moderate",
+    "goal": "maintain",
+    "diseases": [
+      "hypertension"
+    ],
+    "allergies": [
+      "milk"
+    ],
+    "budget_per_day": 100000,
+    "preferred_tags": [
+      "seafood"
+    ],
+    "latent_taste_seed": 4781
+  },
+  {
+    "user_id": "U0164",
+    "age": 23,
+    "height_cm": 166.3,
+    "weight_kg": 49.2,
+    "bmi": 17.8,
+    "activity_level": "moderate",
+    "goal": "maintain",
+    "diseases": [],
+    "allergies": [],
+    "budget_per_day": 260000,
+    "preferred_tags": [
+      "vietnamese",
+      "seafood",
+      "vegetarian"
+    ],
+    "latent_taste_seed": 1584
+  },
+  {
+    "user_id": "U0165",
+    "age": 23,
+    "height_cm": 175.1,
+    "weight_kg": 104.7,
+    "bmi": 34.1,
+    "activity_level": "light",
+    "goal": "lose",
+    "diseases": [
+      "hypertension",
+      "diabetes"
+    ],
+    "allergies": [],
+    "budget_per_day": 170000,
+    "preferred_tags": [
+      "vietnamese",
+      "seafood",
+      "western"
+    ],
+    "latent_taste_seed": 7357
+  },
+  {
+    "user_id": "U0166",
+    "age": 29,
+    "height_cm": 187.7,
+    "weight_kg": 53.4,
+    "bmi": 15.2,
+    "activity_level": "sedentary",
+    "goal": "maintain",
+    "diseases": [
+      "hypertension",
+      "diabetes"
+    ],
+    "allergies": [],
+    "budget_per_day": 100000,
+    "preferred_tags": [
+      "spicy",
+      "vegetarian",
+      "seafood"
+    ],
+    "latent_taste_seed": 8514
+  },
+  {
+    "user_id": "U0167",
+    "age": 47,
+    "height_cm": 186.3,
+    "weight_kg": 41.0,
+    "bmi": 11.8,
+    "activity_level": "moderate",
+    "goal": "lose",
+    "diseases": [],
+    "allergies": [],
+    "budget_per_day": 270000,
+    "preferred_tags": [
+      "spicy",
+      "vegetarian"
+    ],
+    "latent_taste_seed": 6275
+  },
+  {
+    "user_id": "U0168",
+    "age": 59,
+    "height_cm": 166.9,
+    "weight_kg": 88.7,
+    "bmi": 31.8,
+    "activity_level": "sedentary",
+    "goal": "maintain",
+    "diseases": [
+      "hypertension"
+    ],
+    "allergies": [
+      "shellfish"
+    ],
+    "budget_per_day": 80000,
+    "preferred_tags": [
+      "vegetarian",
+      "western"
+    ],
+    "latent_taste_seed": 8054
+  },
+  {
+    "user_id": "U0169",
+    "age": 72,
+    "height_cm": 176.3,
+    "weight_kg": 47.9,
+    "bmi": 15.4,
+    "activity_level": "moderate",
+    "goal": "maintain",
+    "diseases": [],
+    "allergies": [],
+    "budget_per_day": 250000,
+    "preferred_tags": [
+      "vietnamese",
+      "seafood"
+    ],
+    "latent_taste_seed": 1075
+  },
+  {
+    "user_id": "U0170",
+    "age": 37,
+    "height_cm": 176.9,
+    "weight_kg": 72.3,
+    "bmi": 23.1,
+    "activity_level": "moderate",
+    "goal": "lose",
+    "diseases": [],
+    "allergies": [
+      "milk"
+    ],
+    "budget_per_day": 180000,
+    "preferred_tags": [
+      "vietnamese",
+      "western"
+    ],
+    "latent_taste_seed": 3963
+  },
+  {
+    "user_id": "U0171",
+    "age": 41,
+    "height_cm": 167.0,
+    "weight_kg": 75.7,
+    "bmi": 27.1,
+    "activity_level": "high",
+    "goal": "maintain",
+    "diseases": [],
+    "allergies": [],
+    "budget_per_day": 130000,
+    "preferred_tags": [
+      "seafood"
+    ],
+    "latent_taste_seed": 3387
+  },
+  {
+    "user_id": "U0172",
+    "age": 35,
+    "height_cm": 174.3,
+    "weight_kg": 81.1,
+    "bmi": 26.7,
+    "activity_level": "moderate",
+    "goal": "gain",
+    "diseases": [],
+    "allergies": [],
+    "budget_per_day": 140000,
+    "preferred_tags": [
+      "vegetarian",
+      "spicy"
+    ],
+    "latent_taste_seed": 4128
+  },
+  {
+    "user_id": "U0173",
+    "age": 31,
+    "height_cm": 166.0,
+    "weight_kg": 94.2,
+    "bmi": 34.2,
+    "activity_level": "moderate",
+    "goal": "maintain",
+    "diseases": [
+      "hypertension"
+    ],
+    "allergies": [],
+    "budget_per_day": 300000,
+    "preferred_tags": [
+      "vegetarian",
+      "western",
+      "seafood"
+    ],
+    "latent_taste_seed": 4895
+  },
+  {
+    "user_id": "U0174",
+    "age": 30,
+    "height_cm": 151.7,
+    "weight_kg": 101.2,
+    "bmi": 44.0,
+    "activity_level": "moderate",
+    "goal": "gain",
+    "diseases": [],
+    "allergies": [],
+    "budget_per_day": 90000,
+    "preferred_tags": [
+      "western",
+      "seafood",
+      "spicy"
+    ],
+    "latent_taste_seed": 3643
+  },
+  {
+    "user_id": "U0175",
+    "age": 61,
+    "height_cm": 169.1,
+    "weight_kg": 102.8,
+    "bmi": 36.0,
+    "activity_level": "high",
+    "goal": "lose",
+    "diseases": [],
+    "allergies": [],
+    "budget_per_day": 120000,
+    "preferred_tags": [
+      "vegetarian",
+      "vietnamese",
+      "spicy"
+    ],
+    "latent_taste_seed": 5820
+  },
+  {
+    "user_id": "U0176",
+    "age": 32,
+    "height_cm": 178.5,
+    "weight_kg": 64.6,
+    "bmi": 20.3,
+    "activity_level": "moderate",
+    "goal": "maintain",
+    "diseases": [],
+    "allergies": [],
+    "budget_per_day": 270000,
+    "preferred_tags": [
+      "western",
+      "vegetarian"
+    ],
+    "latent_taste_seed": 6768
+  },
+  {
+    "user_id": "U0177",
+    "age": 21,
+    "height_cm": 184.2,
+    "weight_kg": 52.1,
+    "bmi": 15.4,
+    "activity_level": "high",
+    "goal": "maintain",
+    "diseases": [],
+    "allergies": [],
+    "budget_per_day": 90000,
+    "preferred_tags": [
+      "vegetarian",
+      "seafood"
+    ],
+    "latent_taste_seed": 2762
+  },
+  {
+    "user_id": "U0178",
+    "age": 54,
+    "height_cm": 179.4,
+    "weight_kg": 79.2,
+    "bmi": 24.6,
+    "activity_level": "moderate",
+    "goal": "maintain",
+    "diseases": [],
+    "allergies": [
+      "milk"
+    ],
+    "budget_per_day": 260000,
+    "preferred_tags": [
+      "vietnamese"
+    ],
+    "latent_taste_seed": 67
+  },
+  {
+    "user_id": "U0179",
+    "age": 58,
+    "height_cm": 178.0,
+    "weight_kg": 58.1,
+    "bmi": 18.3,
+    "activity_level": "moderate",
+    "goal": "maintain",
+    "diseases": [
+      "hypertension"
+    ],
+    "allergies": [],
+    "budget_per_day": 230000,
+    "preferred_tags": [
+      "vegetarian"
+    ],
+    "latent_taste_seed": 8031
+  },
+  {
+    "user_id": "U0180",
+    "age": 40,
+    "height_cm": 178.8,
+    "weight_kg": 53.2,
+    "bmi": 16.6,
+    "activity_level": "high",
+    "goal": "gain",
+    "diseases": [
+      "hypertension",
+      "diabetes"
+    ],
+    "allergies": [
+      "peanut"
+    ],
+    "budget_per_day": 220000,
+    "preferred_tags": [
+      "western",
+      "vietnamese",
+      "vegetarian"
+    ],
+    "latent_taste_seed": 785
+  },
+  {
+    "user_id": "U0181",
+    "age": 60,
+    "height_cm": 149.9,
+    "weight_kg": 106.9,
+    "bmi": 47.6,
+    "activity_level": "sedentary",
+    "goal": "maintain",
+    "diseases": [
+      "diabetes"
+    ],
+    "allergies": [
+      "egg"
+    ],
+    "budget_per_day": 220000,
+    "preferred_tags": [
+      "seafood",
+      "spicy",
+      "vietnamese"
+    ],
+    "latent_taste_seed": 8381
+  },
+  {
+    "user_id": "U0182",
+    "age": 64,
+    "height_cm": 172.8,
+    "weight_kg": 62.6,
+    "bmi": 21.0,
+    "activity_level": "moderate",
+    "goal": "maintain",
+    "diseases": [],
+    "allergies": [],
+    "budget_per_day": 190000,
+    "preferred_tags": [
+      "vietnamese"
+    ],
+    "latent_taste_seed": 208
+  },
+  {
+    "user_id": "U0183",
+    "age": 60,
+    "height_cm": 149.0,
+    "weight_kg": 48.8,
+    "bmi": 22.0,
+    "activity_level": "light",
+    "goal": "maintain",
+    "diseases": [],
+    "allergies": [],
+    "budget_per_day": 260000,
+    "preferred_tags": [
+      "vegetarian"
+    ],
+    "latent_taste_seed": 5901
+  },
+  {
+    "user_id": "U0184",
+    "age": 69,
+    "height_cm": 175.5,
+    "weight_kg": 74.1,
+    "bmi": 24.1,
+    "activity_level": "sedentary",
+    "goal": "gain",
+    "diseases": [
+      "diabetes",
+      "gout"
+    ],
+    "allergies": [],
+    "budget_per_day": 160000,
+    "preferred_tags": [
+      "spicy"
+    ],
+    "latent_taste_seed": 6557
+  },
+  {
+    "user_id": "U0185",
+    "age": 47,
+    "height_cm": 157.2,
+    "weight_kg": 70.9,
+    "bmi": 28.7,
+    "activity_level": "moderate",
+    "goal": "lose",
+    "diseases": [],
+    "allergies": [],
+    "budget_per_day": 230000,
+    "preferred_tags": [
+      "western"
+    ],
+    "latent_taste_seed": 6221
+  },
+  {
+    "user_id": "U0186",
+    "age": 67,
+    "height_cm": 161.1,
+    "weight_kg": 42.3,
+    "bmi": 16.3,
+    "activity_level": "moderate",
+    "goal": "gain",
+    "diseases": [],
+    "allergies": [],
+    "budget_per_day": 250000,
+    "preferred_tags": [
+      "western",
+      "seafood",
+      "vegetarian"
+    ],
+    "latent_taste_seed": 5542
+  },
+  {
+    "user_id": "U0187",
+    "age": 51,
+    "height_cm": 168.5,
+    "weight_kg": 96.0,
+    "bmi": 33.8,
+    "activity_level": "sedentary",
+    "goal": "lose",
+    "diseases": [
+      "hypertension"
+    ],
+    "allergies": [],
+    "budget_per_day": 270000,
+    "preferred_tags": [
+      "seafood",
+      "vietnamese"
+    ],
+    "latent_taste_seed": 8055
+  },
+  {
+    "user_id": "U0188",
+    "age": 38,
+    "height_cm": 155.8,
+    "weight_kg": 117.6,
+    "bmi": 48.4,
+    "activity_level": "sedentary",
+    "goal": "maintain",
+    "diseases": [],
+    "allergies": [],
+    "budget_per_day": 220000,
+    "preferred_tags": [
+      "spicy"
+    ],
+    "latent_taste_seed": 6755
+  },
+  {
+    "user_id": "U0189",
+    "age": 20,
+    "height_cm": 170.1,
+    "weight_kg": 40.0,
+    "bmi": 13.8,
+    "activity_level": "sedentary",
+    "goal": "lose",
+    "diseases": [],
+    "allergies": [],
+    "budget_per_day": 200000,
+    "preferred_tags": [
+      "western",
+      "spicy",
+      "vegetarian"
+    ],
+    "latent_taste_seed": 5952
+  },
+  {
+    "user_id": "U0190",
+    "age": 63,
+    "height_cm": 165.4,
+    "weight_kg": 47.8,
+    "bmi": 17.5,
+    "activity_level": "moderate",
+    "goal": "maintain",
+    "diseases": [],
+    "allergies": [],
+    "budget_per_day": 170000,
+    "preferred_tags": [
+      "western",
+      "seafood"
+    ],
+    "latent_taste_seed": 3072
+  },
+  {
+    "user_id": "U0191",
+    "age": 25,
+    "height_cm": 186.9,
+    "weight_kg": 71.4,
+    "bmi": 20.4,
+    "activity_level": "light",
+    "goal": "lose",
+    "diseases": [],
+    "allergies": [],
+    "budget_per_day": 110000,
+    "preferred_tags": [
+      "vietnamese",
+      "western"
+    ],
+    "latent_taste_seed": 9064
+  },
+  {
+    "user_id": "U0192",
+    "age": 45,
+    "height_cm": 182.7,
+    "weight_kg": 78.6,
+    "bmi": 23.5,
+    "activity_level": "light",
+    "goal": "gain",
+    "diseases": [],
+    "allergies": [],
+    "budget_per_day": 280000,
+    "preferred_tags": [
+      "vegetarian"
+    ],
+    "latent_taste_seed": 6518
+  },
+  {
+    "user_id": "U0193",
+    "age": 39,
+    "height_cm": 188.7,
+    "weight_kg": 76.2,
+    "bmi": 21.4,
+    "activity_level": "sedentary",
+    "goal": "maintain",
+    "diseases": [],
+    "allergies": [],
+    "budget_per_day": 140000,
+    "preferred_tags": [
+      "seafood",
+      "western"
+    ],
+    "latent_taste_seed": 8255
+  },
+  {
+    "user_id": "U0194",
+    "age": 52,
+    "height_cm": 176.2,
+    "weight_kg": 65.8,
+    "bmi": 21.2,
+    "activity_level": "sedentary",
+    "goal": "maintain",
+    "diseases": [],
+    "allergies": [],
+    "budget_per_day": 90000,
+    "preferred_tags": [
+      "vietnamese"
+    ],
+    "latent_taste_seed": 927
+  },
+  {
+    "user_id": "U0195",
+    "age": 30,
+    "height_cm": 157.0,
+    "weight_kg": 102.8,
+    "bmi": 41.7,
+    "activity_level": "high",
+    "goal": "lose",
+    "diseases": [
+      "hypertension",
+      "diabetes"
+    ],
+    "allergies": [],
+    "budget_per_day": 130000,
+    "preferred_tags": [
+      "western",
+      "spicy",
+      "vietnamese"
+    ],
+    "latent_taste_seed": 8370
+  },
+  {
+    "user_id": "U0196",
+    "age": 68,
+    "height_cm": 180.9,
+    "weight_kg": 95.7,
+    "bmi": 29.2,
+    "activity_level": "moderate",
+    "goal": "maintain",
+    "diseases": [],
+    "allergies": [],
+    "budget_per_day": 180000,
+    "preferred_tags": [
+      "vegetarian"
+    ],
+    "latent_taste_seed": 9640
+  },
+  {
+    "user_id": "U0197",
+    "age": 52,
+    "height_cm": 178.2,
+    "weight_kg": 55.7,
+    "bmi": 17.5,
+    "activity_level": "moderate",
+    "goal": "maintain",
+    "diseases": [],
+    "allergies": [],
+    "budget_per_day": 270000,
+    "preferred_tags": [
+      "vegetarian"
+    ],
+    "latent_taste_seed": 7640
+  },
+  {
+    "user_id": "U0198",
+    "age": 63,
+    "height_cm": 187.2,
+    "weight_kg": 43.2,
+    "bmi": 12.3,
+    "activity_level": "high",
+    "goal": "lose",
+    "diseases": [],
+    "allergies": [],
+    "budget_per_day": 190000,
+    "preferred_tags": [
+      "seafood",
+      "spicy",
+      "vegetarian"
+    ],
+    "latent_taste_seed": 8798
+  },
+  {
+    "user_id": "U0199",
+    "age": 43,
+    "height_cm": 149.1,
+    "weight_kg": 57.7,
+    "bmi": 26.0,
+    "activity_level": "sedentary",
+    "goal": "maintain",
+    "diseases": [],
+    "allergies": [
+      "soy"
+    ],
+    "budget_per_day": 280000,
+    "preferred_tags": [
+      "western",
+      "seafood",
+      "vietnamese"
+    ],
+    "latent_taste_seed": 5258
+  },
+  {
+    "user_id": "U0200",
+    "age": 42,
+    "height_cm": 186.2,
+    "weight_kg": 115.6,
+    "bmi": 33.3,
+    "activity_level": "light",
+    "goal": "lose",
+    "diseases": [],
+    "allergies": [],
+    "budget_per_day": 290000,
+    "preferred_tags": [
+      "western"
+    ],
+    "latent_taste_seed": 8736
+  },
+  {
+    "user_id": "U0201",
+    "age": 18,
+    "height_cm": 173.2,
+    "weight_kg": 56.9,
+    "bmi": 19.0,
+    "activity_level": "light",
+    "goal": "maintain",
+    "diseases": [],
+    "allergies": [],
+    "budget_per_day": 90000,
+    "preferred_tags": [
+      "vegetarian",
+      "vietnamese",
+      "spicy"
+    ],
+    "latent_taste_seed": 1200
+  },
+  {
+    "user_id": "U0202",
+    "age": 21,
+    "height_cm": 153.0,
+    "weight_kg": 60.2,
+    "bmi": 25.7,
+    "activity_level": "sedentary",
+    "goal": "gain",
+    "diseases": [],
+    "allergies": [
+      "soy"
+    ],
+    "budget_per_day": 240000,
+    "preferred_tags": [
+      "vietnamese"
+    ],
+    "latent_taste_seed": 5860
+  },
+  {
+    "user_id": "U0203",
+    "age": 50,
+    "height_cm": 149.8,
+    "weight_kg": 103.0,
+    "bmi": 45.9,
+    "activity_level": "light",
+    "goal": "maintain",
+    "diseases": [],
+    "allergies": [],
+    "budget_per_day": 290000,
+    "preferred_tags": [
+      "vegetarian"
+    ],
+    "latent_taste_seed": 6113
+  },
+  {
+    "user_id": "U0204",
+    "age": 18,
+    "height_cm": 169.9,
+    "weight_kg": 84.4,
+    "bmi": 29.2,
+    "activity_level": "sedentary",
+    "goal": "maintain",
+    "diseases": [],
+    "allergies": [],
+    "budget_per_day": 120000,
+    "preferred_tags": [
+      "western"
+    ],
+    "latent_taste_seed": 4140
+  },
+  {
+    "user_id": "U0205",
+    "age": 30,
+    "height_cm": 150.2,
+    "weight_kg": 93.7,
+    "bmi": 41.5,
+    "activity_level": "light",
+    "goal": "maintain",
+    "diseases": [],
+    "allergies": [],
+    "budget_per_day": 160000,
+    "preferred_tags": [
+      "seafood",
+      "vietnamese",
+      "western"
+    ],
+    "latent_taste_seed": 1143
+  },
+  {
+    "user_id": "U0206",
+    "age": 75,
+    "height_cm": 153.7,
+    "weight_kg": 78.9,
+    "bmi": 33.4,
+    "activity_level": "light",
+    "goal": "lose",
+    "diseases": [],
+    "allergies": [],
+    "budget_per_day": 140000,
+    "preferred_tags": [
+      "seafood",
+      "vegetarian"
+    ],
+    "latent_taste_seed": 7863
+  },
+  {
+    "user_id": "U0207",
+    "age": 47,
+    "height_cm": 165.0,
+    "weight_kg": 102.0,
+    "bmi": 37.5,
+    "activity_level": "light",
+    "goal": "maintain",
+    "diseases": [
+      "diabetes"
+    ],
+    "allergies": [],
+    "budget_per_day": 270000,
+    "preferred_tags": [
+      "vietnamese",
+      "spicy",
+      "vegetarian"
+    ],
+    "latent_taste_seed": 3485
+  },
+  {
+    "user_id": "U0208",
+    "age": 20,
+    "height_cm": 169.8,
+    "weight_kg": 83.5,
+    "bmi": 29.0,
+    "activity_level": "high",
+    "goal": "maintain",
+    "diseases": [],
+    "allergies": [],
+    "budget_per_day": 230000,
+    "preferred_tags": [
+      "seafood",
+      "western",
+      "spicy"
+    ],
+    "latent_taste_seed": 2608
+  },
+  {
+    "user_id": "U0209",
+    "age": 29,
+    "height_cm": 170.5,
+    "weight_kg": 85.3,
+    "bmi": 29.3,
+    "activity_level": "moderate",
+    "goal": "maintain",
+    "diseases": [
+      "gout"
+    ],
+    "allergies": [],
+    "budget_per_day": 170000,
+    "preferred_tags": [
+      "vietnamese",
+      "western"
+    ],
+    "latent_taste_seed": 5309
+  },
+  {
+    "user_id": "U0210",
+    "age": 24,
+    "height_cm": 176.7,
+    "weight_kg": 81.7,
+    "bmi": 26.2,
+    "activity_level": "moderate",
+    "goal": "gain",
+    "diseases": [],
+    "allergies": [],
+    "budget_per_day": 190000,
+    "preferred_tags": [
+      "vegetarian",
+      "spicy"
+    ],
+    "latent_taste_seed": 7898
+  },
+  {
+    "user_id": "U0211",
+    "age": 74,
+    "height_cm": 172.2,
+    "weight_kg": 80.1,
+    "bmi": 27.0,
+    "activity_level": "sedentary",
+    "goal": "maintain",
+    "diseases": [
+      "hypertension",
+      "gout"
+    ],
+    "allergies": [],
+    "budget_per_day": 190000,
+    "preferred_tags": [
+      "spicy",
+      "seafood"
+    ],
+    "latent_taste_seed": 9679
+  },
+  {
+    "user_id": "U0212",
+    "age": 28,
+    "height_cm": 174.1,
+    "weight_kg": 72.9,
+    "bmi": 24.1,
+    "activity_level": "sedentary",
+    "goal": "maintain",
+    "diseases": [],
+    "allergies": [],
+    "budget_per_day": 220000,
+    "preferred_tags": [
+      "vegetarian",
+      "vietnamese",
+      "spicy"
+    ],
+    "latent_taste_seed": 7359
+  },
+  {
+    "user_id": "U0213",
+    "age": 56,
+    "height_cm": 189.7,
+    "weight_kg": 109.4,
+    "bmi": 30.4,
+    "activity_level": "sedentary",
+    "goal": "gain",
+    "diseases": [],
+    "allergies": [],
+    "budget_per_day": 130000,
+    "preferred_tags": [
+      "seafood",
+      "vietnamese"
+    ],
+    "latent_taste_seed": 271
+  },
+  {
+    "user_id": "U0214",
+    "age": 30,
+    "height_cm": 168.5,
+    "weight_kg": 112.7,
+    "bmi": 39.7,
+    "activity_level": "moderate",
+    "goal": "gain",
+    "diseases": [],
+    "allergies": [],
+    "budget_per_day": 200000,
+    "preferred_tags": [
+      "spicy"
+    ],
+    "latent_taste_seed": 8553
+  },
+  {
+    "user_id": "U0215",
+    "age": 44,
+    "height_cm": 161.7,
+    "weight_kg": 43.5,
+    "bmi": 16.6,
+    "activity_level": "light",
+    "goal": "maintain",
+    "diseases": [],
+    "allergies": [],
+    "budget_per_day": 130000,
+    "preferred_tags": [
+      "vegetarian"
+    ],
+    "latent_taste_seed": 9802
+  },
+  {
+    "user_id": "U0216",
+    "age": 74,
+    "height_cm": 169.5,
+    "weight_kg": 60.6,
+    "bmi": 21.1,
+    "activity_level": "sedentary",
+    "goal": "lose",
+    "diseases": [
+      "hypertension"
+    ],
+    "allergies": [],
+    "budget_per_day": 140000,
+    "preferred_tags": [
+      "spicy",
+      "vegetarian",
+      "western"
+    ],
+    "latent_taste_seed": 4514
+  },
+  {
+    "user_id": "U0217",
+    "age": 61,
+    "height_cm": 162.9,
+    "weight_kg": 56.3,
+    "bmi": 21.2,
+    "activity_level": "light",
+    "goal": "lose",
+    "diseases": [],
+    "allergies": [],
+    "budget_per_day": 130000,
+    "preferred_tags": [
+      "seafood",
+      "vietnamese",
+      "spicy"
+    ],
+    "latent_taste_seed": 8328
+  },
+  {
+    "user_id": "U0218",
+    "age": 43,
+    "height_cm": 180.4,
+    "weight_kg": 104.1,
+    "bmi": 32.0,
+    "activity_level": "light",
+    "goal": "lose",
+    "diseases": [
+      "hypertension"
+    ],
+    "allergies": [],
+    "budget_per_day": 210000,
+    "preferred_tags": [
+      "spicy",
+      "western",
+      "vegetarian"
+    ],
+    "latent_taste_seed": 8536
+  },
+  {
+    "user_id": "U0219",
+    "age": 36,
+    "height_cm": 177.0,
+    "weight_kg": 87.8,
+    "bmi": 28.0,
+    "activity_level": "high",
+    "goal": "gain",
+    "diseases": [],
+    "allergies": [],
+    "budget_per_day": 120000,
+    "preferred_tags": [
+      "vegetarian"
+    ],
+    "latent_taste_seed": 3919
+  },
+  {
+    "user_id": "U0220",
+    "age": 59,
+    "height_cm": 145.0,
+    "weight_kg": 52.6,
+    "bmi": 25.0,
+    "activity_level": "high",
+    "goal": "lose",
+    "diseases": [],
+    "allergies": [],
+    "budget_per_day": 160000,
+    "preferred_tags": [
+      "seafood",
+      "western"
+    ],
+    "latent_taste_seed": 7450
+  },
+  {
+    "user_id": "U0221",
+    "age": 43,
+    "height_cm": 170.9,
+    "weight_kg": 60.9,
+    "bmi": 20.9,
+    "activity_level": "light",
+    "goal": "maintain",
+    "diseases": [
+      "hypertension"
+    ],
+    "allergies": [],
+    "budget_per_day": 200000,
+    "preferred_tags": [
+      "vegetarian"
+    ],
+    "latent_taste_seed": 7517
+  },
+  {
+    "user_id": "U0222",
+    "age": 61,
+    "height_cm": 165.7,
+    "weight_kg": 86.9,
+    "bmi": 31.7,
+    "activity_level": "sedentary",
+    "goal": "maintain",
+    "diseases": [
+      "hypertension"
+    ],
+    "allergies": [
+      "wheat"
+    ],
+    "budget_per_day": 130000,
+    "preferred_tags": [
+      "spicy"
+    ],
+    "latent_taste_seed": 5603
+  },
+  {
+    "user_id": "U0223",
+    "age": 22,
+    "height_cm": 170.0,
+    "weight_kg": 54.3,
+    "bmi": 18.8,
+    "activity_level": "light",
+    "goal": "maintain",
+    "diseases": [],
+    "allergies": [],
+    "budget_per_day": 260000,
+    "preferred_tags": [
+      "vegetarian",
+      "seafood",
+      "vietnamese"
+    ],
+    "latent_taste_seed": 1964
+  },
+  {
+    "user_id": "U0224",
+    "age": 23,
+    "height_cm": 175.4,
+    "weight_kg": 93.1,
+    "bmi": 30.3,
+    "activity_level": "light",
+    "goal": "lose",
+    "diseases": [
+      "diabetes"
+    ],
+    "allergies": [],
+    "budget_per_day": 280000,
+    "preferred_tags": [
+      "spicy",
+      "seafood"
+    ],
+    "latent_taste_seed": 9448
+  },
+  {
+    "user_id": "U0225",
+    "age": 26,
+    "height_cm": 147.4,
+    "weight_kg": 103.9,
+    "bmi": 47.8,
+    "activity_level": "light",
+    "goal": "lose",
+    "diseases": [],
+    "allergies": [],
+    "budget_per_day": 210000,
+    "preferred_tags": [
+      "vegetarian",
+      "western"
+    ],
+    "latent_taste_seed": 3066
+  },
+  {
+    "user_id": "U0226",
+    "age": 53,
+    "height_cm": 156.8,
+    "weight_kg": 61.6,
+    "bmi": 25.1,
+    "activity_level": "high",
+    "goal": "maintain",
+    "diseases": [
+      "hypertension"
+    ],
+    "allergies": [],
+    "budget_per_day": 260000,
+    "preferred_tags": [
+      "vegetarian",
+      "seafood",
+      "western"
+    ],
+    "latent_taste_seed": 7081
+  },
+  {
+    "user_id": "U0227",
+    "age": 72,
+    "height_cm": 162.1,
+    "weight_kg": 51.7,
+    "bmi": 19.7,
+    "activity_level": "high",
+    "goal": "maintain",
+    "diseases": [],
+    "allergies": [],
+    "budget_per_day": 200000,
+    "preferred_tags": [
+      "vietnamese",
+      "seafood"
+    ],
+    "latent_taste_seed": 983
+  },
+  {
+    "user_id": "U0228",
+    "age": 31,
+    "height_cm": 181.6,
+    "weight_kg": 78.1,
+    "bmi": 23.7,
+    "activity_level": "light",
+    "goal": "maintain",
+    "diseases": [],
+    "allergies": [
+      "milk"
+    ],
+    "budget_per_day": 210000,
+    "preferred_tags": [
+      "western",
+      "seafood",
+      "spicy"
+    ],
+    "latent_taste_seed": 5818
+  },
+  {
+    "user_id": "U0229",
+    "age": 38,
+    "height_cm": 175.3,
+    "weight_kg": 79.0,
+    "bmi": 25.7,
+    "activity_level": "moderate",
+    "goal": "gain",
+    "diseases": [],
+    "allergies": [],
+    "budget_per_day": 100000,
+    "preferred_tags": [
+      "vegetarian"
+    ],
+    "latent_taste_seed": 3739
+  },
+  {
+    "user_id": "U0230",
+    "age": 38,
+    "height_cm": 159.3,
+    "weight_kg": 63.3,
+    "bmi": 24.9,
+    "activity_level": "sedentary",
+    "goal": "lose",
+    "diseases": [],
+    "allergies": [],
+    "budget_per_day": 230000,
+    "preferred_tags": [
+      "vietnamese",
+      "seafood",
+      "western"
+    ],
+    "latent_taste_seed": 6505
+  },
+  {
+    "user_id": "U0231",
+    "age": 24,
+    "height_cm": 149.3,
+    "weight_kg": 114.9,
+    "bmi": 51.5,
+    "activity_level": "light",
+    "goal": "maintain",
+    "diseases": [],
+    "allergies": [],
+    "budget_per_day": 180000,
+    "preferred_tags": [
+      "seafood"
+    ],
+    "latent_taste_seed": 8630
+  },
+  {
+    "user_id": "U0232",
+    "age": 71,
+    "height_cm": 152.7,
+    "weight_kg": 42.8,
+    "bmi": 18.4,
+    "activity_level": "light",
+    "goal": "gain",
+    "diseases": [],
+    "allergies": [],
+    "budget_per_day": 240000,
+    "preferred_tags": [
+      "spicy",
+      "vegetarian",
+      "seafood"
+    ],
+    "latent_taste_seed": 7891
+  },
+  {
+    "user_id": "U0233",
+    "age": 52,
+    "height_cm": 155.2,
+    "weight_kg": 47.2,
+    "bmi": 19.6,
+    "activity_level": "light",
+    "goal": "maintain",
+    "diseases": [
+      "diabetes"
+    ],
+    "allergies": [],
+    "budget_per_day": 150000,
+    "preferred_tags": [
+      "vegetarian",
+      "seafood"
+    ],
+    "latent_taste_seed": 118
+  },
+  {
+    "user_id": "U0234",
+    "age": 53,
+    "height_cm": 161.8,
+    "weight_kg": 72.9,
+    "bmi": 27.8,
+    "activity_level": "light",
+    "goal": "maintain",
+    "diseases": [
+      "hypertension"
+    ],
+    "allergies": [],
+    "budget_per_day": 230000,
+    "preferred_tags": [
+      "western",
+      "vegetarian"
+    ],
+    "latent_taste_seed": 6765
+  },
+  {
+    "user_id": "U0235",
+    "age": 30,
+    "height_cm": 183.4,
+    "weight_kg": 54.6,
+    "bmi": 16.2,
+    "activity_level": "sedentary",
+    "goal": "lose",
+    "diseases": [],
+    "allergies": [
+      "peanut"
+    ],
+    "budget_per_day": 240000,
+    "preferred_tags": [
+      "vietnamese",
+      "seafood",
+      "western"
+    ],
+    "latent_taste_seed": 2468
+  },
+  {
+    "user_id": "U0236",
+    "age": 18,
+    "height_cm": 167.2,
+    "weight_kg": 67.4,
+    "bmi": 24.1,
+    "activity_level": "light",
+    "goal": "lose",
+    "diseases": [],
+    "allergies": [],
+    "budget_per_day": 120000,
+    "preferred_tags": [
+      "spicy",
+      "vietnamese"
+    ],
+    "latent_taste_seed": 1998
+  },
+  {
+    "user_id": "U0237",
+    "age": 67,
+    "height_cm": 177.2,
+    "weight_kg": 70.8,
+    "bmi": 22.5,
+    "activity_level": "high",
+    "goal": "maintain",
+    "diseases": [],
+    "allergies": [],
+    "budget_per_day": 240000,
+    "preferred_tags": [
+      "western",
+      "vietnamese",
+      "seafood"
+    ],
+    "latent_taste_seed": 7884
+  },
+  {
+    "user_id": "U0238",
+    "age": 58,
+    "height_cm": 158.4,
+    "weight_kg": 68.8,
+    "bmi": 27.4,
+    "activity_level": "sedentary",
+    "goal": "lose",
+    "diseases": [],
+    "allergies": [
+      "shellfish"
+    ],
+    "budget_per_day": 230000,
+    "preferred_tags": [
+      "western",
+      "seafood",
+      "spicy"
+    ],
+    "latent_taste_seed": 1466
+  },
+  {
+    "user_id": "U0239",
+    "age": 33,
+    "height_cm": 152.1,
+    "weight_kg": 47.3,
+    "bmi": 20.4,
+    "activity_level": "light",
+    "goal": "gain",
+    "diseases": [],
+    "allergies": [],
+    "budget_per_day": 250000,
+    "preferred_tags": [
+      "seafood",
+      "vietnamese"
+    ],
+    "latent_taste_seed": 6189
+  },
+  {
+    "user_id": "U0240",
+    "age": 40,
+    "height_cm": 177.6,
+    "weight_kg": 60.1,
+    "bmi": 19.1,
+    "activity_level": "sedentary",
+    "goal": "lose",
+    "diseases": [],
+    "allergies": [],
+    "budget_per_day": 120000,
+    "preferred_tags": [
+      "seafood",
+      "spicy",
+      "western"
+    ],
+    "latent_taste_seed": 4314
+  },
+  {
+    "user_id": "U0241",
+    "age": 52,
+    "height_cm": 161.5,
+    "weight_kg": 40.1,
+    "bmi": 15.4,
+    "activity_level": "light",
+    "goal": "maintain",
+    "diseases": [
+      "diabetes"
+    ],
+    "allergies": [],
+    "budget_per_day": 190000,
+    "preferred_tags": [
+      "seafood",
+      "vegetarian",
+      "western"
+    ],
+    "latent_taste_seed": 6714
+  },
+  {
+    "user_id": "U0242",
+    "age": 59,
+    "height_cm": 159.5,
+    "weight_kg": 47.7,
+    "bmi": 18.7,
+    "activity_level": "moderate",
+    "goal": "maintain",
+    "diseases": [
+      "gout"
+    ],
+    "allergies": [
+      "milk"
+    ],
+    "budget_per_day": 210000,
+    "preferred_tags": [
+      "vegetarian"
+    ],
+    "latent_taste_seed": 3616
+  },
+  {
+    "user_id": "U0243",
+    "age": 56,
+    "height_cm": 177.3,
+    "weight_kg": 41.0,
+    "bmi": 13.0,
+    "activity_level": "high",
+    "goal": "lose",
+    "diseases": [],
+    "allergies": [],
+    "budget_per_day": 220000,
+    "preferred_tags": [
+      "vietnamese",
+      "western",
+      "seafood"
+    ],
+    "latent_taste_seed": 1276
+  },
+  {
+    "user_id": "U0244",
+    "age": 31,
+    "height_cm": 188.2,
+    "weight_kg": 47.8,
+    "bmi": 13.5,
+    "activity_level": "moderate",
+    "goal": "lose",
+    "diseases": [],
+    "allergies": [],
+    "budget_per_day": 180000,
+    "preferred_tags": [
+      "spicy",
+      "vietnamese",
+      "western"
+    ],
+    "latent_taste_seed": 2955
+  },
+  {
+    "user_id": "U0245",
+    "age": 53,
+    "height_cm": 163.1,
+    "weight_kg": 67.0,
+    "bmi": 25.2,
+    "activity_level": "sedentary",
+    "goal": "gain",
+    "diseases": [],
+    "allergies": [],
+    "budget_per_day": 200000,
+    "preferred_tags": [
+      "spicy"
+    ],
+    "latent_taste_seed": 9015
+  },
+  {
+    "user_id": "U0246",
+    "age": 65,
+    "height_cm": 156.4,
+    "weight_kg": 116.9,
+    "bmi": 47.8,
+    "activity_level": "light",
+    "goal": "maintain",
+    "diseases": [],
+    "allergies": [
+      "fish"
+    ],
+    "budget_per_day": 260000,
+    "preferred_tags": [
+      "vegetarian",
+      "seafood",
+      "vietnamese"
+    ],
+    "latent_taste_seed": 618
+  },
+  {
+    "user_id": "U0247",
+    "age": 47,
+    "height_cm": 161.0,
+    "weight_kg": 51.1,
+    "bmi": 19.7,
+    "activity_level": "light",
+    "goal": "lose",
+    "diseases": [],
+    "allergies": [],
+    "budget_per_day": 230000,
+    "preferred_tags": [
+      "vietnamese",
+      "vegetarian",
+      "western"
+    ],
+    "latent_taste_seed": 9441
+  },
+  {
+    "user_id": "U0248",
+    "age": 42,
+    "height_cm": 148.5,
+    "weight_kg": 44.5,
+    "bmi": 20.2,
+    "activity_level": "moderate",
+    "goal": "maintain",
+    "diseases": [],
+    "allergies": [
+      "soy"
+    ],
+    "budget_per_day": 150000,
+    "preferred_tags": [
+      "vegetarian"
+    ],
+    "latent_taste_seed": 8846
+  },
+  {
+    "user_id": "U0249",
+    "age": 54,
+    "height_cm": 151.7,
+    "weight_kg": 80.2,
+    "bmi": 34.9,
+    "activity_level": "sedentary",
+    "goal": "maintain",
+    "diseases": [],
+    "allergies": [],
+    "budget_per_day": 210000,
+    "preferred_tags": [
+      "western"
+    ],
+    "latent_taste_seed": 6540
+  },
+  {
+    "user_id": "U0250",
+    "age": 34,
+    "height_cm": 148.8,
+    "weight_kg": 80.1,
+    "bmi": 36.2,
+    "activity_level": "moderate",
+    "goal": "maintain",
+    "diseases": [
+      "hypertension"
+    ],
+    "allergies": [],
+    "budget_per_day": 150000,
+    "preferred_tags": [
+      "vietnamese",
+      "western",
+      "vegetarian"
+    ],
+    "latent_taste_seed": 6776
+  },
+  {
+    "user_id": "U0251",
+    "age": 45,
+    "height_cm": 161.4,
+    "weight_kg": 55.2,
+    "bmi": 21.2,
+    "activity_level": "light",
+    "goal": "lose",
+    "diseases": [],
+    "allergies": [],
+    "budget_per_day": 110000,
+    "preferred_tags": [
+      "vietnamese",
+      "western",
+      "vegetarian"
+    ],
+    "latent_taste_seed": 893
+  },
+  {
+    "user_id": "U0252",
+    "age": 33,
+    "height_cm": 187.7,
+    "weight_kg": 114.1,
+    "bmi": 32.4,
+    "activity_level": "moderate",
+    "goal": "gain",
+    "diseases": [
+      "hypertension",
+      "gout"
+    ],
+    "allergies": [
+      "peanut"
+    ],
+    "budget_per_day": 190000,
+    "preferred_tags": [
+      "seafood",
+      "vietnamese",
+      "western"
+    ],
+    "latent_taste_seed": 9551
+  },
+  {
+    "user_id": "U0253",
+    "age": 75,
+    "height_cm": 174.9,
+    "weight_kg": 43.5,
+    "bmi": 14.2,
+    "activity_level": "sedentary",
+    "goal": "maintain",
+    "diseases": [],
+    "allergies": [
+      "peanut"
+    ],
+    "budget_per_day": 80000,
+    "preferred_tags": [
+      "spicy",
+      "seafood",
+      "western"
+    ],
+    "latent_taste_seed": 8331
+  },
+  {
+    "user_id": "U0254",
+    "age": 63,
+    "height_cm": 149.5,
+    "weight_kg": 65.2,
+    "bmi": 29.2,
+    "activity_level": "moderate",
+    "goal": "lose",
+    "diseases": [
+      "hypertension"
+    ],
+    "allergies": [
+      "peanut"
+    ],
+    "budget_per_day": 160000,
+    "preferred_tags": [
+      "vegetarian",
+      "western"
+    ],
+    "latent_taste_seed": 3869
+  },
+  {
+    "user_id": "U0255",
+    "age": 50,
+    "height_cm": 157.4,
+    "weight_kg": 45.0,
+    "bmi": 18.2,
+    "activity_level": "sedentary",
+    "goal": "maintain",
+    "diseases": [],
+    "allergies": [],
+    "budget_per_day": 230000,
+    "preferred_tags": [
+      "seafood",
+      "spicy",
+      "vietnamese"
+    ],
+    "latent_taste_seed": 9386
+  },
+  {
+    "user_id": "U0256",
+    "age": 27,
+    "height_cm": 164.2,
+    "weight_kg": 65.0,
+    "bmi": 24.1,
+    "activity_level": "light",
+    "goal": "maintain",
+    "diseases": [],
+    "allergies": [],
+    "budget_per_day": 280000,
+    "preferred_tags": [
+      "western"
+    ],
+    "latent_taste_seed": 2589
+  },
+  {
+    "user_id": "U0257",
+    "age": 38,
+    "height_cm": 148.1,
+    "weight_kg": 82.6,
+    "bmi": 37.7,
+    "activity_level": "moderate",
+    "goal": "maintain",
+    "diseases": [
+      "diabetes",
+      "gout"
+    ],
+    "allergies": [],
+    "budget_per_day": 240000,
+    "preferred_tags": [
+      "seafood"
+    ],
+    "latent_taste_seed": 1749
+  },
+  {
+    "user_id": "U0258",
+    "age": 26,
+    "height_cm": 153.3,
+    "weight_kg": 101.0,
+    "bmi": 43.0,
+    "activity_level": "light",
+    "goal": "maintain",
+    "diseases": [],
+    "allergies": [],
+    "budget_per_day": 160000,
+    "preferred_tags": [
+      "spicy",
+      "western"
+    ],
+    "latent_taste_seed": 2253
+  },
+  {
+    "user_id": "U0259",
+    "age": 28,
+    "height_cm": 153.7,
+    "weight_kg": 42.6,
+    "bmi": 18.0,
+    "activity_level": "moderate",
+    "goal": "maintain",
+    "diseases": [],
+    "allergies": [],
+    "budget_per_day": 150000,
+    "preferred_tags": [
+      "seafood",
+      "spicy"
+    ],
+    "latent_taste_seed": 6633
+  },
+  {
+    "user_id": "U0260",
+    "age": 67,
+    "height_cm": 146.9,
+    "weight_kg": 98.8,
+    "bmi": 45.8,
+    "activity_level": "light",
+    "goal": "maintain",
+    "diseases": [],
+    "allergies": [],
+    "budget_per_day": 300000,
+    "preferred_tags": [
+      "western",
+      "spicy",
+      "vegetarian"
+    ],
+    "latent_taste_seed": 643
+  },
+  {
+    "user_id": "U0261",
+    "age": 53,
+    "height_cm": 162.4,
+    "weight_kg": 101.2,
+    "bmi": 38.4,
+    "activity_level": "high",
+    "goal": "maintain",
+    "diseases": [],
+    "allergies": [],
+    "budget_per_day": 220000,
+    "preferred_tags": [
+      "western"
+    ],
+    "latent_taste_seed": 1854
+  },
+  {
+    "user_id": "U0262",
+    "age": 29,
+    "height_cm": 180.0,
+    "weight_kg": 115.0,
+    "bmi": 35.5,
+    "activity_level": "moderate",
+    "goal": "maintain",
+    "diseases": [],
+    "allergies": [],
+    "budget_per_day": 260000,
+    "preferred_tags": [
+      "vietnamese",
+      "western",
+      "spicy"
+    ],
+    "latent_taste_seed": 7362
+  },
+  {
+    "user_id": "U0263",
+    "age": 58,
+    "height_cm": 161.3,
+    "weight_kg": 81.9,
+    "bmi": 31.5,
+    "activity_level": "light",
+    "goal": "lose",
+    "diseases": [],
+    "allergies": [],
+    "budget_per_day": 120000,
+    "preferred_tags": [
+      "vietnamese",
+      "spicy",
+      "seafood"
+    ],
+    "latent_taste_seed": 5071
+  },
+  {
+    "user_id": "U0264",
+    "age": 64,
+    "height_cm": 179.6,
+    "weight_kg": 75.7,
+    "bmi": 23.5,
+    "activity_level": "light",
+    "goal": "maintain",
+    "diseases": [],
+    "allergies": [
+      "soy"
+    ],
+    "budget_per_day": 210000,
+    "preferred_tags": [
+      "spicy",
+      "western"
+    ],
+    "latent_taste_seed": 7239
+  },
+  {
+    "user_id": "U0265",
+    "age": 23,
+    "height_cm": 172.1,
+    "weight_kg": 40.5,
+    "bmi": 13.7,
+    "activity_level": "moderate",
+    "goal": "maintain",
+    "diseases": [],
+    "allergies": [],
+    "budget_per_day": 150000,
+    "preferred_tags": [
+      "vietnamese"
+    ],
+    "latent_taste_seed": 1784
+  },
+  {
+    "user_id": "U0266",
+    "age": 44,
+    "height_cm": 189.7,
+    "weight_kg": 52.9,
+    "bmi": 14.7,
+    "activity_level": "sedentary",
+    "goal": "lose",
+    "diseases": [],
+    "allergies": [],
+    "budget_per_day": 260000,
+    "preferred_tags": [
+      "western",
+      "vietnamese"
+    ],
+    "latent_taste_seed": 4797
+  },
+  {
+    "user_id": "U0267",
+    "age": 48,
+    "height_cm": 151.1,
+    "weight_kg": 95.6,
+    "bmi": 41.9,
+    "activity_level": "sedentary",
+    "goal": "lose",
+    "diseases": [],
+    "allergies": [],
+    "budget_per_day": 300000,
+    "preferred_tags": [
+      "spicy",
+      "vegetarian"
+    ],
+    "latent_taste_seed": 4254
+  },
+  {
+    "user_id": "U0268",
+    "age": 51,
+    "height_cm": 170.9,
+    "weight_kg": 89.9,
+    "bmi": 30.8,
+    "activity_level": "high",
+    "goal": "lose",
+    "diseases": [],
+    "allergies": [],
+    "budget_per_day": 260000,
+    "preferred_tags": [
+      "seafood",
+      "spicy",
+      "western"
+    ],
+    "latent_taste_seed": 745
+  },
+  {
+    "user_id": "U0269",
+    "age": 39,
+    "height_cm": 160.7,
+    "weight_kg": 104.5,
+    "bmi": 40.5,
+    "activity_level": "sedentary",
+    "goal": "lose",
+    "diseases": [
+      "gout"
+    ],
+    "allergies": [],
+    "budget_per_day": 290000,
+    "preferred_tags": [
+      "seafood"
+    ],
+    "latent_taste_seed": 5415
+  },
+  {
+    "user_id": "U0270",
+    "age": 71,
+    "height_cm": 160.2,
+    "weight_kg": 93.8,
+    "bmi": 36.5,
+    "activity_level": "high",
+    "goal": "lose",
+    "diseases": [],
+    "allergies": [],
+    "budget_per_day": 150000,
+    "preferred_tags": [
+      "vegetarian",
+      "vietnamese",
+      "spicy"
+    ],
+    "latent_taste_seed": 9460
+  },
+  {
+    "user_id": "U0271",
+    "age": 61,
+    "height_cm": 159.9,
+    "weight_kg": 113.3,
+    "bmi": 44.3,
+    "activity_level": "moderate",
+    "goal": "maintain",
+    "diseases": [
+      "hypertension"
+    ],
+    "allergies": [],
+    "budget_per_day": 150000,
+    "preferred_tags": [
+      "vietnamese",
+      "vegetarian"
+    ],
+    "latent_taste_seed": 6780
+  },
+  {
+    "user_id": "U0272",
+    "age": 23,
+    "height_cm": 167.4,
+    "weight_kg": 59.0,
+    "bmi": 21.1,
+    "activity_level": "light",
+    "goal": "gain",
+    "diseases": [],
+    "allergies": [],
+    "budget_per_day": 120000,
+    "preferred_tags": [
+      "western",
+      "vegetarian"
+    ],
+    "latent_taste_seed": 5363
+  },
+  {
+    "user_id": "U0273",
+    "age": 27,
+    "height_cm": 179.6,
+    "weight_kg": 47.9,
+    "bmi": 14.8,
+    "activity_level": "high",
+    "goal": "lose",
+    "diseases": [
+      "gout"
+    ],
+    "allergies": [],
+    "budget_per_day": 150000,
+    "preferred_tags": [
+      "vietnamese"
+    ],
+    "latent_taste_seed": 8529
+  },
+  {
+    "user_id": "U0274",
+    "age": 67,
+    "height_cm": 174.7,
+    "weight_kg": 65.0,
+    "bmi": 21.3,
+    "activity_level": "light",
+    "goal": "maintain",
+    "diseases": [],
+    "allergies": [
+      "fish"
+    ],
+    "budget_per_day": 220000,
+    "preferred_tags": [
+      "vietnamese",
+      "seafood",
+      "vegetarian"
+    ],
+    "latent_taste_seed": 5739
+  },
+  {
+    "user_id": "U0275",
+    "age": 53,
+    "height_cm": 159.3,
+    "weight_kg": 51.3,
+    "bmi": 20.2,
+    "activity_level": "moderate",
+    "goal": "maintain",
+    "diseases": [
+      "diabetes"
+    ],
+    "allergies": [],
+    "budget_per_day": 170000,
+    "preferred_tags": [
+      "western"
+    ],
+    "latent_taste_seed": 9711
+  },
+  {
+    "user_id": "U0276",
+    "age": 58,
+    "height_cm": 182.6,
+    "weight_kg": 95.9,
+    "bmi": 28.8,
+    "activity_level": "light",
+    "goal": "maintain",
+    "diseases": [],
+    "allergies": [],
+    "budget_per_day": 180000,
+    "preferred_tags": [
+      "vegetarian",
+      "spicy"
+    ],
+    "latent_taste_seed": 7709
+  },
+  {
+    "user_id": "U0277",
+    "age": 32,
+    "height_cm": 187.6,
+    "weight_kg": 51.5,
+    "bmi": 14.6,
+    "activity_level": "moderate",
+    "goal": "maintain",
+    "diseases": [],
+    "allergies": [],
+    "budget_per_day": 270000,
+    "preferred_tags": [
+      "vegetarian",
+      "seafood"
+    ],
+    "latent_taste_seed": 8322
+  },
+  {
+    "user_id": "U0278",
+    "age": 24,
+    "height_cm": 163.3,
+    "weight_kg": 97.1,
+    "bmi": 36.4,
+    "activity_level": "sedentary",
+    "goal": "lose",
+    "diseases": [
+      "hypertension"
+    ],
+    "allergies": [],
+    "budget_per_day": 230000,
+    "preferred_tags": [
+      "spicy",
+      "vegetarian"
+    ],
+    "latent_taste_seed": 8921
+  },
+  {
+    "user_id": "U0279",
+    "age": 62,
+    "height_cm": 155.6,
+    "weight_kg": 93.0,
+    "bmi": 38.4,
+    "activity_level": "sedentary",
+    "goal": "gain",
+    "diseases": [],
+    "allergies": [],
+    "budget_per_day": 260000,
+    "preferred_tags": [
+      "vegetarian",
+      "spicy"
+    ],
+    "latent_taste_seed": 1007
+  },
+  {
+    "user_id": "U0280",
+    "age": 23,
+    "height_cm": 154.8,
+    "weight_kg": 51.1,
+    "bmi": 21.3,
+    "activity_level": "light",
+    "goal": "lose",
+    "diseases": [],
+    "allergies": [],
+    "budget_per_day": 250000,
+    "preferred_tags": [
+      "vegetarian",
+      "spicy",
+      "western"
+    ],
+    "latent_taste_seed": 5640
+  },
+  {
+    "user_id": "U0281",
+    "age": 23,
+    "height_cm": 171.2,
+    "weight_kg": 88.9,
+    "bmi": 30.3,
+    "activity_level": "light",
+    "goal": "gain",
+    "diseases": [
+      "diabetes"
+    ],
+    "allergies": [
+      "peanut"
+    ],
+    "budget_per_day": 170000,
+    "preferred_tags": [
+      "spicy",
+      "vegetarian",
+      "western"
+    ],
+    "latent_taste_seed": 6271
+  },
+  {
+    "user_id": "U0282",
+    "age": 43,
+    "height_cm": 162.2,
+    "weight_kg": 83.6,
+    "bmi": 31.8,
+    "activity_level": "moderate",
+    "goal": "maintain",
+    "diseases": [
+      "hypertension"
+    ],
+    "allergies": [
+      "fish"
+    ],
+    "budget_per_day": 240000,
+    "preferred_tags": [
+      "spicy",
+      "seafood"
+    ],
+    "latent_taste_seed": 1387
+  },
+  {
+    "user_id": "U0283",
+    "age": 26,
+    "height_cm": 173.9,
+    "weight_kg": 73.3,
+    "bmi": 24.2,
+    "activity_level": "light",
+    "goal": "lose",
+    "diseases": [],
+    "allergies": [],
+    "budget_per_day": 270000,
+    "preferred_tags": [
+      "western"
+    ],
+    "latent_taste_seed": 4411
+  },
+  {
+    "user_id": "U0284",
+    "age": 44,
+    "height_cm": 186.7,
+    "weight_kg": 86.1,
+    "bmi": 24.7,
+    "activity_level": "sedentary",
+    "goal": "maintain",
+    "diseases": [],
+    "allergies": [],
+    "budget_per_day": 190000,
+    "preferred_tags": [
+      "western",
+      "vietnamese",
+      "spicy"
+    ],
+    "latent_taste_seed": 7740
+  },
+  {
+    "user_id": "U0285",
+    "age": 58,
+    "height_cm": 178.4,
+    "weight_kg": 116.8,
+    "bmi": 36.7,
+    "activity_level": "sedentary",
+    "goal": "lose",
+    "diseases": [
+      "gout"
+    ],
+    "allergies": [],
+    "budget_per_day": 290000,
+    "preferred_tags": [
+      "vegetarian",
+      "seafood"
+    ],
+    "latent_taste_seed": 578
+  },
+  {
+    "user_id": "U0286",
+    "age": 62,
+    "height_cm": 186.5,
+    "weight_kg": 100.0,
+    "bmi": 28.8,
+    "activity_level": "moderate",
+    "goal": "lose",
+    "diseases": [
+      "hypertension",
+      "gout"
+    ],
+    "allergies": [],
+    "budget_per_day": 270000,
+    "preferred_tags": [
+      "vegetarian",
+      "seafood"
+    ],
+    "latent_taste_seed": 4603
+  },
+  {
+    "user_id": "U0287",
+    "age": 35,
+    "height_cm": 183.6,
+    "weight_kg": 41.1,
+    "bmi": 12.2,
+    "activity_level": "sedentary",
+    "goal": "maintain",
+    "diseases": [],
+    "allergies": [],
+    "budget_per_day": 100000,
+    "preferred_tags": [
+      "western"
+    ],
+    "latent_taste_seed": 2525
+  },
+  {
+    "user_id": "U0288",
+    "age": 71,
+    "height_cm": 167.3,
+    "weight_kg": 119.5,
+    "bmi": 42.7,
+    "activity_level": "moderate",
+    "goal": "maintain",
+    "diseases": [],
+    "allergies": [],
+    "budget_per_day": 150000,
+    "preferred_tags": [
+      "western",
+      "seafood",
+      "spicy"
+    ],
+    "latent_taste_seed": 6390
+  },
+  {
+    "user_id": "U0289",
+    "age": 48,
+    "height_cm": 156.8,
+    "weight_kg": 82.4,
+    "bmi": 33.5,
+    "activity_level": "light",
+    "goal": "maintain",
+    "diseases": [],
+    "allergies": [],
+    "budget_per_day": 220000,
+    "preferred_tags": [
+      "vegetarian",
+      "western"
+    ],
+    "latent_taste_seed": 4375
+  },
+  {
+    "user_id": "U0290",
+    "age": 69,
+    "height_cm": 149.4,
+    "weight_kg": 92.3,
+    "bmi": 41.4,
+    "activity_level": "light",
+    "goal": "lose",
+    "diseases": [],
+    "allergies": [],
+    "budget_per_day": 80000,
+    "preferred_tags": [
+      "western"
+    ],
+    "latent_taste_seed": 1702
+  },
+  {
+    "user_id": "U0291",
+    "age": 61,
+    "height_cm": 165.1,
+    "weight_kg": 57.6,
+    "bmi": 21.1,
+    "activity_level": "sedentary",
+    "goal": "maintain",
+    "diseases": [
+      "hypertension",
+      "diabetes"
+    ],
+    "allergies": [],
+    "budget_per_day": 110000,
+    "preferred_tags": [
+      "western",
+      "seafood",
+      "vietnamese"
+    ],
+    "latent_taste_seed": 3018
+  },
+  {
+    "user_id": "U0292",
+    "age": 34,
+    "height_cm": 158.3,
+    "weight_kg": 92.8,
+    "bmi": 37.0,
+    "activity_level": "sedentary",
+    "goal": "maintain",
+    "diseases": [],
+    "allergies": [],
+    "budget_per_day": 300000,
+    "preferred_tags": [
+      "vegetarian",
+      "seafood"
+    ],
+    "latent_taste_seed": 7218
+  },
+  {
+    "user_id": "U0293",
+    "age": 22,
+    "height_cm": 167.1,
+    "weight_kg": 114.3,
+    "bmi": 40.9,
+    "activity_level": "light",
+    "goal": "maintain",
+    "diseases": [
+      "diabetes"
+    ],
+    "allergies": [],
+    "budget_per_day": 140000,
+    "preferred_tags": [
+      "vietnamese",
+      "spicy"
+    ],
+    "latent_taste_seed": 2438
+  },
+  {
+    "user_id": "U0294",
+    "age": 59,
+    "height_cm": 173.8,
+    "weight_kg": 114.6,
+    "bmi": 37.9,
+    "activity_level": "moderate",
+    "goal": "maintain",
+    "diseases": [],
+    "allergies": [],
+    "budget_per_day": 200000,
+    "preferred_tags": [
+      "spicy"
+    ],
+    "latent_taste_seed": 7898
+  },
+  {
+    "user_id": "U0295",
+    "age": 25,
+    "height_cm": 170.5,
+    "weight_kg": 114.8,
+    "bmi": 39.5,
+    "activity_level": "light",
+    "goal": "lose",
+    "diseases": [],
+    "allergies": [],
+    "budget_per_day": 120000,
+    "preferred_tags": [
+      "spicy"
+    ],
+    "latent_taste_seed": 3129
+  },
+  {
+    "user_id": "U0296",
+    "age": 37,
+    "height_cm": 176.3,
+    "weight_kg": 111.7,
+    "bmi": 35.9,
+    "activity_level": "light",
+    "goal": "maintain",
+    "diseases": [
+      "hypertension"
+    ],
+    "allergies": [],
+    "budget_per_day": 150000,
+    "preferred_tags": [
+      "spicy",
+      "vietnamese",
+      "western"
+    ],
+    "latent_taste_seed": 5558
+  },
+  {
+    "user_id": "U0297",
+    "age": 21,
+    "height_cm": 160.2,
+    "weight_kg": 97.7,
+    "bmi": 38.1,
+    "activity_level": "light",
+    "goal": "maintain",
+    "diseases": [],
+    "allergies": [],
+    "budget_per_day": 80000,
+    "preferred_tags": [
+      "vietnamese",
+      "seafood",
+      "vegetarian"
+    ],
+    "latent_taste_seed": 2138
+  },
+  {
+    "user_id": "U0298",
+    "age": 18,
+    "height_cm": 152.8,
+    "weight_kg": 44.0,
+    "bmi": 18.8,
+    "activity_level": "light",
+    "goal": "lose",
+    "diseases": [],
+    "allergies": [],
+    "budget_per_day": 260000,
+    "preferred_tags": [
+      "spicy",
+      "vegetarian",
+      "vietnamese"
+    ],
+    "latent_taste_seed": 9436
+  },
+  {
+    "user_id": "U0299",
+    "age": 52,
+    "height_cm": 151.2,
+    "weight_kg": 106.9,
+    "bmi": 46.8,
+    "activity_level": "moderate",
+    "goal": "lose",
+    "diseases": [],
+    "allergies": [],
+    "budget_per_day": 100000,
+    "preferred_tags": [
+      "western",
+      "spicy",
+      "vietnamese"
+    ],
+    "latent_taste_seed": 256
+  },
+  {
+    "user_id": "U0300",
+    "age": 74,
+    "height_cm": 166.9,
+    "weight_kg": 40.5,
+    "bmi": 14.5,
+    "activity_level": "sedentary",
+    "goal": "maintain",
+    "diseases": [],
+    "allergies": [],
+    "budget_per_day": 290000,
+    "preferred_tags": [
+      "vietnamese",
+      "seafood",
+      "vegetarian"
+    ],
+    "latent_taste_seed": 8190
+  },
+  {
+    "user_id": "U0301",
+    "age": 57,
+    "height_cm": 187.8,
+    "weight_kg": 90.2,
+    "bmi": 25.6,
+    "activity_level": "moderate",
+    "goal": "maintain",
+    "diseases": [
+      "hypertension",
+      "diabetes",
+      "gout"
+    ],
+    "allergies": [],
+    "budget_per_day": 230000,
+    "preferred_tags": [
+      "vietnamese",
+      "seafood"
+    ],
+    "latent_taste_seed": 1846
+  },
+  {
+    "user_id": "U0302",
+    "age": 68,
+    "height_cm": 151.7,
+    "weight_kg": 107.5,
+    "bmi": 46.7,
+    "activity_level": "high",
+    "goal": "maintain",
+    "diseases": [
+      "hypertension",
+      "gout"
+    ],
+    "allergies": [],
+    "budget_per_day": 90000,
+    "preferred_tags": [
+      "seafood",
+      "western",
+      "vietnamese"
+    ],
+    "latent_taste_seed": 7947
+  },
+  {
+    "user_id": "U0303",
+    "age": 50,
+    "height_cm": 150.2,
+    "weight_kg": 111.6,
+    "bmi": 49.5,
+    "activity_level": "moderate",
+    "goal": "lose",
+    "diseases": [],
+    "allergies": [],
+    "budget_per_day": 130000,
+    "preferred_tags": [
+      "western",
+      "spicy"
+    ],
+    "latent_taste_seed": 890
+  },
+  {
+    "user_id": "U0304",
+    "age": 74,
+    "height_cm": 164.6,
+    "weight_kg": 57.3,
+    "bmi": 21.1,
+    "activity_level": "light",
+    "goal": "maintain",
+    "diseases": [],
+    "allergies": [],
+    "budget_per_day": 180000,
+    "preferred_tags": [
+      "seafood",
+      "vegetarian"
+    ],
+    "latent_taste_seed": 3602
+  },
+  {
+    "user_id": "U0305",
+    "age": 74,
+    "height_cm": 158.3,
+    "weight_kg": 52.5,
+    "bmi": 21.0,
+    "activity_level": "moderate",
+    "goal": "gain",
+    "diseases": [],
+    "allergies": [],
+    "budget_per_day": 80000,
+    "preferred_tags": [
+      "seafood",
+      "western"
+    ],
+    "latent_taste_seed": 5362
+  },
+  {
+    "user_id": "U0306",
+    "age": 45,
+    "height_cm": 171.1,
+    "weight_kg": 111.3,
+    "bmi": 38.0,
+    "activity_level": "light",
+    "goal": "maintain",
+    "diseases": [
+      "diabetes"
+    ],
+    "allergies": [
+      "shellfish"
+    ],
+    "budget_per_day": 260000,
+    "preferred_tags": [
+      "spicy",
+      "seafood"
+    ],
+    "latent_taste_seed": 1361
+  },
+  {
+    "user_id": "U0307",
+    "age": 53,
+    "height_cm": 178.9,
+    "weight_kg": 95.5,
+    "bmi": 29.8,
+    "activity_level": "light",
+    "goal": "maintain",
+    "diseases": [],
+    "allergies": [
+      "shellfish"
+    ],
+    "budget_per_day": 180000,
+    "preferred_tags": [
+      "spicy"
+    ],
+    "latent_taste_seed": 3030
+  },
+  {
+    "user_id": "U0308",
+    "age": 68,
+    "height_cm": 184.2,
+    "weight_kg": 90.1,
+    "bmi": 26.6,
+    "activity_level": "moderate",
+    "goal": "maintain",
+    "diseases": [],
+    "allergies": [],
+    "budget_per_day": 230000,
+    "preferred_tags": [
+      "vegetarian",
+      "vietnamese",
+      "western"
+    ],
+    "latent_taste_seed": 5963
+  },
+  {
+    "user_id": "U0309",
+    "age": 74,
+    "height_cm": 147.3,
+    "weight_kg": 70.6,
+    "bmi": 32.5,
+    "activity_level": "light",
+    "goal": "maintain",
+    "diseases": [],
+    "allergies": [],
+    "budget_per_day": 250000,
+    "preferred_tags": [
+      "seafood",
+      "western",
+      "spicy"
+    ],
+    "latent_taste_seed": 5778
+  },
+  {
+    "user_id": "U0310",
+    "age": 75,
+    "height_cm": 157.0,
+    "weight_kg": 94.4,
+    "bmi": 38.3,
+    "activity_level": "sedentary",
+    "goal": "maintain",
+    "diseases": [],
+    "allergies": [],
+    "budget_per_day": 290000,
+    "preferred_tags": [
+      "seafood"
+    ],
+    "latent_taste_seed": 7501
+  },
+  {
+    "user_id": "U0311",
+    "age": 23,
+    "height_cm": 148.6,
+    "weight_kg": 111.8,
+    "bmi": 50.6,
+    "activity_level": "sedentary",
+    "goal": "gain",
+    "diseases": [
+      "hypertension",
+      "diabetes"
+    ],
+    "allergies": [],
+    "budget_per_day": 110000,
+    "preferred_tags": [
+      "spicy",
+      "western"
+    ],
+    "latent_taste_seed": 351
+  },
+  {
+    "user_id": "U0312",
+    "age": 36,
+    "height_cm": 153.5,
+    "weight_kg": 41.8,
+    "bmi": 17.7,
+    "activity_level": "moderate",
+    "goal": "gain",
+    "diseases": [],
+    "allergies": [],
+    "budget_per_day": 200000,
+    "preferred_tags": [
+      "seafood",
+      "vegetarian"
+    ],
+    "latent_taste_seed": 3715
+  },
+  {
+    "user_id": "U0313",
+    "age": 48,
+    "height_cm": 161.7,
+    "weight_kg": 63.1,
+    "bmi": 24.1,
+    "activity_level": "moderate",
+    "goal": "maintain",
+    "diseases": [],
+    "allergies": [],
+    "budget_per_day": 120000,
+    "preferred_tags": [
+      "vietnamese"
+    ],
+    "latent_taste_seed": 5187
+  },
+  {
+    "user_id": "U0314",
+    "age": 54,
+    "height_cm": 150.7,
+    "weight_kg": 60.8,
+    "bmi": 26.8,
+    "activity_level": "sedentary",
+    "goal": "lose",
+    "diseases": [
+      "hypertension"
+    ],
+    "allergies": [],
+    "budget_per_day": 110000,
+    "preferred_tags": [
+      "vegetarian",
+      "seafood"
+    ],
+    "latent_taste_seed": 70
+  },
+  {
+    "user_id": "U0315",
+    "age": 65,
+    "height_cm": 169.6,
+    "weight_kg": 80.6,
+    "bmi": 28.0,
+    "activity_level": "light",
+    "goal": "maintain",
+    "diseases": [],
+    "allergies": [],
+    "budget_per_day": 190000,
+    "preferred_tags": [
+      "seafood"
+    ],
+    "latent_taste_seed": 9026
+  },
+  {
+    "user_id": "U0316",
+    "age": 25,
+    "height_cm": 158.9,
+    "weight_kg": 72.1,
+    "bmi": 28.6,
+    "activity_level": "moderate",
+    "goal": "maintain",
+    "diseases": [
+      "hypertension",
+      "diabetes"
+    ],
+    "allergies": [],
+    "budget_per_day": 230000,
+    "preferred_tags": [
+      "western"
+    ],
+    "latent_taste_seed": 6462
+  },
+  {
+    "user_id": "U0317",
+    "age": 30,
+    "height_cm": 167.1,
+    "weight_kg": 88.3,
+    "bmi": 31.6,
+    "activity_level": "light",
+    "goal": "maintain",
+    "diseases": [],
+    "allergies": [
+      "milk"
+    ],
+    "budget_per_day": 130000,
+    "preferred_tags": [
+      "spicy",
+      "western"
+    ],
+    "latent_taste_seed": 4728
+  },
+  {
+    "user_id": "U0318",
+    "age": 28,
+    "height_cm": 181.3,
+    "weight_kg": 117.6,
+    "bmi": 35.8,
+    "activity_level": "light",
+    "goal": "gain",
+    "diseases": [
+      "hypertension",
+      "gout"
+    ],
+    "allergies": [],
+    "budget_per_day": 100000,
+    "preferred_tags": [
+      "vegetarian",
+      "spicy"
+    ],
+    "latent_taste_seed": 2865
+  },
+  {
+    "user_id": "U0319",
+    "age": 53,
+    "height_cm": 165.8,
+    "weight_kg": 85.4,
+    "bmi": 31.1,
+    "activity_level": "high",
+    "goal": "maintain",
+    "diseases": [],
+    "allergies": [],
+    "budget_per_day": 110000,
+    "preferred_tags": [
+      "spicy",
+      "vietnamese"
+    ],
+    "latent_taste_seed": 4713
+  },
+  {
+    "user_id": "U0320",
+    "age": 44,
+    "height_cm": 153.1,
+    "weight_kg": 112.5,
+    "bmi": 48.0,
+    "activity_level": "light",
+    "goal": "maintain",
+    "diseases": [],
+    "allergies": [],
+    "budget_per_day": 260000,
+    "preferred_tags": [
+      "western",
+      "vietnamese"
+    ],
+    "latent_taste_seed": 4252
+  },
+  {
+    "user_id": "U0321",
+    "age": 28,
+    "height_cm": 171.2,
+    "weight_kg": 51.7,
+    "bmi": 17.6,
+    "activity_level": "light",
+    "goal": "lose",
+    "diseases": [
+      "diabetes"
+    ],
+    "allergies": [],
+    "budget_per_day": 220000,
+    "preferred_tags": [
+      "western"
+    ],
+    "latent_taste_seed": 2738
+  },
+  {
+    "user_id": "U0322",
+    "age": 52,
+    "height_cm": 159.5,
+    "weight_kg": 65.3,
+    "bmi": 25.7,
+    "activity_level": "moderate",
+    "goal": "lose",
+    "diseases": [],
+    "allergies": [],
+    "budget_per_day": 280000,
+    "preferred_tags": [
+      "vietnamese"
+    ],
+    "latent_taste_seed": 3569
+  },
+  {
+    "user_id": "U0323",
+    "age": 27,
+    "height_cm": 167.7,
+    "weight_kg": 106.5,
+    "bmi": 37.9,
+    "activity_level": "moderate",
+    "goal": "lose",
+    "diseases": [],
+    "allergies": [],
+    "budget_per_day": 80000,
+    "preferred_tags": [
+      "vegetarian",
+      "western"
+    ],
+    "latent_taste_seed": 2277
+  },
+  {
+    "user_id": "U0324",
+    "age": 70,
+    "height_cm": 164.9,
+    "weight_kg": 119.0,
+    "bmi": 43.8,
+    "activity_level": "light",
+    "goal": "gain",
+    "diseases": [
+      "hypertension"
+    ],
+    "allergies": [],
+    "budget_per_day": 170000,
+    "preferred_tags": [
+      "vietnamese"
+    ],
+    "latent_taste_seed": 308
+  },
+  {
+    "user_id": "U0325",
+    "age": 67,
+    "height_cm": 166.8,
+    "weight_kg": 74.5,
+    "bmi": 26.8,
+    "activity_level": "sedentary",
+    "goal": "maintain",
+    "diseases": [],
+    "allergies": [
+      "egg"
+    ],
+    "budget_per_day": 210000,
+    "preferred_tags": [
+      "seafood"
+    ],
+    "latent_taste_seed": 5759
+  },
+  {
+    "user_id": "U0326",
+    "age": 19,
+    "height_cm": 149.1,
+    "weight_kg": 107.7,
+    "bmi": 48.4,
+    "activity_level": "high",
+    "goal": "gain",
+    "diseases": [],
+    "allergies": [],
+    "budget_per_day": 120000,
+    "preferred_tags": [
+      "seafood",
+      "vietnamese"
+    ],
+    "latent_taste_seed": 1616
+  },
+  {
+    "user_id": "U0327",
+    "age": 31,
+    "height_cm": 186.4,
+    "weight_kg": 108.1,
+    "bmi": 31.1,
+    "activity_level": "light",
+    "goal": "lose",
+    "diseases": [
+      "hypertension",
+      "gout"
+    ],
+    "allergies": [],
+    "budget_per_day": 180000,
+    "preferred_tags": [
+      "seafood",
+      "spicy",
+      "western"
+    ],
+    "latent_taste_seed": 4723
+  },
+  {
+    "user_id": "U0328",
+    "age": 53,
+    "height_cm": 177.5,
+    "weight_kg": 46.6,
+    "bmi": 14.8,
+    "activity_level": "light",
+    "goal": "maintain",
+    "diseases": [],
+    "allergies": [],
+    "budget_per_day": 260000,
+    "preferred_tags": [
+      "vegetarian",
+      "seafood",
+      "vietnamese"
+    ],
+    "latent_taste_seed": 8055
+  },
+  {
+    "user_id": "U0329",
+    "age": 61,
+    "height_cm": 149.7,
+    "weight_kg": 75.0,
+    "bmi": 33.5,
+    "activity_level": "moderate",
+    "goal": "maintain",
+    "diseases": [
+      "hypertension"
+    ],
+    "allergies": [],
+    "budget_per_day": 300000,
+    "preferred_tags": [
+      "seafood"
+    ],
+    "latent_taste_seed": 6958
+  },
+  {
+    "user_id": "U0330",
+    "age": 64,
+    "height_cm": 167.5,
+    "weight_kg": 101.2,
+    "bmi": 36.1,
+    "activity_level": "moderate",
+    "goal": "lose",
+    "diseases": [],
+    "allergies": [],
+    "budget_per_day": 110000,
+    "preferred_tags": [
+      "spicy",
+      "seafood"
+    ],
+    "latent_taste_seed": 2205
+  },
+  {
+    "user_id": "U0331",
+    "age": 19,
+    "height_cm": 149.5,
+    "weight_kg": 44.2,
+    "bmi": 19.8,
+    "activity_level": "sedentary",
+    "goal": "lose",
+    "diseases": [],
+    "allergies": [],
+    "budget_per_day": 120000,
+    "preferred_tags": [
+      "spicy",
+      "western",
+      "vegetarian"
+    ],
+    "latent_taste_seed": 4287
+  },
+  {
+    "user_id": "U0332",
+    "age": 52,
+    "height_cm": 160.5,
+    "weight_kg": 108.8,
+    "bmi": 42.2,
+    "activity_level": "light",
+    "goal": "gain",
+    "diseases": [
+      "hypertension"
+    ],
+    "allergies": [],
+    "budget_per_day": 150000,
+    "preferred_tags": [
+      "seafood",
+      "spicy",
+      "western"
+    ],
+    "latent_taste_seed": 2203
+  },
+  {
+    "user_id": "U0333",
+    "age": 37,
+    "height_cm": 177.2,
+    "weight_kg": 79.0,
+    "bmi": 25.2,
+    "activity_level": "sedentary",
+    "goal": "lose",
+    "diseases": [],
+    "allergies": [],
+    "budget_per_day": 160000,
+    "preferred_tags": [
+      "vegetarian",
+      "vietnamese"
+    ],
+    "latent_taste_seed": 461
+  },
+  {
+    "user_id": "U0334",
+    "age": 55,
+    "height_cm": 147.0,
+    "weight_kg": 107.0,
+    "bmi": 49.5,
+    "activity_level": "light",
+    "goal": "lose",
+    "diseases": [
+      "hypertension"
+    ],
+    "allergies": [],
+    "budget_per_day": 210000,
+    "preferred_tags": [
+      "vietnamese",
+      "vegetarian",
+      "western"
+    ],
+    "latent_taste_seed": 5531
+  },
+  {
+    "user_id": "U0335",
+    "age": 28,
+    "height_cm": 145.9,
+    "weight_kg": 66.1,
+    "bmi": 31.1,
+    "activity_level": "light",
+    "goal": "gain",
+    "diseases": [],
+    "allergies": [],
+    "budget_per_day": 100000,
+    "preferred_tags": [
+      "seafood",
+      "vegetarian",
+      "western"
+    ],
+    "latent_taste_seed": 8237
+  },
+  {
+    "user_id": "U0336",
+    "age": 69,
+    "height_cm": 179.4,
+    "weight_kg": 67.2,
+    "bmi": 20.9,
+    "activity_level": "light",
+    "goal": "maintain",
+    "diseases": [],
+    "allergies": [],
+    "budget_per_day": 130000,
+    "preferred_tags": [
+      "vietnamese",
+      "western",
+      "vegetarian"
+    ],
+    "latent_taste_seed": 5518
+  },
+  {
+    "user_id": "U0337",
+    "age": 35,
+    "height_cm": 148.0,
+    "weight_kg": 104.1,
+    "bmi": 47.5,
+    "activity_level": "light",
+    "goal": "maintain",
+    "diseases": [],
+    "allergies": [],
+    "budget_per_day": 250000,
+    "preferred_tags": [
+      "vietnamese"
+    ],
+    "latent_taste_seed": 8457
+  },
+  {
+    "user_id": "U0338",
+    "age": 73,
+    "height_cm": 153.4,
+    "weight_kg": 79.9,
+    "bmi": 34.0,
+    "activity_level": "moderate",
+    "goal": "gain",
+    "diseases": [],
+    "allergies": [],
+    "budget_per_day": 180000,
+    "preferred_tags": [
+      "seafood"
+    ],
+    "latent_taste_seed": 4919
+  },
+  {
+    "user_id": "U0339",
+    "age": 72,
+    "height_cm": 164.6,
+    "weight_kg": 65.5,
+    "bmi": 24.2,
+    "activity_level": "moderate",
+    "goal": "maintain",
+    "diseases": [],
+    "allergies": [],
+    "budget_per_day": 260000,
+    "preferred_tags": [
+      "spicy",
+      "western"
+    ],
+    "latent_taste_seed": 6914
+  },
+  {
+    "user_id": "U0340",
+    "age": 59,
+    "height_cm": 185.8,
+    "weight_kg": 56.2,
+    "bmi": 16.3,
+    "activity_level": "sedentary",
+    "goal": "maintain",
+    "diseases": [],
+    "allergies": [],
+    "budget_per_day": 150000,
+    "preferred_tags": [
+      "spicy"
+    ],
+    "latent_taste_seed": 5954
+  },
+  {
+    "user_id": "U0341",
+    "age": 60,
+    "height_cm": 174.6,
+    "weight_kg": 47.2,
+    "bmi": 15.5,
+    "activity_level": "high",
+    "goal": "lose",
+    "diseases": [],
+    "allergies": [],
+    "budget_per_day": 130000,
+    "preferred_tags": [
+      "vegetarian"
+    ],
+    "latent_taste_seed": 5395
+  },
+  {
+    "user_id": "U0342",
+    "age": 71,
+    "height_cm": 171.3,
+    "weight_kg": 71.2,
+    "bmi": 24.3,
+    "activity_level": "moderate",
+    "goal": "maintain",
+    "diseases": [],
+    "allergies": [],
+    "budget_per_day": 150000,
+    "preferred_tags": [
+      "spicy",
+      "seafood"
+    ],
+    "latent_taste_seed": 4550
+  },
+  {
+    "user_id": "U0343",
+    "age": 74,
+    "height_cm": 180.3,
+    "weight_kg": 51.6,
+    "bmi": 15.9,
+    "activity_level": "light",
+    "goal": "maintain",
+    "diseases": [],
+    "allergies": [
+      "shellfish"
+    ],
+    "budget_per_day": 160000,
+    "preferred_tags": [
+      "vegetarian",
+      "vietnamese",
+      "western"
+    ],
+    "latent_taste_seed": 3872
+  },
+  {
+    "user_id": "U0344",
+    "age": 72,
+    "height_cm": 164.9,
+    "weight_kg": 40.6,
+    "bmi": 14.9,
+    "activity_level": "high",
+    "goal": "gain",
+    "diseases": [],
+    "allergies": [],
+    "budget_per_day": 220000,
+    "preferred_tags": [
+      "vegetarian"
+    ],
+    "latent_taste_seed": 1312
+  },
+  {
+    "user_id": "U0345",
+    "age": 70,
+    "height_cm": 180.1,
+    "weight_kg": 79.3,
+    "bmi": 24.4,
+    "activity_level": "moderate",
+    "goal": "gain",
+    "diseases": [],
+    "allergies": [],
+    "budget_per_day": 150000,
+    "preferred_tags": [
+      "vietnamese",
+      "western",
+      "vegetarian"
+    ],
+    "latent_taste_seed": 3010
+  },
+  {
+    "user_id": "U0346",
+    "age": 58,
+    "height_cm": 165.0,
+    "weight_kg": 91.3,
+    "bmi": 33.5,
+    "activity_level": "sedentary",
+    "goal": "maintain",
+    "diseases": [],
+    "allergies": [],
+    "budget_per_day": 290000,
+    "preferred_tags": [
+      "spicy",
+      "seafood"
+    ],
+    "latent_taste_seed": 4270
+  },
+  {
+    "user_id": "U0347",
+    "age": 29,
+    "height_cm": 175.9,
+    "weight_kg": 106.1,
+    "bmi": 34.3,
+    "activity_level": "moderate",
+    "goal": "maintain",
+    "diseases": [],
+    "allergies": [],
+    "budget_per_day": 280000,
+    "preferred_tags": [
+      "seafood",
+      "vegetarian"
+    ],
+    "latent_taste_seed": 2764
+  },
+  {
+    "user_id": "U0348",
+    "age": 21,
+    "height_cm": 163.0,
+    "weight_kg": 74.3,
+    "bmi": 28.0,
+    "activity_level": "sedentary",
+    "goal": "maintain",
+    "diseases": [],
+    "allergies": [],
+    "budget_per_day": 120000,
+    "preferred_tags": [
+      "vegetarian",
+      "spicy"
+    ],
+    "latent_taste_seed": 6259
+  },
+  {
+    "user_id": "U0349",
+    "age": 26,
+    "height_cm": 164.4,
+    "weight_kg": 56.5,
+    "bmi": 20.9,
+    "activity_level": "sedentary",
+    "goal": "gain",
+    "diseases": [],
+    "allergies": [
+      "peanut"
+    ],
+    "budget_per_day": 220000,
+    "preferred_tags": [
+      "vietnamese"
+    ],
+    "latent_taste_seed": 7682
+  },
+  {
+    "user_id": "U0350",
+    "age": 26,
+    "height_cm": 184.2,
+    "weight_kg": 118.0,
+    "bmi": 34.8,
+    "activity_level": "light",
+    "goal": "maintain",
+    "diseases": [],
+    "allergies": [],
+    "budget_per_day": 230000,
+    "preferred_tags": [
+      "vietnamese",
+      "western",
+      "seafood"
+    ],
+    "latent_taste_seed": 8266
+  },
+  {
+    "user_id": "U0351",
+    "age": 57,
+    "height_cm": 162.1,
+    "weight_kg": 118.2,
+    "bmi": 45.0,
+    "activity_level": "moderate",
+    "goal": "maintain",
+    "diseases": [
+      "diabetes",
+      "gout"
+    ],
+    "allergies": [],
+    "budget_per_day": 140000,
+    "preferred_tags": [
+      "vietnamese",
+      "seafood"
+    ],
+    "latent_taste_seed": 8179
+  },
+  {
+    "user_id": "U0352",
+    "age": 73,
+    "height_cm": 188.8,
+    "weight_kg": 62.5,
+    "bmi": 17.5,
+    "activity_level": "light",
+    "goal": "maintain",
+    "diseases": [],
+    "allergies": [],
+    "budget_per_day": 200000,
+    "preferred_tags": [
+      "spicy",
+      "vietnamese",
+      "western"
+    ],
+    "latent_taste_seed": 2435
+  },
+  {
+    "user_id": "U0353",
+    "age": 21,
+    "height_cm": 155.3,
+    "weight_kg": 42.9,
+    "bmi": 17.8,
+    "activity_level": "sedentary",
+    "goal": "lose",
+    "diseases": [],
+    "allergies": [
+      "shellfish"
+    ],
+    "budget_per_day": 110000,
+    "preferred_tags": [
+      "seafood"
+    ],
+    "latent_taste_seed": 4654
+  },
+  {
+    "user_id": "U0354",
+    "age": 29,
+    "height_cm": 182.6,
+    "weight_kg": 100.0,
+    "bmi": 30.0,
+    "activity_level": "moderate",
+    "goal": "lose",
+    "diseases": [],
+    "allergies": [
+      "shellfish"
+    ],
+    "budget_per_day": 150000,
+    "preferred_tags": [
+      "vietnamese",
+      "spicy"
+    ],
+    "latent_taste_seed": 6120
+  },
+  {
+    "user_id": "U0355",
+    "age": 55,
+    "height_cm": 186.8,
+    "weight_kg": 48.5,
+    "bmi": 13.9,
+    "activity_level": "light",
+    "goal": "maintain",
+    "diseases": [],
+    "allergies": [],
+    "budget_per_day": 290000,
+    "preferred_tags": [
+      "western",
+      "seafood",
+      "vietnamese"
+    ],
+    "latent_taste_seed": 797
+  },
+  {
+    "user_id": "U0356",
+    "age": 69,
+    "height_cm": 174.0,
+    "weight_kg": 65.9,
+    "bmi": 21.8,
+    "activity_level": "sedentary",
+    "goal": "maintain",
+    "diseases": [],
+    "allergies": [],
+    "budget_per_day": 140000,
+    "preferred_tags": [
+      "seafood",
+      "vietnamese",
+      "western"
+    ],
+    "latent_taste_seed": 8042
+  },
+  {
+    "user_id": "U0357",
+    "age": 69,
+    "height_cm": 164.5,
+    "weight_kg": 104.5,
+    "bmi": 38.6,
+    "activity_level": "light",
+    "goal": "lose",
+    "diseases": [
+      "hypertension"
+    ],
+    "allergies": [],
+    "budget_per_day": 260000,
+    "preferred_tags": [
+      "seafood",
+      "spicy",
+      "vegetarian"
+    ],
+    "latent_taste_seed": 6979
+  },
+  {
+    "user_id": "U0358",
+    "age": 23,
+    "height_cm": 146.8,
+    "weight_kg": 67.3,
+    "bmi": 31.2,
+    "activity_level": "light",
+    "goal": "maintain",
+    "diseases": [],
+    "allergies": [],
+    "budget_per_day": 110000,
+    "preferred_tags": [
+      "seafood",
+      "spicy"
+    ],
+    "latent_taste_seed": 4841
+  },
+  {
+    "user_id": "U0359",
+    "age": 54,
+    "height_cm": 147.1,
+    "weight_kg": 46.1,
+    "bmi": 21.3,
+    "activity_level": "sedentary",
+    "goal": "maintain",
+    "diseases": [],
+    "allergies": [],
+    "budget_per_day": 120000,
+    "preferred_tags": [
+      "spicy"
+    ],
+    "latent_taste_seed": 741
+  },
+  {
+    "user_id": "U0360",
+    "age": 23,
+    "height_cm": 163.7,
+    "weight_kg": 96.4,
+    "bmi": 36.0,
+    "activity_level": "light",
+    "goal": "lose",
+    "diseases": [],
+    "allergies": [],
+    "budget_per_day": 230000,
+    "preferred_tags": [
+      "western",
+      "vietnamese"
+    ],
+    "latent_taste_seed": 95
+  },
+  {
+    "user_id": "U0361",
+    "age": 43,
+    "height_cm": 150.3,
+    "weight_kg": 53.7,
+    "bmi": 23.8,
+    "activity_level": "light",
+    "goal": "lose",
+    "diseases": [],
+    "allergies": [],
+    "budget_per_day": 150000,
+    "preferred_tags": [
+      "seafood"
+    ],
+    "latent_taste_seed": 227
+  },
+  {
+    "user_id": "U0362",
+    "age": 30,
+    "height_cm": 150.0,
+    "weight_kg": 41.3,
+    "bmi": 18.4,
+    "activity_level": "high",
+    "goal": "gain",
+    "diseases": [],
+    "allergies": [],
+    "budget_per_day": 80000,
+    "preferred_tags": [
+      "seafood"
+    ],
+    "latent_taste_seed": 7295
+  },
+  {
+    "user_id": "U0363",
+    "age": 49,
+    "height_cm": 166.2,
+    "weight_kg": 108.8,
+    "bmi": 39.4,
+    "activity_level": "light",
+    "goal": "maintain",
+    "diseases": [
+      "gout"
+    ],
+    "allergies": [
+      "shellfish"
+    ],
+    "budget_per_day": 200000,
+    "preferred_tags": [
+      "vietnamese",
+      "spicy"
+    ],
+    "latent_taste_seed": 6548
+  },
+  {
+    "user_id": "U0364",
+    "age": 49,
+    "height_cm": 168.1,
+    "weight_kg": 98.0,
+    "bmi": 34.7,
+    "activity_level": "high",
+    "goal": "gain",
+    "diseases": [
+      "gout"
+    ],
+    "allergies": [
+      "shellfish"
+    ],
+    "budget_per_day": 220000,
+    "preferred_tags": [
+      "vegetarian",
+      "spicy",
+      "western"
+    ],
+    "latent_taste_seed": 7147
+  },
+  {
+    "user_id": "U0365",
+    "age": 19,
+    "height_cm": 152.3,
+    "weight_kg": 98.1,
+    "bmi": 42.3,
+    "activity_level": "light",
+    "goal": "maintain",
+    "diseases": [],
+    "allergies": [],
+    "budget_per_day": 170000,
+    "preferred_tags": [
+      "vegetarian",
+      "spicy",
+      "vietnamese"
+    ],
+    "latent_taste_seed": 3394
+  },
+  {
+    "user_id": "U0366",
+    "age": 36,
+    "height_cm": 176.1,
+    "weight_kg": 46.9,
+    "bmi": 15.1,
+    "activity_level": "light",
+    "goal": "maintain",
+    "diseases": [],
+    "allergies": [],
+    "budget_per_day": 230000,
+    "preferred_tags": [
+      "western"
+    ],
+    "latent_taste_seed": 523
+  },
+  {
+    "user_id": "U0367",
+    "age": 69,
+    "height_cm": 147.9,
+    "weight_kg": 74.4,
+    "bmi": 34.0,
+    "activity_level": "light",
+    "goal": "maintain",
+    "diseases": [
+      "hypertension",
+      "diabetes"
+    ],
+    "allergies": [],
+    "budget_per_day": 230000,
+    "preferred_tags": [
+      "vietnamese",
+      "spicy",
+      "seafood"
+    ],
+    "latent_taste_seed": 1817
+  },
+  {
+    "user_id": "U0368",
+    "age": 24,
+    "height_cm": 180.2,
+    "weight_kg": 88.8,
+    "bmi": 27.3,
+    "activity_level": "moderate",
+    "goal": "maintain",
+    "diseases": [],
+    "allergies": [],
+    "budget_per_day": 270000,
+    "preferred_tags": [
+      "vegetarian"
+    ],
+    "latent_taste_seed": 5482
+  },
+  {
+    "user_id": "U0369",
+    "age": 70,
+    "height_cm": 151.2,
+    "weight_kg": 107.9,
+    "bmi": 47.2,
+    "activity_level": "light",
+    "goal": "maintain",
+    "diseases": [],
+    "allergies": [],
+    "budget_per_day": 110000,
+    "preferred_tags": [
+      "spicy",
+      "seafood",
+      "vietnamese"
+    ],
+    "latent_taste_seed": 7025
+  },
+  {
+    "user_id": "U0370",
+    "age": 44,
+    "height_cm": 186.3,
+    "weight_kg": 111.8,
+    "bmi": 32.2,
+    "activity_level": "high",
+    "goal": "lose",
+    "diseases": [],
+    "allergies": [],
+    "budget_per_day": 180000,
+    "preferred_tags": [
+      "vietnamese",
+      "seafood"
+    ],
+    "latent_taste_seed": 9413
+  },
+  {
+    "user_id": "U0371",
+    "age": 21,
+    "height_cm": 189.0,
+    "weight_kg": 118.4,
+    "bmi": 33.1,
+    "activity_level": "moderate",
+    "goal": "gain",
+    "diseases": [],
+    "allergies": [],
+    "budget_per_day": 210000,
+    "preferred_tags": [
+      "spicy"
+    ],
+    "latent_taste_seed": 7310
+  },
+  {
+    "user_id": "U0372",
+    "age": 59,
+    "height_cm": 154.2,
+    "weight_kg": 83.6,
+    "bmi": 35.2,
+    "activity_level": "moderate",
+    "goal": "lose",
+    "diseases": [],
+    "allergies": [],
+    "budget_per_day": 110000,
+    "preferred_tags": [
+      "vegetarian",
+      "seafood",
+      "vietnamese"
+    ],
+    "latent_taste_seed": 8383
+  },
+  {
+    "user_id": "U0373",
+    "age": 53,
+    "height_cm": 159.1,
+    "weight_kg": 67.3,
+    "bmi": 26.6,
+    "activity_level": "light",
+    "goal": "maintain",
+    "diseases": [],
+    "allergies": [],
+    "budget_per_day": 190000,
+    "preferred_tags": [
+      "vietnamese"
+    ],
+    "latent_taste_seed": 2043
+  },
+  {
+    "user_id": "U0374",
+    "age": 46,
+    "height_cm": 158.4,
+    "weight_kg": 98.9,
+    "bmi": 39.4,
+    "activity_level": "light",
+    "goal": "gain",
+    "diseases": [],
+    "allergies": [],
+    "budget_per_day": 240000,
+    "preferred_tags": [
+      "seafood",
+      "spicy",
+      "vegetarian"
+    ],
+    "latent_taste_seed": 4057
+  },
+  {
+    "user_id": "U0375",
+    "age": 24,
+    "height_cm": 159.8,
+    "weight_kg": 86.6,
+    "bmi": 33.9,
+    "activity_level": "moderate",
+    "goal": "maintain",
+    "diseases": [
+      "hypertension"
+    ],
+    "allergies": [],
+    "budget_per_day": 210000,
+    "preferred_tags": [
+      "spicy",
+      "vegetarian",
+      "western"
+    ],
+    "latent_taste_seed": 8172
+  },
+  {
+    "user_id": "U0376",
+    "age": 58,
+    "height_cm": 164.1,
+    "weight_kg": 75.2,
+    "bmi": 27.9,
+    "activity_level": "high",
+    "goal": "maintain",
+    "diseases": [],
+    "allergies": [],
+    "budget_per_day": 180000,
+    "preferred_tags": [
+      "seafood",
+      "vegetarian",
+      "vietnamese"
+    ],
+    "latent_taste_seed": 9856
+  },
+  {
+    "user_id": "U0377",
+    "age": 72,
+    "height_cm": 163.4,
+    "weight_kg": 49.7,
+    "bmi": 18.6,
+    "activity_level": "light",
+    "goal": "maintain",
+    "diseases": [],
+    "allergies": [],
+    "budget_per_day": 280000,
+    "preferred_tags": [
+      "seafood"
+    ],
+    "latent_taste_seed": 8008
+  },
+  {
+    "user_id": "U0378",
+    "age": 18,
+    "height_cm": 150.5,
+    "weight_kg": 67.9,
+    "bmi": 30.0,
+    "activity_level": "moderate",
+    "goal": "maintain",
+    "diseases": [],
+    "allergies": [],
+    "budget_per_day": 180000,
+    "preferred_tags": [
+      "seafood",
+      "vegetarian"
+    ],
+    "latent_taste_seed": 1463
+  },
+  {
+    "user_id": "U0379",
+    "age": 69,
+    "height_cm": 173.1,
+    "weight_kg": 89.9,
+    "bmi": 30.0,
+    "activity_level": "light",
+    "goal": "gain",
+    "diseases": [
+      "diabetes"
+    ],
+    "allergies": [],
+    "budget_per_day": 150000,
+    "preferred_tags": [
+      "vietnamese",
+      "western",
+      "spicy"
+    ],
+    "latent_taste_seed": 8877
+  },
+  {
+    "user_id": "U0380",
+    "age": 54,
+    "height_cm": 179.1,
+    "weight_kg": 116.6,
+    "bmi": 36.4,
+    "activity_level": "light",
+    "goal": "lose",
+    "diseases": [
+      "diabetes"
+    ],
+    "allergies": [],
+    "budget_per_day": 100000,
+    "preferred_tags": [
+      "western",
+      "vegetarian",
+      "seafood"
+    ],
+    "latent_taste_seed": 9648
+  },
+  {
+    "user_id": "U0381",
+    "age": 20,
+    "height_cm": 167.1,
+    "weight_kg": 114.7,
+    "bmi": 41.1,
+    "activity_level": "light",
+    "goal": "maintain",
+    "diseases": [
+      "hypertension"
+    ],
+    "allergies": [],
+    "budget_per_day": 290000,
+    "preferred_tags": [
+      "seafood",
+      "vietnamese",
+      "vegetarian"
+    ],
+    "latent_taste_seed": 5329
+  },
+  {
+    "user_id": "U0382",
+    "age": 29,
+    "height_cm": 146.2,
+    "weight_kg": 44.7,
+    "bmi": 20.9,
+    "activity_level": "light",
+    "goal": "maintain",
+    "diseases": [],
+    "allergies": [],
+    "budget_per_day": 160000,
+    "preferred_tags": [
+      "vegetarian"
+    ],
+    "latent_taste_seed": 993
+  },
+  {
+    "user_id": "U0383",
+    "age": 38,
+    "height_cm": 165.9,
+    "weight_kg": 72.6,
+    "bmi": 26.4,
+    "activity_level": "light",
+    "goal": "maintain",
+    "diseases": [
+      "hypertension"
+    ],
+    "allergies": [],
+    "budget_per_day": 100000,
+    "preferred_tags": [
+      "western",
+      "seafood",
+      "vietnamese"
+    ],
+    "latent_taste_seed": 6116
+  },
+  {
+    "user_id": "U0384",
+    "age": 52,
+    "height_cm": 189.3,
+    "weight_kg": 102.6,
+    "bmi": 28.6,
+    "activity_level": "light",
+    "goal": "maintain",
+    "diseases": [
+      "gout"
+    ],
+    "allergies": [
+      "soy"
+    ],
+    "budget_per_day": 210000,
+    "preferred_tags": [
+      "spicy",
+      "vegetarian",
+      "western"
+    ],
+    "latent_taste_seed": 3485
+  },
+  {
+    "user_id": "U0385",
+    "age": 55,
+    "height_cm": 182.8,
+    "weight_kg": 62.5,
+    "bmi": 18.7,
+    "activity_level": "sedentary",
+    "goal": "lose",
+    "diseases": [
+      "hypertension",
+      "diabetes"
+    ],
+    "allergies": [],
+    "budget_per_day": 270000,
+    "preferred_tags": [
+      "vegetarian",
+      "spicy"
+    ],
+    "latent_taste_seed": 4473
+  },
+  {
+    "user_id": "U0386",
+    "age": 33,
+    "height_cm": 174.8,
+    "weight_kg": 65.7,
+    "bmi": 21.5,
+    "activity_level": "sedentary",
+    "goal": "gain",
+    "diseases": [],
+    "allergies": [
+      "milk",
+      "egg"
+    ],
+    "budget_per_day": 190000,
+    "preferred_tags": [
+      "western",
+      "vietnamese"
+    ],
+    "latent_taste_seed": 1270
+  },
+  {
+    "user_id": "U0387",
+    "age": 52,
+    "height_cm": 146.4,
+    "weight_kg": 106.6,
+    "bmi": 49.7,
+    "activity_level": "moderate",
+    "goal": "lose",
+    "diseases": [],
+    "allergies": [
+      "soy"
+    ],
+    "budget_per_day": 180000,
+    "preferred_tags": [
+      "vietnamese"
+    ],
+    "latent_taste_seed": 4606
+  },
+  {
+    "user_id": "U0388",
+    "age": 61,
+    "height_cm": 186.5,
+    "weight_kg": 68.6,
+    "bmi": 19.7,
+    "activity_level": "sedentary",
+    "goal": "lose",
+    "diseases": [],
+    "allergies": [],
+    "budget_per_day": 260000,
+    "preferred_tags": [
+      "vietnamese",
+      "vegetarian"
+    ],
+    "latent_taste_seed": 9324
+  },
+  {
+    "user_id": "U0389",
+    "age": 50,
+    "height_cm": 167.2,
+    "weight_kg": 84.1,
+    "bmi": 30.1,
+    "activity_level": "moderate",
+    "goal": "lose",
+    "diseases": [
+      "gout"
+    ],
+    "allergies": [],
+    "budget_per_day": 120000,
+    "preferred_tags": [
+      "vietnamese",
+      "vegetarian",
+      "spicy"
+    ],
+    "latent_taste_seed": 9176
+  },
+  {
+    "user_id": "U0390",
+    "age": 74,
+    "height_cm": 165.4,
+    "weight_kg": 115.0,
+    "bmi": 42.0,
+    "activity_level": "light",
+    "goal": "gain",
+    "diseases": [
+      "hypertension"
+    ],
+    "allergies": [],
+    "budget_per_day": 130000,
+    "preferred_tags": [
+      "spicy",
+      "western"
+    ],
+    "latent_taste_seed": 5181
+  },
+  {
+    "user_id": "U0391",
+    "age": 18,
+    "height_cm": 162.6,
+    "weight_kg": 66.8,
+    "bmi": 25.3,
+    "activity_level": "moderate",
+    "goal": "gain",
+    "diseases": [],
+    "allergies": [
+      "fish"
+    ],
+    "budget_per_day": 180000,
+    "preferred_tags": [
+      "western"
+    ],
+    "latent_taste_seed": 5477
+  },
+  {
+    "user_id": "U0392",
+    "age": 71,
+    "height_cm": 156.3,
+    "weight_kg": 48.6,
+    "bmi": 19.9,
+    "activity_level": "sedentary",
+    "goal": "maintain",
+    "diseases": [
+      "hypertension"
+    ],
+    "allergies": [],
+    "budget_per_day": 90000,
+    "preferred_tags": [
+      "spicy"
+    ],
+    "latent_taste_seed": 5132
+  },
+  {
+    "user_id": "U0393",
+    "age": 74,
+    "height_cm": 183.1,
+    "weight_kg": 45.2,
+    "bmi": 13.5,
+    "activity_level": "sedentary",
+    "goal": "gain",
+    "diseases": [],
+    "allergies": [],
+    "budget_per_day": 130000,
+    "preferred_tags": [
+      "western",
+      "vietnamese",
+      "seafood"
+    ],
+    "latent_taste_seed": 6290
+  },
+  {
+    "user_id": "U0394",
+    "age": 47,
+    "height_cm": 180.8,
+    "weight_kg": 110.4,
+    "bmi": 33.8,
+    "activity_level": "light",
+    "goal": "maintain",
+    "diseases": [],
+    "allergies": [],
+    "budget_per_day": 210000,
+    "preferred_tags": [
+      "western",
+      "vegetarian",
+      "seafood"
+    ],
+    "latent_taste_seed": 6897
+  },
+  {
+    "user_id": "U0395",
+    "age": 48,
+    "height_cm": 177.6,
+    "weight_kg": 75.6,
+    "bmi": 24.0,
+    "activity_level": "sedentary",
+    "goal": "lose",
+    "diseases": [
+      "hypertension"
+    ],
+    "allergies": [],
+    "budget_per_day": 160000,
+    "preferred_tags": [
+      "vietnamese",
+      "seafood"
+    ],
+    "latent_taste_seed": 939
+  },
+  {
+    "user_id": "U0396",
+    "age": 33,
+    "height_cm": 167.8,
+    "weight_kg": 106.8,
+    "bmi": 37.9,
+    "activity_level": "moderate",
+    "goal": "maintain",
+    "diseases": [
+      "hypertension",
+      "diabetes"
+    ],
+    "allergies": [],
+    "budget_per_day": 210000,
+    "preferred_tags": [
+      "western",
+      "vegetarian"
+    ],
+    "latent_taste_seed": 6859
+  },
+  {
+    "user_id": "U0397",
+    "age": 39,
+    "height_cm": 152.3,
+    "weight_kg": 76.3,
+    "bmi": 32.9,
+    "activity_level": "moderate",
+    "goal": "maintain",
+    "diseases": [
+      "hypertension",
+      "diabetes",
+      "gout"
+    ],
+    "allergies": [],
+    "budget_per_day": 130000,
+    "preferred_tags": [
+      "vietnamese"
+    ],
+    "latent_taste_seed": 5944
+  },
+  {
+    "user_id": "U0398",
+    "age": 18,
+    "height_cm": 148.3,
+    "weight_kg": 42.4,
+    "bmi": 19.3,
+    "activity_level": "sedentary",
+    "goal": "maintain",
+    "diseases": [],
+    "allergies": [
+      "shellfish",
+      "peanut"
+    ],
+    "budget_per_day": 200000,
+    "preferred_tags": [
+      "seafood"
+    ],
+    "latent_taste_seed": 352
+  },
+  {
+    "user_id": "U0399",
+    "age": 29,
+    "height_cm": 182.9,
+    "weight_kg": 112.9,
+    "bmi": 33.7,
+    "activity_level": "sedentary",
+    "goal": "lose",
+    "diseases": [],
+    "allergies": [],
+    "budget_per_day": 300000,
+    "preferred_tags": [
+      "vietnamese",
+      "western"
+    ],
+    "latent_taste_seed": 2366
+  },
+  {
+    "user_id": "U0400",
+    "age": 74,
+    "height_cm": 186.6,
+    "weight_kg": 103.6,
+    "bmi": 29.8,
+    "activity_level": "sedentary",
+    "goal": "maintain",
+    "diseases": [],
+    "allergies": [],
+    "budget_per_day": 90000,
+    "preferred_tags": [
+      "seafood",
+      "spicy"
+    ],
+    "latent_taste_seed": 3428
+  },
+  {
+    "user_id": "U0401",
+    "age": 64,
+    "height_cm": 148.7,
+    "weight_kg": 77.7,
+    "bmi": 35.1,
+    "activity_level": "moderate",
+    "goal": "maintain",
+    "diseases": [],
+    "allergies": [],
+    "budget_per_day": 190000,
+    "preferred_tags": [
+      "western",
+      "spicy"
+    ],
+    "latent_taste_seed": 9567
+  },
+  {
+    "user_id": "U0402",
+    "age": 59,
+    "height_cm": 146.6,
+    "weight_kg": 57.6,
+    "bmi": 26.8,
+    "activity_level": "sedentary",
+    "goal": "gain",
+    "diseases": [],
+    "allergies": [],
+    "budget_per_day": 160000,
+    "preferred_tags": [
+      "vietnamese",
+      "spicy",
+      "vegetarian"
+    ],
+    "latent_taste_seed": 5511
+  },
+  {
+    "user_id": "U0403",
+    "age": 45,
+    "height_cm": 165.3,
+    "weight_kg": 74.6,
+    "bmi": 27.3,
+    "activity_level": "light",
+    "goal": "maintain",
+    "diseases": [
+      "diabetes"
+    ],
+    "allergies": [],
+    "budget_per_day": 140000,
+    "preferred_tags": [
+      "vietnamese"
+    ],
+    "latent_taste_seed": 1942
+  },
+  {
+    "user_id": "U0404",
+    "age": 22,
+    "height_cm": 161.2,
+    "weight_kg": 83.7,
+    "bmi": 32.2,
+    "activity_level": "light",
+    "goal": "lose",
+    "diseases": [],
+    "allergies": [],
+    "budget_per_day": 140000,
+    "preferred_tags": [
+      "vegetarian",
+      "western"
+    ],
+    "latent_taste_seed": 6616
+  },
+  {
+    "user_id": "U0405",
+    "age": 43,
+    "height_cm": 182.0,
+    "weight_kg": 100.6,
+    "bmi": 30.4,
+    "activity_level": "sedentary",
+    "goal": "lose",
+    "diseases": [],
+    "allergies": [],
+    "budget_per_day": 260000,
+    "preferred_tags": [
+      "vietnamese",
+      "vegetarian"
+    ],
+    "latent_taste_seed": 3077
+  },
+  {
+    "user_id": "U0406",
+    "age": 45,
+    "height_cm": 179.7,
+    "weight_kg": 95.8,
+    "bmi": 29.7,
+    "activity_level": "sedentary",
+    "goal": "maintain",
+    "diseases": [],
+    "allergies": [
+      "milk"
+    ],
+    "budget_per_day": 230000,
+    "preferred_tags": [
+      "western",
+      "vegetarian"
+    ],
+    "latent_taste_seed": 5342
+  },
+  {
+    "user_id": "U0407",
+    "age": 55,
+    "height_cm": 146.0,
+    "weight_kg": 102.8,
+    "bmi": 48.2,
+    "activity_level": "high",
+    "goal": "maintain",
+    "diseases": [],
+    "allergies": [],
+    "budget_per_day": 120000,
+    "preferred_tags": [
+      "vegetarian"
+    ],
+    "latent_taste_seed": 9330
+  },
+  {
+    "user_id": "U0408",
+    "age": 46,
+    "height_cm": 173.8,
+    "weight_kg": 64.4,
+    "bmi": 21.3,
+    "activity_level": "sedentary",
+    "goal": "lose",
+    "diseases": [],
+    "allergies": [
+      "shellfish"
+    ],
+    "budget_per_day": 180000,
+    "preferred_tags": [
+      "western",
+      "vietnamese"
+    ],
+    "latent_taste_seed": 2815
+  },
+  {
+    "user_id": "U0409",
+    "age": 38,
+    "height_cm": 183.7,
+    "weight_kg": 72.9,
+    "bmi": 21.6,
+    "activity_level": "sedentary",
+    "goal": "maintain",
+    "diseases": [],
+    "allergies": [],
+    "budget_per_day": 210000,
+    "preferred_tags": [
+      "western",
+      "seafood"
+    ],
+    "latent_taste_seed": 8232
+  },
+  {
+    "user_id": "U0410",
+    "age": 63,
+    "height_cm": 175.8,
+    "weight_kg": 62.0,
+    "bmi": 20.1,
+    "activity_level": "sedentary",
+    "goal": "maintain",
+    "diseases": [
+      "hypertension"
+    ],
+    "allergies": [],
+    "budget_per_day": 270000,
+    "preferred_tags": [
+      "vegetarian",
+      "western"
+    ],
+    "latent_taste_seed": 6407
+  },
+  {
+    "user_id": "U0411",
+    "age": 57,
+    "height_cm": 182.1,
+    "weight_kg": 108.0,
+    "bmi": 32.6,
+    "activity_level": "light",
+    "goal": "maintain",
+    "diseases": [],
+    "allergies": [],
+    "budget_per_day": 270000,
+    "preferred_tags": [
+      "vegetarian",
+      "vietnamese",
+      "western"
+    ],
+    "latent_taste_seed": 3559
+  },
+  {
+    "user_id": "U0412",
+    "age": 49,
+    "height_cm": 163.5,
+    "weight_kg": 100.9,
+    "bmi": 37.7,
+    "activity_level": "sedentary",
+    "goal": "maintain",
+    "diseases": [],
+    "allergies": [],
+    "budget_per_day": 180000,
+    "preferred_tags": [
+      "spicy",
+      "seafood"
+    ],
+    "latent_taste_seed": 6499
+  },
+  {
+    "user_id": "U0413",
+    "age": 20,
+    "height_cm": 145.5,
+    "weight_kg": 49.2,
+    "bmi": 23.2,
+    "activity_level": "high",
+    "goal": "maintain",
+    "diseases": [],
+    "allergies": [],
+    "budget_per_day": 80000,
+    "preferred_tags": [
+      "seafood"
+    ],
+    "latent_taste_seed": 4819
+  },
+  {
+    "user_id": "U0414",
+    "age": 25,
+    "height_cm": 169.1,
+    "weight_kg": 71.3,
+    "bmi": 24.9,
+    "activity_level": "sedentary",
+    "goal": "lose",
+    "diseases": [],
+    "allergies": [],
+    "budget_per_day": 220000,
+    "preferred_tags": [
+      "vietnamese",
+      "spicy",
+      "vegetarian"
+    ],
+    "latent_taste_seed": 5051
+  },
+  {
+    "user_id": "U0415",
+    "age": 46,
+    "height_cm": 147.4,
+    "weight_kg": 40.4,
+    "bmi": 18.6,
+    "activity_level": "moderate",
+    "goal": "lose",
+    "diseases": [],
+    "allergies": [],
+    "budget_per_day": 270000,
+    "preferred_tags": [
+      "seafood",
+      "western",
+      "vietnamese"
+    ],
+    "latent_taste_seed": 6810
+  },
+  {
+    "user_id": "U0416",
+    "age": 50,
+    "height_cm": 149.8,
+    "weight_kg": 66.2,
+    "bmi": 29.5,
+    "activity_level": "light",
+    "goal": "maintain",
+    "diseases": [
+      "hypertension"
+    ],
+    "allergies": [],
+    "budget_per_day": 180000,
+    "preferred_tags": [
+      "vegetarian"
+    ],
+    "latent_taste_seed": 6045
+  },
+  {
+    "user_id": "U0417",
+    "age": 20,
+    "height_cm": 148.0,
+    "weight_kg": 57.5,
+    "bmi": 26.3,
+    "activity_level": "light",
+    "goal": "lose",
+    "diseases": [
+      "diabetes"
+    ],
+    "allergies": [],
+    "budget_per_day": 230000,
+    "preferred_tags": [
+      "seafood",
+      "vegetarian",
+      "vietnamese"
+    ],
+    "latent_taste_seed": 5209
+  },
+  {
+    "user_id": "U0418",
+    "age": 72,
+    "height_cm": 175.0,
+    "weight_kg": 45.4,
+    "bmi": 14.8,
+    "activity_level": "sedentary",
+    "goal": "gain",
+    "diseases": [],
+    "allergies": [
+      "milk"
+    ],
+    "budget_per_day": 170000,
+    "preferred_tags": [
+      "western"
+    ],
+    "latent_taste_seed": 1300
+  },
+  {
+    "user_id": "U0419",
+    "age": 21,
+    "height_cm": 151.2,
+    "weight_kg": 79.9,
+    "bmi": 34.9,
+    "activity_level": "sedentary",
+    "goal": "maintain",
+    "diseases": [],
+    "allergies": [],
+    "budget_per_day": 250000,
+    "preferred_tags": [
+      "vegetarian",
+      "vietnamese"
+    ],
+    "latent_taste_seed": 3752
+  },
+  {
+    "user_id": "U0420",
+    "age": 72,
+    "height_cm": 178.0,
+    "weight_kg": 67.4,
+    "bmi": 21.3,
+    "activity_level": "sedentary",
+    "goal": "maintain",
+    "diseases": [],
+    "allergies": [],
+    "budget_per_day": 190000,
+    "preferred_tags": [
+      "vietnamese"
+    ],
+    "latent_taste_seed": 2318
+  },
+  {
+    "user_id": "U0421",
+    "age": 31,
+    "height_cm": 150.7,
+    "weight_kg": 53.9,
+    "bmi": 23.7,
+    "activity_level": "light",
+    "goal": "lose",
+    "diseases": [],
+    "allergies": [],
+    "budget_per_day": 290000,
+    "preferred_tags": [
+      "vegetarian"
+    ],
+    "latent_taste_seed": 7883
+  },
+  {
+    "user_id": "U0422",
+    "age": 23,
+    "height_cm": 187.8,
+    "weight_kg": 68.8,
+    "bmi": 19.5,
+    "activity_level": "light",
+    "goal": "maintain",
+    "diseases": [],
+    "allergies": [],
+    "budget_per_day": 150000,
+    "preferred_tags": [
+      "seafood",
+      "western",
+      "spicy"
+    ],
+    "latent_taste_seed": 6233
+  },
+  {
+    "user_id": "U0423",
+    "age": 47,
+    "height_cm": 158.8,
+    "weight_kg": 62.7,
+    "bmi": 24.9,
+    "activity_level": "light",
+    "goal": "maintain",
+    "diseases": [],
+    "allergies": [
+      "peanut"
+    ],
+    "budget_per_day": 170000,
+    "preferred_tags": [
+      "vegetarian",
+      "spicy",
+      "seafood"
+    ],
+    "latent_taste_seed": 5043
+  },
+  {
+    "user_id": "U0424",
+    "age": 59,
+    "height_cm": 189.4,
+    "weight_kg": 45.7,
+    "bmi": 12.7,
+    "activity_level": "moderate",
+    "goal": "gain",
+    "diseases": [
+      "hypertension",
+      "gout"
+    ],
+    "allergies": [],
+    "budget_per_day": 160000,
+    "preferred_tags": [
+      "spicy"
+    ],
+    "latent_taste_seed": 6947
+  },
+  {
+    "user_id": "U0425",
+    "age": 65,
+    "height_cm": 156.1,
+    "weight_kg": 78.2,
+    "bmi": 32.1,
+    "activity_level": "high",
+    "goal": "maintain",
+    "diseases": [
+      "diabetes"
+    ],
+    "allergies": [],
+    "budget_per_day": 120000,
+    "preferred_tags": [
+      "vietnamese"
+    ],
+    "latent_taste_seed": 6297
+  },
+  {
+    "user_id": "U0426",
+    "age": 43,
+    "height_cm": 176.8,
+    "weight_kg": 117.9,
+    "bmi": 37.7,
+    "activity_level": "sedentary",
+    "goal": "gain",
+    "diseases": [],
+    "allergies": [],
+    "budget_per_day": 280000,
+    "preferred_tags": [
+      "vietnamese"
+    ],
+    "latent_taste_seed": 9381
+  },
+  {
+    "user_id": "U0427",
+    "age": 67,
+    "height_cm": 180.9,
+    "weight_kg": 105.1,
+    "bmi": 32.1,
+    "activity_level": "sedentary",
+    "goal": "maintain",
+    "diseases": [
+      "gout"
+    ],
+    "allergies": [],
+    "budget_per_day": 170000,
+    "preferred_tags": [
+      "vegetarian"
+    ],
+    "latent_taste_seed": 3053
+  },
+  {
+    "user_id": "U0428",
+    "age": 63,
+    "height_cm": 151.0,
+    "weight_kg": 78.9,
+    "bmi": 34.6,
+    "activity_level": "light",
+    "goal": "maintain",
+    "diseases": [],
+    "allergies": [],
+    "budget_per_day": 100000,
+    "preferred_tags": [
+      "seafood",
+      "vietnamese",
+      "western"
+    ],
+    "latent_taste_seed": 1404
+  },
+  {
+    "user_id": "U0429",
+    "age": 42,
+    "height_cm": 150.6,
+    "weight_kg": 45.1,
+    "bmi": 19.9,
+    "activity_level": "sedentary",
+    "goal": "maintain",
+    "diseases": [
+      "gout"
+    ],
+    "allergies": [],
+    "budget_per_day": 160000,
+    "preferred_tags": [
+      "vegetarian",
+      "spicy",
+      "seafood"
+    ],
+    "latent_taste_seed": 5521
+  },
+  {
+    "user_id": "U0430",
+    "age": 56,
+    "height_cm": 164.3,
+    "weight_kg": 69.7,
+    "bmi": 25.8,
+    "activity_level": "moderate",
+    "goal": "gain",
+    "diseases": [],
+    "allergies": [],
+    "budget_per_day": 240000,
+    "preferred_tags": [
+      "vietnamese"
+    ],
+    "latent_taste_seed": 9861
+  },
+  {
+    "user_id": "U0431",
+    "age": 25,
+    "height_cm": 184.1,
+    "weight_kg": 62.4,
+    "bmi": 18.4,
+    "activity_level": "moderate",
+    "goal": "gain",
+    "diseases": [],
+    "allergies": [
+      "fish"
+    ],
+    "budget_per_day": 160000,
+    "preferred_tags": [
+      "vegetarian"
+    ],
+    "latent_taste_seed": 7279
+  },
+  {
+    "user_id": "U0432",
+    "age": 32,
+    "height_cm": 172.3,
+    "weight_kg": 72.0,
+    "bmi": 24.3,
+    "activity_level": "light",
+    "goal": "maintain",
+    "diseases": [],
+    "allergies": [],
+    "budget_per_day": 190000,
+    "preferred_tags": [
+      "western",
+      "vietnamese",
+      "spicy"
+    ],
+    "latent_taste_seed": 8158
+  },
+  {
+    "user_id": "U0433",
+    "age": 68,
+    "height_cm": 148.9,
+    "weight_kg": 106.6,
+    "bmi": 48.1,
+    "activity_level": "high",
+    "goal": "gain",
+    "diseases": [],
+    "allergies": [],
+    "budget_per_day": 300000,
+    "preferred_tags": [
+      "seafood"
+    ],
+    "latent_taste_seed": 5349
+  },
+  {
+    "user_id": "U0434",
+    "age": 75,
+    "height_cm": 162.3,
+    "weight_kg": 62.4,
+    "bmi": 23.7,
+    "activity_level": "moderate",
+    "goal": "lose",
+    "diseases": [],
+    "allergies": [],
+    "budget_per_day": 280000,
+    "preferred_tags": [
+      "vegetarian"
+    ],
+    "latent_taste_seed": 6176
+  },
+  {
+    "user_id": "U0435",
+    "age": 63,
+    "height_cm": 178.4,
+    "weight_kg": 98.0,
+    "bmi": 30.8,
+    "activity_level": "moderate",
+    "goal": "lose",
+    "diseases": [],
+    "allergies": [],
+    "budget_per_day": 210000,
+    "preferred_tags": [
+      "vegetarian"
+    ],
+    "latent_taste_seed": 6229
+  },
+  {
+    "user_id": "U0436",
+    "age": 54,
+    "height_cm": 178.2,
+    "weight_kg": 64.9,
+    "bmi": 20.4,
+    "activity_level": "light",
+    "goal": "maintain",
+    "diseases": [],
+    "allergies": [
+      "fish"
+    ],
+    "budget_per_day": 270000,
+    "preferred_tags": [
+      "seafood",
+      "vegetarian"
+    ],
+    "latent_taste_seed": 3586
+  },
+  {
+    "user_id": "U0437",
+    "age": 49,
+    "height_cm": 175.6,
+    "weight_kg": 51.8,
+    "bmi": 16.8,
+    "activity_level": "sedentary",
+    "goal": "lose",
+    "diseases": [
+      "gout"
+    ],
+    "allergies": [],
+    "budget_per_day": 130000,
+    "preferred_tags": [
+      "spicy",
+      "vietnamese"
+    ],
+    "latent_taste_seed": 5458
+  },
+  {
+    "user_id": "U0438",
+    "age": 27,
+    "height_cm": 182.3,
+    "weight_kg": 56.8,
+    "bmi": 17.1,
+    "activity_level": "moderate",
+    "goal": "gain",
+    "diseases": [
+      "diabetes"
+    ],
+    "allergies": [],
+    "budget_per_day": 200000,
+    "preferred_tags": [
+      "spicy",
+      "western"
+    ],
+    "latent_taste_seed": 5706
+  },
+  {
+    "user_id": "U0439",
+    "age": 66,
+    "height_cm": 162.6,
+    "weight_kg": 45.7,
+    "bmi": 17.3,
+    "activity_level": "moderate",
+    "goal": "maintain",
+    "diseases": [],
+    "allergies": [],
+    "budget_per_day": 220000,
+    "preferred_tags": [
+      "seafood",
+      "spicy",
+      "vegetarian"
+    ],
+    "latent_taste_seed": 7904
+  },
+  {
+    "user_id": "U0440",
+    "age": 36,
+    "height_cm": 185.4,
+    "weight_kg": 56.8,
+    "bmi": 16.5,
+    "activity_level": "moderate",
+    "goal": "maintain",
+    "diseases": [],
+    "allergies": [],
+    "budget_per_day": 90000,
+    "preferred_tags": [
+      "spicy",
+      "seafood"
+    ],
+    "latent_taste_seed": 859
+  },
+  {
+    "user_id": "U0441",
+    "age": 25,
+    "height_cm": 189.1,
+    "weight_kg": 92.0,
+    "bmi": 25.7,
+    "activity_level": "light",
+    "goal": "gain",
+    "diseases": [
+      "gout"
+    ],
+    "allergies": [],
+    "budget_per_day": 250000,
+    "preferred_tags": [
+      "vietnamese",
+      "spicy",
+      "vegetarian"
+    ],
+    "latent_taste_seed": 6260
+  },
+  {
+    "user_id": "U0442",
+    "age": 35,
+    "height_cm": 173.5,
+    "weight_kg": 75.6,
+    "bmi": 25.1,
+    "activity_level": "sedentary",
+    "goal": "maintain",
+    "diseases": [
+      "hypertension"
+    ],
+    "allergies": [],
+    "budget_per_day": 160000,
+    "preferred_tags": [
+      "spicy",
+      "vegetarian",
+      "western"
+    ],
+    "latent_taste_seed": 2051
+  },
+  {
+    "user_id": "U0443",
+    "age": 24,
+    "height_cm": 159.6,
+    "weight_kg": 97.1,
+    "bmi": 38.1,
+    "activity_level": "moderate",
+    "goal": "lose",
+    "diseases": [],
+    "allergies": [],
+    "budget_per_day": 220000,
+    "preferred_tags": [
+      "vietnamese"
+    ],
+    "latent_taste_seed": 2960
+  },
+  {
+    "user_id": "U0444",
+    "age": 73,
+    "height_cm": 172.0,
+    "weight_kg": 54.4,
+    "bmi": 18.4,
+    "activity_level": "light",
+    "goal": "gain",
+    "diseases": [
+      "hypertension",
+      "diabetes"
+    ],
+    "allergies": [],
+    "budget_per_day": 200000,
+    "preferred_tags": [
+      "vietnamese",
+      "seafood"
+    ],
+    "latent_taste_seed": 4925
+  },
+  {
+    "user_id": "U0445",
+    "age": 20,
+    "height_cm": 187.6,
+    "weight_kg": 81.6,
+    "bmi": 23.2,
+    "activity_level": "moderate",
+    "goal": "lose",
+    "diseases": [],
+    "allergies": [],
+    "budget_per_day": 130000,
+    "preferred_tags": [
+      "seafood"
+    ],
+    "latent_taste_seed": 4910
+  },
+  {
+    "user_id": "U0446",
+    "age": 72,
+    "height_cm": 182.5,
+    "weight_kg": 116.6,
+    "bmi": 35.0,
+    "activity_level": "light",
+    "goal": "maintain",
+    "diseases": [
+      "diabetes"
+    ],
+    "allergies": [],
+    "budget_per_day": 170000,
+    "preferred_tags": [
+      "seafood",
+      "western",
+      "vietnamese"
+    ],
+    "latent_taste_seed": 4413
+  },
+  {
+    "user_id": "U0447",
+    "age": 58,
+    "height_cm": 176.4,
+    "weight_kg": 55.4,
+    "bmi": 17.8,
+    "activity_level": "light",
+    "goal": "lose",
+    "diseases": [],
+    "allergies": [],
+    "budget_per_day": 100000,
+    "preferred_tags": [
+      "spicy",
+      "vietnamese",
+      "seafood"
+    ],
+    "latent_taste_seed": 1457
+  },
+  {
+    "user_id": "U0448",
+    "age": 41,
+    "height_cm": 185.9,
+    "weight_kg": 102.2,
+    "bmi": 29.6,
+    "activity_level": "sedentary",
+    "goal": "lose",
+    "diseases": [
+      "diabetes"
+    ],
+    "allergies": [],
+    "budget_per_day": 260000,
+    "preferred_tags": [
+      "western"
+    ],
+    "latent_taste_seed": 5716
+  },
+  {
+    "user_id": "U0449",
+    "age": 62,
+    "height_cm": 170.7,
+    "weight_kg": 62.6,
+    "bmi": 21.5,
+    "activity_level": "sedentary",
+    "goal": "maintain",
+    "diseases": [
+      "hypertension"
+    ],
+    "allergies": [],
+    "budget_per_day": 210000,
+    "preferred_tags": [
+      "vietnamese",
+      "seafood"
+    ],
+    "latent_taste_seed": 2070
+  },
+  {
+    "user_id": "U0450",
+    "age": 27,
+    "height_cm": 162.0,
+    "weight_kg": 98.8,
+    "bmi": 37.6,
+    "activity_level": "sedentary",
+    "goal": "lose",
+    "diseases": [],
+    "allergies": [],
+    "budget_per_day": 170000,
+    "preferred_tags": [
+      "seafood",
+      "vegetarian",
+      "spicy"
+    ],
+    "latent_taste_seed": 1424
+  },
+  {
+    "user_id": "U0451",
+    "age": 37,
+    "height_cm": 163.3,
+    "weight_kg": 65.0,
+    "bmi": 24.4,
+    "activity_level": "sedentary",
+    "goal": "maintain",
+    "diseases": [],
+    "allergies": [],
+    "budget_per_day": 190000,
+    "preferred_tags": [
+      "seafood",
+      "spicy",
+      "western"
+    ],
+    "latent_taste_seed": 8437
+  },
+  {
+    "user_id": "U0452",
+    "age": 61,
+    "height_cm": 189.9,
+    "weight_kg": 111.0,
+    "bmi": 30.8,
+    "activity_level": "moderate",
+    "goal": "maintain",
+    "diseases": [],
+    "allergies": [],
+    "budget_per_day": 270000,
+    "preferred_tags": [
+      "western",
+      "vietnamese",
+      "vegetarian"
+    ],
+    "latent_taste_seed": 7350
+  },
+  {
+    "user_id": "U0453",
+    "age": 28,
+    "height_cm": 175.4,
+    "weight_kg": 110.6,
+    "bmi": 35.9,
+    "activity_level": "light",
+    "goal": "maintain",
+    "diseases": [
+      "hypertension"
+    ],
+    "allergies": [],
+    "budget_per_day": 200000,
+    "preferred_tags": [
+      "vegetarian"
+    ],
+    "latent_taste_seed": 4901
+  },
+  {
+    "user_id": "U0454",
+    "age": 48,
+    "height_cm": 158.2,
+    "weight_kg": 57.0,
+    "bmi": 22.8,
+    "activity_level": "moderate",
+    "goal": "lose",
+    "diseases": [],
+    "allergies": [
+      "milk"
+    ],
+    "budget_per_day": 220000,
+    "preferred_tags": [
+      "vegetarian",
+      "western"
+    ],
+    "latent_taste_seed": 1755
+  },
+  {
+    "user_id": "U0455",
+    "age": 18,
+    "height_cm": 160.7,
+    "weight_kg": 97.8,
+    "bmi": 37.9,
+    "activity_level": "light",
+    "goal": "maintain",
+    "diseases": [],
+    "allergies": [
+      "egg"
+    ],
+    "budget_per_day": 160000,
+    "preferred_tags": [
+      "spicy",
+      "seafood"
+    ],
+    "latent_taste_seed": 8788
+  },
+  {
+    "user_id": "U0456",
+    "age": 69,
+    "height_cm": 157.1,
+    "weight_kg": 119.1,
+    "bmi": 48.3,
+    "activity_level": "moderate",
+    "goal": "maintain",
+    "diseases": [
+      "hypertension",
+      "gout"
+    ],
+    "allergies": [],
+    "budget_per_day": 90000,
+    "preferred_tags": [
+      "seafood",
+      "spicy",
+      "vegetarian"
+    ],
+    "latent_taste_seed": 4354
+  },
+  {
+    "user_id": "U0457",
+    "age": 25,
+    "height_cm": 163.9,
+    "weight_kg": 84.0,
+    "bmi": 31.3,
+    "activity_level": "moderate",
+    "goal": "lose",
+    "diseases": [],
+    "allergies": [
+      "fish"
+    ],
+    "budget_per_day": 110000,
+    "preferred_tags": [
+      "vietnamese",
+      "seafood",
+      "western"
+    ],
+    "latent_taste_seed": 5605
+  },
+  {
+    "user_id": "U0458",
+    "age": 45,
+    "height_cm": 188.9,
+    "weight_kg": 99.0,
+    "bmi": 27.7,
+    "activity_level": "light",
+    "goal": "maintain",
+    "diseases": [],
+    "allergies": [],
+    "budget_per_day": 260000,
+    "preferred_tags": [
+      "spicy"
+    ],
+    "latent_taste_seed": 1688
+  },
+  {
+    "user_id": "U0459",
+    "age": 62,
+    "height_cm": 177.9,
+    "weight_kg": 88.9,
+    "bmi": 28.1,
+    "activity_level": "sedentary",
+    "goal": "gain",
+    "diseases": [
+      "diabetes",
+      "gout"
+    ],
+    "allergies": [
+      "soy"
+    ],
+    "budget_per_day": 160000,
+    "preferred_tags": [
+      "vegetarian",
+      "seafood",
+      "vietnamese"
+    ],
+    "latent_taste_seed": 5507
+  },
+  {
+    "user_id": "U0460",
+    "age": 45,
+    "height_cm": 166.6,
+    "weight_kg": 80.8,
+    "bmi": 29.1,
+    "activity_level": "light",
+    "goal": "maintain",
+    "diseases": [],
+    "allergies": [],
+    "budget_per_day": 180000,
+    "preferred_tags": [
+      "vietnamese",
+      "spicy",
+      "western"
+    ],
+    "latent_taste_seed": 4133
+  },
+  {
+    "user_id": "U0461",
+    "age": 49,
+    "height_cm": 161.4,
+    "weight_kg": 64.3,
+    "bmi": 24.7,
+    "activity_level": "sedentary",
+    "goal": "maintain",
+    "diseases": [],
+    "allergies": [],
+    "budget_per_day": 160000,
+    "preferred_tags": [
+      "seafood"
+    ],
+    "latent_taste_seed": 9860
+  },
+  {
+    "user_id": "U0462",
+    "age": 25,
+    "height_cm": 146.8,
+    "weight_kg": 117.5,
+    "bmi": 54.5,
+    "activity_level": "moderate",
+    "goal": "gain",
+    "diseases": [
+      "hypertension",
+      "gout"
+    ],
+    "allergies": [],
+    "budget_per_day": 110000,
+    "preferred_tags": [
+      "western",
+      "vegetarian"
+    ],
+    "latent_taste_seed": 9180
+  },
+  {
+    "user_id": "U0463",
+    "age": 40,
+    "height_cm": 185.3,
+    "weight_kg": 75.9,
+    "bmi": 22.1,
+    "activity_level": "moderate",
+    "goal": "gain",
+    "diseases": [
+      "hypertension"
+    ],
+    "allergies": [
+      "peanut"
+    ],
+    "budget_per_day": 250000,
+    "preferred_tags": [
+      "seafood",
+      "spicy",
+      "western"
+    ],
+    "latent_taste_seed": 8723
+  },
+  {
+    "user_id": "U0464",
+    "age": 73,
+    "height_cm": 168.1,
+    "weight_kg": 46.0,
+    "bmi": 16.3,
+    "activity_level": "light",
+    "goal": "lose",
+    "diseases": [],
+    "allergies": [
+      "peanut",
+      "soy"
+    ],
+    "budget_per_day": 190000,
+    "preferred_tags": [
+      "western",
+      "vegetarian",
+      "seafood"
+    ],
+    "latent_taste_seed": 3609
+  },
+  {
+    "user_id": "U0465",
+    "age": 36,
+    "height_cm": 176.9,
+    "weight_kg": 84.2,
+    "bmi": 26.9,
+    "activity_level": "sedentary",
+    "goal": "maintain",
+    "diseases": [
+      "hypertension",
+      "diabetes",
+      "gout"
+    ],
+    "allergies": [],
+    "budget_per_day": 200000,
+    "preferred_tags": [
+      "vegetarian"
+    ],
+    "latent_taste_seed": 9914
+  },
+  {
+    "user_id": "U0466",
+    "age": 41,
+    "height_cm": 159.6,
+    "weight_kg": 115.7,
+    "bmi": 45.4,
+    "activity_level": "moderate",
+    "goal": "maintain",
+    "diseases": [
+      "hypertension"
+    ],
+    "allergies": [
+      "milk"
+    ],
+    "budget_per_day": 80000,
+    "preferred_tags": [
+      "western",
+      "vietnamese",
+      "vegetarian"
+    ],
+    "latent_taste_seed": 6258
+  },
+  {
+    "user_id": "U0467",
+    "age": 59,
+    "height_cm": 156.6,
+    "weight_kg": 90.1,
+    "bmi": 36.7,
+    "activity_level": "light",
+    "goal": "maintain",
+    "diseases": [],
+    "allergies": [],
+    "budget_per_day": 190000,
+    "preferred_tags": [
+      "seafood",
+      "spicy"
+    ],
+    "latent_taste_seed": 3031
+  },
+  {
+    "user_id": "U0468",
+    "age": 70,
+    "height_cm": 183.8,
+    "weight_kg": 55.1,
+    "bmi": 16.3,
+    "activity_level": "light",
+    "goal": "lose",
+    "diseases": [
+      "diabetes",
+      "gout"
+    ],
+    "allergies": [],
+    "budget_per_day": 290000,
+    "preferred_tags": [
+      "western"
+    ],
+    "latent_taste_seed": 2249
+  },
+  {
+    "user_id": "U0469",
+    "age": 64,
+    "height_cm": 178.8,
+    "weight_kg": 40.9,
+    "bmi": 12.8,
+    "activity_level": "sedentary",
+    "goal": "maintain",
+    "diseases": [
+      "hypertension",
+      "diabetes"
+    ],
+    "allergies": [],
+    "budget_per_day": 80000,
+    "preferred_tags": [
+      "western"
+    ],
+    "latent_taste_seed": 5544
+  },
+  {
+    "user_id": "U0470",
+    "age": 72,
+    "height_cm": 176.8,
+    "weight_kg": 56.2,
+    "bmi": 18.0,
+    "activity_level": "light",
+    "goal": "lose",
+    "diseases": [],
+    "allergies": [],
+    "budget_per_day": 150000,
+    "preferred_tags": [
+      "spicy",
+      "seafood",
+      "vietnamese"
+    ],
+    "latent_taste_seed": 3675
+  },
+  {
+    "user_id": "U0471",
+    "age": 19,
+    "height_cm": 155.2,
+    "weight_kg": 70.8,
+    "bmi": 29.4,
+    "activity_level": "light",
+    "goal": "maintain",
+    "diseases": [],
+    "allergies": [],
+    "budget_per_day": 100000,
+    "preferred_tags": [
+      "vietnamese",
+      "vegetarian"
+    ],
+    "latent_taste_seed": 1389
+  },
+  {
+    "user_id": "U0472",
+    "age": 75,
+    "height_cm": 147.0,
+    "weight_kg": 52.1,
+    "bmi": 24.1,
+    "activity_level": "light",
+    "goal": "maintain",
+    "diseases": [],
+    "allergies": [],
+    "budget_per_day": 140000,
+    "preferred_tags": [
+      "vietnamese",
+      "western",
+      "spicy"
+    ],
+    "latent_taste_seed": 2401
+  },
+  {
+    "user_id": "U0473",
+    "age": 38,
+    "height_cm": 151.7,
+    "weight_kg": 75.7,
+    "bmi": 32.9,
+    "activity_level": "moderate",
+    "goal": "gain",
+    "diseases": [
+      "diabetes"
+    ],
+    "allergies": [],
+    "budget_per_day": 190000,
+    "preferred_tags": [
+      "western",
+      "vegetarian"
+    ],
+    "latent_taste_seed": 2264
+  },
+  {
+    "user_id": "U0474",
+    "age": 69,
+    "height_cm": 187.5,
+    "weight_kg": 113.7,
+    "bmi": 32.3,
+    "activity_level": "light",
+    "goal": "lose",
+    "diseases": [],
+    "allergies": [],
+    "budget_per_day": 100000,
+    "preferred_tags": [
+      "vietnamese",
+      "seafood"
+    ],
+    "latent_taste_seed": 281
+  },
+  {
+    "user_id": "U0475",
+    "age": 41,
+    "height_cm": 170.1,
+    "weight_kg": 116.6,
+    "bmi": 40.3,
+    "activity_level": "high",
+    "goal": "maintain",
+    "diseases": [],
+    "allergies": [],
+    "budget_per_day": 260000,
+    "preferred_tags": [
+      "seafood"
+    ],
+    "latent_taste_seed": 1920
+  },
+  {
+    "user_id": "U0476",
+    "age": 62,
+    "height_cm": 176.7,
+    "weight_kg": 70.2,
+    "bmi": 22.5,
+    "activity_level": "sedentary",
+    "goal": "gain",
+    "diseases": [],
+    "allergies": [],
+    "budget_per_day": 210000,
+    "preferred_tags": [
+      "seafood",
+      "western"
+    ],
+    "latent_taste_seed": 7696
+  },
+  {
+    "user_id": "U0477",
+    "age": 65,
+    "height_cm": 151.3,
+    "weight_kg": 82.2,
+    "bmi": 35.9,
+    "activity_level": "high",
+    "goal": "maintain",
+    "diseases": [],
+    "allergies": [
+      "shellfish"
+    ],
+    "budget_per_day": 170000,
+    "preferred_tags": [
+      "spicy",
+      "vegetarian"
+    ],
+    "latent_taste_seed": 9372
+  },
+  {
+    "user_id": "U0478",
+    "age": 50,
+    "height_cm": 158.8,
+    "weight_kg": 58.2,
+    "bmi": 23.1,
+    "activity_level": "high",
+    "goal": "maintain",
+    "diseases": [
+      "hypertension"
+    ],
+    "allergies": [],
+    "budget_per_day": 100000,
+    "preferred_tags": [
+      "spicy",
+      "western",
+      "seafood"
+    ],
+    "latent_taste_seed": 6637
+  },
+  {
+    "user_id": "U0479",
+    "age": 70,
+    "height_cm": 162.1,
+    "weight_kg": 44.4,
+    "bmi": 16.9,
+    "activity_level": "light",
+    "goal": "maintain",
+    "diseases": [],
+    "allergies": [
+      "fish"
+    ],
+    "budget_per_day": 280000,
+    "preferred_tags": [
+      "western"
+    ],
+    "latent_taste_seed": 3305
+  },
+  {
+    "user_id": "U0480",
+    "age": 58,
+    "height_cm": 186.8,
+    "weight_kg": 59.2,
+    "bmi": 17.0,
+    "activity_level": "sedentary",
+    "goal": "lose",
+    "diseases": [
+      "hypertension"
+    ],
+    "allergies": [
+      "shellfish"
+    ],
+    "budget_per_day": 150000,
+    "preferred_tags": [
+      "vegetarian",
+      "seafood"
+    ],
+    "latent_taste_seed": 1595
+  },
+  {
+    "user_id": "U0481",
+    "age": 39,
+    "height_cm": 163.3,
+    "weight_kg": 99.3,
+    "bmi": 37.2,
+    "activity_level": "sedentary",
+    "goal": "gain",
+    "diseases": [
+      "hypertension"
+    ],
+    "allergies": [],
+    "budget_per_day": 240000,
+    "preferred_tags": [
+      "seafood"
+    ],
+    "latent_taste_seed": 2638
+  },
+  {
+    "user_id": "U0482",
+    "age": 50,
+    "height_cm": 168.2,
+    "weight_kg": 98.3,
+    "bmi": 34.7,
+    "activity_level": "moderate",
+    "goal": "gain",
+    "diseases": [],
+    "allergies": [],
+    "budget_per_day": 210000,
+    "preferred_tags": [
+      "seafood"
+    ],
+    "latent_taste_seed": 9288
+  },
+  {
+    "user_id": "U0483",
+    "age": 58,
+    "height_cm": 189.7,
+    "weight_kg": 47.8,
+    "bmi": 13.3,
+    "activity_level": "sedentary",
+    "goal": "lose",
+    "diseases": [],
+    "allergies": [],
+    "budget_per_day": 160000,
+    "preferred_tags": [
+      "seafood"
+    ],
+    "latent_taste_seed": 7548
+  },
+  {
+    "user_id": "U0484",
+    "age": 34,
+    "height_cm": 189.4,
+    "weight_kg": 118.3,
+    "bmi": 33.0,
+    "activity_level": "moderate",
+    "goal": "maintain",
+    "diseases": [],
+    "allergies": [],
+    "budget_per_day": 190000,
+    "preferred_tags": [
+      "vegetarian",
+      "western",
+      "vietnamese"
+    ],
+    "latent_taste_seed": 6769
+  },
+  {
+    "user_id": "U0485",
+    "age": 50,
+    "height_cm": 165.3,
+    "weight_kg": 110.2,
+    "bmi": 40.3,
+    "activity_level": "high",
+    "goal": "maintain",
+    "diseases": [
+      "diabetes"
+    ],
+    "allergies": [],
+    "budget_per_day": 130000,
+    "preferred_tags": [
+      "vietnamese",
+      "vegetarian"
+    ],
+    "latent_taste_seed": 7632
+  },
+  {
+    "user_id": "U0486",
+    "age": 47,
+    "height_cm": 173.9,
+    "weight_kg": 112.0,
+    "bmi": 37.0,
+    "activity_level": "light",
+    "goal": "maintain",
+    "diseases": [],
+    "allergies": [],
+    "budget_per_day": 180000,
+    "preferred_tags": [
+      "spicy",
+      "vietnamese"
+    ],
+    "latent_taste_seed": 8930
+  },
+  {
+    "user_id": "U0487",
+    "age": 27,
+    "height_cm": 187.7,
+    "weight_kg": 51.6,
+    "bmi": 14.6,
+    "activity_level": "sedentary",
+    "goal": "lose",
+    "diseases": [],
+    "allergies": [],
+    "budget_per_day": 170000,
+    "preferred_tags": [
+      "seafood",
+      "vietnamese"
+    ],
+    "latent_taste_seed": 2322
+  },
+  {
+    "user_id": "U0488",
+    "age": 22,
+    "height_cm": 157.3,
+    "weight_kg": 46.5,
+    "bmi": 18.8,
+    "activity_level": "moderate",
+    "goal": "maintain",
+    "diseases": [],
+    "allergies": [],
+    "budget_per_day": 290000,
+    "preferred_tags": [
+      "spicy",
+      "seafood"
+    ],
+    "latent_taste_seed": 7156
+  },
+  {
+    "user_id": "U0489",
+    "age": 40,
+    "height_cm": 186.1,
+    "weight_kg": 85.6,
+    "bmi": 24.7,
+    "activity_level": "moderate",
+    "goal": "lose",
+    "diseases": [],
+    "allergies": [],
+    "budget_per_day": 80000,
+    "preferred_tags": [
+      "seafood",
+      "spicy"
+    ],
+    "latent_taste_seed": 5184
+  },
+  {
+    "user_id": "U0490",
+    "age": 25,
+    "height_cm": 180.6,
+    "weight_kg": 93.9,
+    "bmi": 28.8,
+    "activity_level": "sedentary",
+    "goal": "lose",
+    "diseases": [],
+    "allergies": [],
+    "budget_per_day": 250000,
+    "preferred_tags": [
+      "spicy",
+      "seafood",
+      "western"
+    ],
+    "latent_taste_seed": 3436
+  },
+  {
+    "user_id": "U0491",
+    "age": 30,
+    "height_cm": 188.7,
+    "weight_kg": 86.1,
+    "bmi": 24.2,
+    "activity_level": "sedentary",
+    "goal": "gain",
+    "diseases": [
+      "hypertension"
+    ],
+    "allergies": [],
+    "budget_per_day": 200000,
+    "preferred_tags": [
+      "vietnamese",
+      "seafood"
+    ],
+    "latent_taste_seed": 7517
+  },
+  {
+    "user_id": "U0492",
+    "age": 45,
+    "height_cm": 161.8,
+    "weight_kg": 84.2,
+    "bmi": 32.2,
+    "activity_level": "sedentary",
+    "goal": "maintain",
+    "diseases": [],
+    "allergies": [],
+    "budget_per_day": 100000,
+    "preferred_tags": [
+      "western"
+    ],
+    "latent_taste_seed": 6738
+  },
+  {
+    "user_id": "U0493",
+    "age": 24,
+    "height_cm": 167.3,
+    "weight_kg": 100.1,
+    "bmi": 35.8,
+    "activity_level": "high",
+    "goal": "maintain",
+    "diseases": [
+      "gout"
+    ],
+    "allergies": [],
+    "budget_per_day": 110000,
+    "preferred_tags": [
+      "spicy",
+      "western"
+    ],
+    "latent_taste_seed": 124
+  },
+  {
+    "user_id": "U0494",
+    "age": 41,
+    "height_cm": 180.2,
+    "weight_kg": 80.6,
+    "bmi": 24.8,
+    "activity_level": "sedentary",
+    "goal": "lose",
+    "diseases": [],
+    "allergies": [
+      "peanut"
+    ],
+    "budget_per_day": 190000,
+    "preferred_tags": [
+      "western",
+      "vegetarian",
+      "seafood"
+    ],
+    "latent_taste_seed": 2792
+  },
+  {
+    "user_id": "U0495",
+    "age": 54,
+    "height_cm": 189.7,
+    "weight_kg": 59.3,
+    "bmi": 16.5,
+    "activity_level": "high",
+    "goal": "maintain",
+    "diseases": [],
+    "allergies": [],
+    "budget_per_day": 180000,
+    "preferred_tags": [
+      "seafood"
+    ],
+    "latent_taste_seed": 8261
+  },
+  {
+    "user_id": "U0496",
+    "age": 25,
+    "height_cm": 173.4,
+    "weight_kg": 102.7,
+    "bmi": 34.2,
+    "activity_level": "moderate",
+    "goal": "lose",
+    "diseases": [],
+    "allergies": [],
+    "budget_per_day": 280000,
+    "preferred_tags": [
+      "western"
+    ],
+    "latent_taste_seed": 6265
+  },
+  {
+    "user_id": "U0497",
+    "age": 19,
+    "height_cm": 178.4,
+    "weight_kg": 50.4,
+    "bmi": 15.8,
+    "activity_level": "light",
+    "goal": "lose",
+    "diseases": [],
+    "allergies": [],
+    "budget_per_day": 140000,
+    "preferred_tags": [
+      "vietnamese"
+    ],
+    "latent_taste_seed": 9492
+  },
+  {
+    "user_id": "U0498",
+    "age": 73,
+    "height_cm": 149.7,
+    "weight_kg": 76.7,
+    "bmi": 34.2,
+    "activity_level": "light",
+    "goal": "maintain",
+    "diseases": [],
+    "allergies": [],
+    "budget_per_day": 290000,
+    "preferred_tags": [
+      "seafood"
+    ],
+    "latent_taste_seed": 6879
+  },
+  {
+    "user_id": "U0499",
+    "age": 42,
+    "height_cm": 185.0,
+    "weight_kg": 90.7,
+    "bmi": 26.5,
+    "activity_level": "light",
+    "goal": "maintain",
+    "diseases": [],
+    "allergies": [],
+    "budget_per_day": 80000,
+    "preferred_tags": [
+      "vegetarian",
+      "vietnamese",
+      "spicy"
+    ],
+    "latent_taste_seed": 9930
+  },
+  {
+    "user_id": "U0500",
+    "age": 19,
+    "height_cm": 169.1,
+    "weight_kg": 81.4,
+    "bmi": 28.5,
+    "activity_level": "moderate",
+    "goal": "maintain",
+    "diseases": [
+      "gout"
+    ],
+    "allergies": [],
+    "budget_per_day": 240000,
+    "preferred_tags": [
+      "vegetarian",
+      "spicy",
+      "western"
+    ],
+    "latent_taste_seed": 8123
+  }
+]

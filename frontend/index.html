@@ -1,0 +1,226 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Meal Recommender - Gợi ý Thực đơn</title>
+    <link rel="stylesheet" href="/css/style.css">
+    <script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.0/dist/chart.umd.min.js" defer></script>
+</head>
+<body>
+    <header>
+        <div class="header-content">
+            <h1 id="appTitle">Hệ thống Gợi ý Thực đơn</h1>
+            <p id="appSubtitle">Gợi ý thực đơn 1 ngày phù hợp với sức khỏe của bạn</p>
+            <button id="langToggle" class="lang-btn" onclick="app.toggleLanguage()">English</button>
+        </div>
+    </header>
+
+    <main>
+        <!-- Wizard Form -->
+        <section id="profileWizard" class="wizard">
+            <div class="step-indicators">
+                <span class="step-dot active" data-step="1"></span>
+                <span class="step-dot" data-step="2"></span>
+                <span class="step-dot" data-step="3"></span>
+            </div>
+
+            <!-- Step 1: Body Profile -->
+            <div class="wizard-step active" id="step1">
+                <h2 id="step1Title">Hồ sơ cơ thể</h2>
+                <div class="form-grid">
+                    <div class="form-group">
+                        <label for="age" data-i18n="form.age">Tuổi</label>
+                        <input type="number" id="age" min="1" max="120" required placeholder="30">
+                        <span class="error-msg" id="age-error"></span>
+                    </div>
+                    <div class="form-group">
+                        <label for="sex" data-i18n="form.sex">Giới tính</label>
+                        <select id="sex">
+                            <option value="male" data-i18n="form.male">Nam</option>
+                            <option value="female" data-i18n="form.female">Nữ</option>
+                        </select>
+                    </div>
+                    <div class="form-group">
+                        <label for="height_cm" data-i18n="form.height">Chiều cao (cm)</label>
+                        <input type="number" id="height_cm" min="50" max="250" step="0.1" required placeholder="170">
+                        <span class="error-msg" id="height_cm-error"></span>
+                    </div>
+                    <div class="form-group">
+                        <label for="weight_kg" data-i18n="form.weight">Cân nặng (kg)</label>
+                        <input type="number" id="weight_kg" min="10" max="300" step="0.1" required placeholder="65">
+                        <span class="error-msg" id="weight_kg-error"></span>
+                    </div>
+                    <div class="form-group">
+                        <label for="activity_level" data-i18n="form.activity">Mức vận động</label>
+                        <select id="activity_level">
+                            <option value="sedentary" data-i18n="form.sedentary">Ít vận động</option>
+                            <option value="light" data-i18n="form.light">Vận động nhẹ</option>
+                            <option value="moderate" selected data-i18n="form.moderate">Vận động vừa</option>
+                            <option value="high" data-i18n="form.high">Vận động nhiều</option>
+                        </select>
+                    </div>
+                    <div class="form-group">
+                        <label for="goal" data-i18n="form.goal">Mục tiêu</label>
+                        <select id="goal">
+                            <option value="maintain" selected data-i18n="form.maintain">Duy trì cân nặng</option>
+                            <option value="lose" data-i18n="form.lose">Giảm cân</option>
+                            <option value="gain" data-i18n="form.gain">Tăng cân</option>
+                        </select>
+                    </div>
+                    <div class="form-group bmi-display">
+                        <label data-i18n="form.bmi">BMI</label>
+                        <span id="bmiValue" class="bmi-value">--</span>
+                    </div>
+                </div>
+                <div class="step-actions">
+                    <button class="btn btn-primary" onclick="app.nextStep()" data-i18n="buttons.next">Tiếp theo</button>
+                </div>
+            </div>
+
+            <!-- Step 2: Health & Allergies -->
+            <div class="wizard-step" id="step2">
+                <h2 id="step2Title">Sức khỏe & Dị ứng</h2>
+                <div class="disclaimer" data-i18n="form.disclaimer">
+                    Hệ thống không thay thế chẩn đoán hoặc chỉ định điều trị của chuyên gia y tế.
+                </div>
+                <div class="form-section">
+                    <h3 data-i18n="form.diseases">Bệnh lý</h3>
+                    <div class="checkbox-group">
+                        <label class="checkbox-label">
+                            <input type="checkbox" name="diseases" value="hypertension">
+                            <span data-i18n="form.hypertension">Tăng huyết áp</span>
+                        </label>
+                        <label class="checkbox-label">
+                            <input type="checkbox" name="diseases" value="diabetes">
+                            <span data-i18n="form.diabetes">Tiểu đường</span>
+                        </label>
+                        <label class="checkbox-label">
+                            <input type="checkbox" name="diseases" value="gout">
+                            <span data-i18n="form.gout">Gout</span>
+                        </label>
+                    </div>
+                </div>
+                <div class="form-section">
+                    <h3 data-i18n="form.allergies">Dị ứng</h3>
+                    <div class="checkbox-group">
+                        <label class="checkbox-label">
+                            <input type="checkbox" name="allergies" value="shellfish">
+                            <span data-i18n="form.shellfish">Hải sản</span>
+                        </label>
+                        <label class="checkbox-label">
+                            <input type="checkbox" name="allergies" value="peanut">
+                            <span data-i18n="form.peanut">Đậu phộng</span>
+                        </label>
+                        <label class="checkbox-label">
+                            <input type="checkbox" name="allergies" value="milk">
+                            <span data-i18n="form.milk">Sữa</span>
+                        </label>
+                        <label class="checkbox-label">
+                            <input type="checkbox" name="allergies" value="egg">
+                            <span data-i18n="form.egg">Trứng</span>
+                        </label>
+                        <label class="checkbox-label">
+                            <input type="checkbox" name="allergies" value="soy">
+                            <span data-i18n="form.soy">Đậu nành</span>
+                        </label>
+                        <label class="checkbox-label">
+                            <input type="checkbox" name="allergies" value="wheat">
+                            <span data-i18n="form.wheat">Lúa mì</span>
+                        </label>
+                        <label class="checkbox-label">
+                            <input type="checkbox" name="allergies" value="fish">
+                            <span data-i18n="form.fish">Cá</span>
+                        </label>
+                    </div>
+                </div>
+                <div class="form-group">
+                    <label for="disliked_ingredients" data-i18n="form.disliked_ingredients">Nguyên liệu không thích</label>
+                    <input type="text" id="disliked_ingredients" placeholder="celery, onion, garlic...">
+                </div>
+                <div class="step-actions">
+                    <button class="btn btn-secondary" onclick="app.prevStep()" data-i18n="buttons.back">Quay lại</button>
+                    <button class="btn btn-primary" onclick="app.nextStep()" data-i18n="buttons.next">Tiếp theo</button>
+                </div>
+            </div>
+
+            <!-- Step 3: Preferences & Budget -->
+            <div class="wizard-step" id="step3">
+                <h2 id="step3Title">Sở thích & Ngân sách</h2>
+                <div class="form-group">
+                    <label for="preferred_tags" data-i18n="form.preferred_tags">Sở thích ẩm thực</label>
+                    <div class="tag-chips" id="tagChips">
+                        <span class="chip" data-tag="vietnamese">Vietnamese</span>
+                        <span class="chip" data-tag="vegetarian">Vegetarian</span>
+                        <span class="chip" data-tag="seafood">Seafood</span>
+                        <span class="chip" data-tag="spicy">Spicy</span>
+                        <span class="chip" data-tag="western">Western</span>
+                        <span class="chip" data-tag="low_calorie">Low Calorie</span>
+                        <span class="chip" data-tag="high_protein">High Protein</span>
+                    </div>
+                </div>
+                <div class="form-group">
+                    <label for="budget_per_day" data-i18n="form.budget">Ngân sách/ngày (VNĐ)</label>
+                    <input type="number" id="budget_per_day" min="0" step="10000" placeholder="150000">
+                </div>
+                <div class="step-actions">
+                    <button class="btn btn-secondary" onclick="app.prevStep()" data-i18n="buttons.back">Quay lại</button>
+                    <button class="btn btn-primary btn-generate" onclick="app.generate()" data-i18n="buttons.generate">Tạo thực đơn</button>
+                </div>
+            </div>
+        </section>
+
+        <!-- Loading -->
+        <section id="loadingSection" class="hidden">
+            <div class="loading-spinner"></div>
+            <p id="loadingText" data-i18n="loading">Đang tạo thực đơn...</p>
+        </section>
+
+        <!-- Error -->
+        <section id="errorSection" class="hidden">
+            <div class="error-card">
+                <h3 id="errorTitle">Lỗi</h3>
+                <p id="errorMessage"></p>
+                <button class="btn btn-secondary" onclick="app.showWizard()" data-i18n="buttons.back">Quay lại</button>
+            </div>
+        </section>
+
+        <!-- Results -->
+        <section id="resultPage" class="hidden">
+            <div class="result-header">
+                <h2 id="resultTitle" data-i18n="result.title">Thực đơn hôm nay</h2>
+                <div class="result-meta">
+                    <span id="ruleVersion"></span>
+                    <span id="modelVersion"></span>
+                </div>
+                <button class="btn btn-secondary" onclick="app.showWizard()" data-i18n="buttons.new_plan">Tạo mới</button>
+            </div>
+
+            <!-- Daily Summary -->
+            <div id="dailySummary" class="summary-card">
+                <h3 data-i18n="result.nutrition_summary">Tổng hợp dinh dưỡng</h3>
+                <div class="summary-grid" id="summaryGrid"></div>
+                <div class="constraint-status" id="constraintStatus"></div>
+            </div>
+
+            <!-- Nutrient Chart -->
+            <div class="chart-container">
+                <canvas id="nutrientChart"></canvas>
+            </div>
+
+            <!-- Meal Cards -->
+            <div class="meals-grid" id="mealsGrid"></div>
+        </section>
+    </main>
+
+    <footer>
+        <p>&copy; 2026 Meal Recommender | <span data-i18n="form.disclaimer">Không thay thế chẩn đoán y tế.</span></p>
+    </footer>
+
+    <script src="/js/api.js"></script>
+    <script src="/js/form.js"></script>
+    <script src="/js/result.js"></script>
+    <script src="/js/charts.js"></script>
+    <script src="/js/app.js"></script>
+</body>
+</html>

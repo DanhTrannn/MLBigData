@@ -1,0 +1,43 @@
+version: "2026-01"
+
+users:
+  count: 500
+  seed: 42
+  age_range: [18, 75]
+  height_cm_range: [145, 190]
+  weight_kg_range: [40, 120]
+  activity_distribution:
+    sedentary: 0.30
+    light: 0.35
+    moderate: 0.25
+    high: 0.10
+  goal_distribution:
+    maintain: 0.50
+    lose: 0.30
+    gain: 0.20
+  disease_prevalence:
+    hypertension: 0.25
+    diabetes: 0.15
+    gout: 0.08
+  comorbidity_correlation: 0.3
+  allergy_prevalence:
+    shellfish: 0.05
+    peanut: 0.03
+    milk: 0.04
+    egg: 0.02
+    soy: 0.02
+    wheat: 0.01
+    fish: 0.03
+  budget_range_vnd: [80000, 300000]
+
+interactions:
+  min_per_user: 5
+  max_per_user: 30
+  noise_std: 0.5
+  event_distribution:
+    rating: 0.40
+    like: 0.25
+    eaten: 0.20
+    dislike: 0.10
+    swap: 0.05
+  hard_rule_violation_policy: "no_positive_signal"
