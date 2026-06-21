@@ -98,7 +98,6 @@ Pipfile.lock
 *.tmp
 *.temp
 
-models/
 artifacts/
 checkpoints/
 outputs/
